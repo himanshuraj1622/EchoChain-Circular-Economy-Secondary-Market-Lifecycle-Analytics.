@@ -1,0 +1,1001 @@
+product_id,brand,product_model,product_category,release_year,launch_date,manufacture_date,original_price_inr,product_weight_kg,recoverable_material_weight_kg,warranty_period_months,ram_gb,storage_gb,processor_family,screen_size_inch,operating_system,lifecycle_status
+EC-P00001,HP,EliteBook A 2026 Gen 2 Config 1,Business Laptop,2026,2026-10-01,2026-04-26,69500,1.87,1.35,36,8,2048,Intel Core i7,17.3,Windows,Active
+EC-P00002,Microsoft,Surface Pro X 2022 Gen 3 Config 1,Laptop,2022,2022-07-04,2022-03-20,82500,2.33,1.74,12,32,512,Intel Core i7,15.6,Windows,Resold
+EC-P00003,Razer,Blade 15 X 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-04-28,2021-03-19,144000,2.35,1.73,12,32,512,Intel Core i5,17.3,Windows,Active
+EC-P00004,Samsung,Galaxy Book Pro E 2022 Gen 3 Config 1,Business Laptop,2022,2022-04-22,2022-01-14,60000,1.91,1.4,36,16,512,AMD Ryzen 9,13.3,Windows,Resold
+EC-P00005,Dell,Inspiron E 2021 Gen 4 Config 1,Ultrabook,2021,2021-03-09,2021-01-18,137500,2.09,1.8,24,32,512,Intel Core i5,17.3,Windows,Active
+EC-P00006,Microsoft,Surface Pro 14 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-11-14,2026-05-31,185000,2.19,1.56,12,64,256,AMD Ryzen 5,14.0,Windows,Active
+EC-P00007,MSI,Katana S 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-09-25,2024-07-27,134000,1.89,1.46,24,32,1024,Intel Core i5,13.3,Windows,Active
+EC-P00008,HP,Pavilion S 2026 Gen 2 Config 1,Business Laptop,2026,2026-04-02,2026-01-16,81000,1.86,1.61,24,8,1024,Intel Core i9,17.3,Windows,Resold
+EC-P00009,HP,EliteBook X 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-12-23,2026-10-18,180000,2.14,1.87,36,16,1024,Intel Core i7,16.0,Windows,Refurbished
+EC-P00010,MSI,Katana E 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-02-23,2025-08-31,119000,2.0,1.6,12,8,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00011,HP,EliteBook 500 2023 Gen 2 Config 1,Ultrabook,2023,2023-11-14,2023-08-01,118500,2.34,1.68,12,16,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00012,Samsung,Galaxy Book 15 2026 Gen 1 Config 1,Laptop,2026,2026-05-15,2026-02-26,61500,1.95,1.38,12,16,512,AMD Ryzen 5,13.3,Windows,Resold
+EC-P00013,HP,ZBook 500 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-03-13,2025-02-26,170000,1.8,1.37,12,16,2048,Intel Core i5,14.0,ChromeOS,Recycled
+EC-P00014,ASUS,TUF G 2023 Gen 4 Config 1,Business Laptop,2023,2023-03-02,2022-10-08,52500,1.66,1.29,36,8,1024,Intel Core i7,13.3,Windows,Active
+EC-P00015,Lenovo,ThinkPad 500 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-04-22,2025-01-17,115500,2.77,2.17,24,16,256,Intel Core i5,17.3,ChromeOS,Active
+EC-P00016,MSI,Modern 15 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-03-12,2026-02-08,170000,2.62,1.89,24,8,2048,Intel Core i9,13.3,ChromeOS,Resold
+EC-P00017,Apple,MacBook Pro X 2022 Gen 3 Config 1,Workstation Laptop,2022,2022-03-09,2021-12-12,185000,1.79,1.54,36,32,256,Apple M3,13.3,macOS,Returned
+EC-P00018,Apple,MacBook Air 15 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-03-21,2025-12-29,159500,2.24,1.54,24,8,256,Apple M2,15.3,macOS,Active
+EC-P00019,Samsung,Galaxy Book Pro 300 2025 Gen 1 Config 1,Laptop,2025,2025-05-12,2025-04-17,87000,2.18,1.67,12,8,1024,AMD Ryzen 9,17.3,ChromeOS,Resold
+EC-P00020,Acer,Swift 500 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-12-11,2026-08-13,185000,1.78,1.36,12,16,512,AMD Ryzen 5,14.0,ChromeOS,Resold
+EC-P00021,Acer,TravelMate 500 2022 Gen 4 Config 1,Laptop,2022,2022-11-07,2022-07-13,131500,2.26,1.64,12,32,1024,AMD Ryzen 5,16.0,Windows,Active
+EC-P00022,HP,Pavilion 15 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-12-26,2023-09-22,154000,1.65,1.32,24,32,512,Intel Core i9,13.3,ChromeOS,Active
+EC-P00023,Microsoft,Surface Laptop 14 2024 Gen 2 Config 1,Ultrabook,2024,2024-06-22,2024-05-07,99000,2.2,1.9,36,16,1024,Intel Core i5,13.3,Windows,Refurbished
+EC-P00024,ASUS,ExpertBook G 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-07-18,2026-07-03,170500,2.92,2.35,24,16,2048,AMD Ryzen 9,14.0,Windows,Active
+EC-P00025,Acer,Nitro 14 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-04-22,2025-01-18,180500,2.56,2.06,12,64,512,AMD Ryzen 5,14.0,Windows,Active
+EC-P00026,Acer,Swift 300 2021 Gen 2 Config 1,Gaming Laptop,2021,2021-04-05,2021-03-20,259000,2.72,2.06,24,64,2048,AMD Ryzen 7,13.3,Windows,Resold
+EC-P00027,HP,ZBook 700 2022 Gen 4 Config 1,Laptop,2022,2022-10-11,2022-06-05,159500,1.91,1.5,36,64,512,AMD Ryzen 7,13.3,Windows,Returned
+EC-P00028,Microsoft,Surface Pro X 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-06-11,2025-01-09,178000,2.23,1.64,24,32,2048,AMD Ryzen 5,14.0,Windows,Active
+EC-P00029,Lenovo,IdeaPad 700 2024 Gen 2 Config 1,Laptop,2024,2024-12-01,2024-06-22,138500,1.98,1.51,36,64,2048,AMD Ryzen 5,17.3,Windows,Active
+EC-P00030,Dell,Vostro G 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-11-22,2023-07-27,139000,2.11,1.45,24,16,2048,AMD Ryzen 9,17.3,Windows,Refurbished
+EC-P00031,Samsung,Galaxy Book S 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-06-11,2025-02-19,131500,2.23,1.66,24,8,2048,AMD Ryzen 7,13.3,Windows,Active
+EC-P00032,MSI,Prestige X 2021 Gen 1 Config 1,Workstation Laptop,2021,2021-04-27,2021-04-07,168500,1.78,1.22,12,16,256,Intel Core i5,15.6,ChromeOS,Returned
+EC-P00033,Acer,Swift 15 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-05-04,2023-11-23,178000,2.34,1.93,12,32,512,Intel Core i7,15.6,Windows,Active
+EC-P00034,ASUS,TUF 900 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-01-12,2023-08-14,179500,2.03,1.43,36,8,1024,AMD Ryzen 9,14.0,Windows,Active
+EC-P00035,Apple,MacBook Air 15 2025 Gen 3 Config 1,Laptop,2025,2025-07-06,2025-02-08,116000,2.17,1.84,12,8,2048,Apple M2,16.2,macOS,Recycled
+EC-P00036,ASUS,TUF G 2024 Gen 3 Config 1,Ultrabook,2024,2024-06-01,2024-01-12,146500,1.91,1.53,24,32,2048,Intel Core i7,13.3,Windows,Resold
+EC-P00037,Lenovo,Yoga E 2022 Gen 3 Config 1,Ultrabook,2022,2022-12-16,2022-06-19,63000,2.19,1.7,12,8,512,Intel Core i9,15.6,Windows,Refurbished
+EC-P00038,Samsung,Galaxy Book A 2021 Gen 2 Config 1,Gaming Laptop,2021,2021-12-15,2021-09-22,192000,2.96,2.34,24,32,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00039,Acer,Aspire 900 2026 Gen 3 Config 1,Laptop,2026,2026-10-10,2026-08-31,97500,1.96,1.62,36,16,512,AMD Ryzen 9,14.0,Windows,Resold
+EC-P00040,ASUS,ZenBook 700 2023 Gen 3 Config 1,Laptop,2023,2023-02-28,2023-02-10,71500,1.93,1.68,24,8,256,AMD Ryzen 9,15.6,Windows,Active
+EC-P00041,Samsung,Galaxy Book Pro E 2024 Gen 2 Config 1,Laptop,2024,2024-03-05,2023-09-28,61500,2.08,1.65,12,8,256,Intel Core i9,16.0,ChromeOS,Resold
+EC-P00042,HP,ProBook S 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-05-19,2020-11-27,253000,1.85,1.48,24,64,2048,AMD Ryzen 7,14.0,Windows,Active
+EC-P00043,HP,ProBook 900 2026 Gen 3 Config 1,Laptop,2026,2026-05-02,2026-02-17,40000,2.1,1.72,24,8,512,Intel Core i7,17.3,Windows,Active
+EC-P00044,ASUS,TUF 15 2021 Gen 2 Config 1,Ultrabook,2021,2021-02-02,2020-12-07,155500,2.06,1.78,12,64,256,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00045,Razer,Blade 15 500 2024 Gen 4 Config 1,Ultrabook,2024,2024-10-09,2024-09-18,169500,1.78,1.36,24,64,2048,AMD Ryzen 9,15.6,Windows,Active
+EC-P00046,Razer,Blade 14 A 2026 Gen 1 Config 1,Business Laptop,2026,2026-08-12,2026-04-15,107000,2.04,1.72,12,32,512,AMD Ryzen 5,16.0,Windows,Active
+EC-P00047,HP,ProBook G 2023 Gen 4 Config 1,Ultrabook,2023,2023-09-27,2023-09-12,93500,2.0,1.41,24,8,2048,AMD Ryzen 9,17.3,ChromeOS,Returned
+EC-P00048,Microsoft,Surface Pro 300 2024 Gen 2 Config 1,Workstation Laptop,2024,2024-12-16,2024-10-31,163000,2.11,1.83,24,64,256,Intel Core i9,16.0,Windows,Active
+EC-P00049,Razer,Blade 14 700 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-09-23,2026-07-01,112500,2.02,1.44,24,16,256,Intel Core i5,13.3,Windows,Active
+EC-P00050,Samsung,Galaxy Book Pro X 2022 Gen 2 Config 1,Gaming Laptop,2022,2022-05-27,2022-05-12,138500,2.9,2.51,36,16,256,Intel Core i7,17.3,ChromeOS,Active
+EC-P00051,ASUS,TUF X 2022 Gen 4 Config 1,Ultrabook,2022,2022-04-28,2021-12-29,171500,2.44,1.78,24,64,2048,Intel Core i9,17.3,Windows,Active
+EC-P00052,Samsung,Galaxy Book Pro 15 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-07-28,2024-06-04,175000,2.76,1.89,12,32,256,Intel Core i5,17.3,Windows,Active
+EC-P00053,ASUS,ExpertBook G 2025 Gen 1 Config 1,Ultrabook,2025,2025-04-24,2025-03-17,181000,1.8,1.25,24,32,2048,AMD Ryzen 9,16.0,Windows,Active
+EC-P00054,HP,EliteBook 700 2024 Gen 3 Config 1,Laptop,2024,2024-10-22,2024-08-22,102000,1.89,1.38,24,32,1024,Intel Core i5,13.3,Windows,Active
+EC-P00055,HP,ZBook 15 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-03-03,2024-10-26,181500,2.58,2.22,36,32,2048,AMD Ryzen 7,16.0,Windows,Resold
+EC-P00056,Razer,Blade 15 G 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-01-27,2025-10-03,167500,2.79,2.45,24,64,256,Intel Core i9,16.0,Windows,Active
+EC-P00057,Razer,Blade 14 X 2025 Gen 3 Config 1,Business Laptop,2025,2025-11-04,2025-05-13,103000,2.12,1.77,12,16,1024,AMD Ryzen 7,14.0,Windows,Returned
+EC-P00058,ASUS,TUF 14 2021 Gen 3 Config 1,Business Laptop,2021,2021-09-17,2021-06-25,120000,1.84,1.45,24,64,512,Intel Core i5,15.6,ChromeOS,Resold
+EC-P00059,ASUS,TUF E 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-11-24,2023-09-03,199000,2.4,1.69,24,64,1024,Intel Core i5,14.0,Windows,Active
+EC-P00060,Apple,MacBook Air 900 2026 Gen 4 Config 1,Laptop,2026,2026-11-14,2026-10-01,111000,2.24,1.93,24,16,256,Apple M3,15.3,macOS,Active
+EC-P00061,Dell,Vostro 500 2024 Gen 1 Config 1,Business Laptop,2024,2024-11-04,2024-06-17,134500,2.23,1.59,24,32,2048,AMD Ryzen 7,16.0,Windows,Returned
+EC-P00062,ASUS,VivoBook E 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-08-03,2026-05-26,152000,2.54,1.82,12,8,1024,AMD Ryzen 5,15.6,ChromeOS,Returned
+EC-P00063,Razer,Blade 14 E 2021 Gen 2 Config 1,Business Laptop,2021,2021-10-01,2021-07-08,102500,2.37,1.77,12,16,512,AMD Ryzen 7,17.3,Windows,Resold
+EC-P00064,Lenovo,IdeaPad A 2025 Gen 2 Config 1,Laptop,2025,2025-03-09,2025-02-09,100500,2.14,1.71,12,8,1024,AMD Ryzen 9,14.0,Windows,Active
+EC-P00065,MSI,Katana 500 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-08-21,2021-07-30,175000,2.92,2.37,24,64,512,Intel Core i9,13.3,Windows,Active
+EC-P00066,Samsung,Galaxy Book Pro 15 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-12-11,2024-08-21,123500,2.17,1.75,36,8,1024,AMD Ryzen 9,13.3,ChromeOS,Recycled
+EC-P00067,Microsoft,Surface Pro S 2024 Gen 4 Config 1,Laptop,2024,2024-07-14,2024-06-05,106500,2.38,1.82,24,16,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00068,Apple,MacBook Pro 700 2023 Gen 4 Config 1,Laptop,2023,2023-09-02,2023-03-21,98500,2.08,1.57,12,8,2048,Apple M1,13.3,macOS,Recycled
+EC-P00069,Microsoft,Surface Pro 500 2026 Gen 4 Config 1,Ultrabook,2026,2026-03-22,2025-11-04,108500,1.99,1.58,12,8,1024,AMD Ryzen 9,16.0,ChromeOS,Active
+EC-P00070,HP,Pavilion E 2025 Gen 1 Config 1,Ultrabook,2025,2025-06-01,2025-04-01,66500,1.94,1.62,24,8,1024,AMD Ryzen 7,16.0,Windows,Resold
+EC-P00071,Razer,Blade 15 700 2021 Gen 1 Config 1,Laptop,2021,2021-10-20,2021-09-14,157000,1.87,1.39,24,64,2048,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00072,Lenovo,IdeaPad 300 2025 Gen 1 Config 1,Ultrabook,2025,2025-02-10,2024-08-28,169500,2.23,1.57,24,64,2048,AMD Ryzen 5,16.0,Windows,Active
+EC-P00073,ASUS,VivoBook G 2022 Gen 1 Config 1,Laptop,2022,2022-03-05,2021-11-13,77500,1.87,1.27,24,16,1024,Intel Core i7,14.0,Windows,Active
+EC-P00074,Acer,TravelMate G 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-06-06,2020-12-15,185000,2.64,1.86,12,32,2048,Intel Core i5,13.3,Windows,Active
+EC-P00075,Apple,MacBook Air 500 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-09-21,2024-08-08,194500,2.71,2.27,12,8,2048,Apple M3,16.2,macOS,Active
+EC-P00076,Acer,TravelMate 15 2023 Gen 2 Config 1,Business Laptop,2023,2023-08-25,2023-03-19,99000,2.13,1.48,24,16,512,Intel Core i5,14.0,Windows,Refurbished
+EC-P00077,Samsung,Galaxy Book Pro E 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-05-03,2025-11-04,145000,2.41,1.66,24,32,256,Intel Core i5,15.6,Windows,Resold
+EC-P00078,HP,ZBook 14 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-09-21,2024-07-24,165500,2.66,1.99,12,64,512,AMD Ryzen 7,15.6,Windows,Active
+EC-P00079,Samsung,Galaxy Book Pro S 2025 Gen 2 Config 1,Ultrabook,2025,2025-02-11,2025-01-03,190000,1.81,1.46,24,64,1024,Intel Core i9,16.0,ChromeOS,Active
+EC-P00080,MSI,Prestige 15 2023 Gen 2 Config 1,Ultrabook,2023,2023-05-18,2023-01-27,153500,2.07,1.46,12,32,1024,Intel Core i5,14.0,Windows,Returned
+EC-P00081,Apple,MacBook Air 15 2026 Gen 1 Config 1,Gaming Laptop,2026,2026-04-05,2026-02-10,131000,2.85,2.37,12,8,1024,Apple M3,15.3,macOS,Active
+EC-P00082,HP,EliteBook E 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-10-10,2026-06-03,136500,1.89,1.56,24,16,2048,AMD Ryzen 5,14.0,Windows,Active
+EC-P00083,Acer,TravelMate 900 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-01-21,2023-09-05,228500,1.88,1.51,24,64,2048,AMD Ryzen 5,15.6,Windows,Resold
+EC-P00084,Microsoft,Surface Laptop S 2026 Gen 1 Config 1,Ultrabook,2026,2026-06-01,2026-01-31,185500,1.81,1.56,24,64,512,Intel Core i5,15.6,Windows,Active
+EC-P00085,Microsoft,Surface Pro G 2022 Gen 1 Config 1,Ultrabook,2022,2022-12-16,2022-08-09,88500,1.8,1.52,12,32,512,Intel Core i7,13.3,Windows,Returned
+EC-P00086,HP,EliteBook 900 2023 Gen 2 Config 1,Workstation Laptop,2023,2023-08-03,2023-06-21,114000,1.85,1.35,36,8,1024,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00087,Samsung,Galaxy Book S 2026 Gen 2 Config 1,Business Laptop,2026,2026-09-12,2026-08-11,106000,2.1,1.71,12,32,512,Intel Core i9,17.3,Windows,Recycled
+EC-P00088,Microsoft,Surface Laptop X 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-03-02,2023-11-18,127000,2.77,2.31,24,32,256,Intel Core i9,13.3,Windows,Active
+EC-P00089,Lenovo,Yoga X 2026 Gen 2 Config 1,Business Laptop,2026,2026-06-10,2026-01-15,62000,1.81,1.3,12,8,1024,Intel Core i5,16.0,Windows,Active
+EC-P00090,Microsoft,Surface Pro 300 2023 Gen 2 Config 1,Ultrabook,2023,2023-07-11,2023-05-10,108000,1.89,1.44,24,32,1024,Intel Core i9,13.3,Windows,Active
+EC-P00091,Samsung,Galaxy Book Pro A 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-03-23,2024-11-15,114500,2.38,1.83,24,32,1024,Intel Core i5,14.0,Windows,Active
+EC-P00092,Dell,Vostro G 2025 Gen 3 Config 1,Laptop,2025,2025-01-05,2024-12-04,70500,1.87,1.5,24,32,512,Intel Core i5,16.0,Windows,Active
+EC-P00093,Apple,MacBook Pro 14 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-07-11,2024-04-16,211500,1.84,1.3,24,32,1024,Apple M1,16.2,macOS,Active
+EC-P00094,HP,EliteBook 700 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-04-04,2026-02-14,183000,1.76,1.41,24,32,1024,AMD Ryzen 5,13.3,ChromeOS,Resold
+EC-P00095,Samsung,Galaxy Book X 2026 Gen 1 Config 1,Ultrabook,2026,2026-06-17,2026-04-06,148500,2.06,1.78,12,32,1024,AMD Ryzen 9,13.3,Windows,Active
+EC-P00096,Acer,Swift X 2022 Gen 1 Config 1,Ultrabook,2022,2022-09-14,2022-05-18,69000,2.02,1.66,24,16,256,AMD Ryzen 7,16.0,Windows,Resold
+EC-P00097,HP,ProBook 15 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-09-05,2023-06-05,133000,2.87,1.98,12,16,512,AMD Ryzen 5,15.6,Windows,Active
+EC-P00098,Apple,MacBook Air S 2023 Gen 3 Config 1,Laptop,2023,2023-11-06,2023-05-24,134500,1.86,1.46,36,32,512,Apple M2,14.2,macOS,Resold
+EC-P00099,Lenovo,IdeaPad 14 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-07-20,2026-01-23,157500,1.98,1.6,36,8,256,Intel Core i5,13.3,Windows,Active
+EC-P00100,Microsoft,Surface Pro A 2026 Gen 4 Config 1,Business Laptop,2026,2026-06-20,2026-04-30,45500,2.04,1.58,12,8,256,AMD Ryzen 9,16.0,Windows,Active
+EC-P00101,Apple,MacBook Pro 700 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-01-10,2023-09-19,162000,1.79,1.31,12,32,512,Apple M3,13.3,macOS,Resold
+EC-P00102,MSI,Modern E 2022 Gen 3 Config 1,Business Laptop,2022,2022-09-15,2022-07-01,192000,2.04,1.4,24,64,2048,Intel Core i7,17.3,Windows,Active
+EC-P00103,Apple,MacBook Air A 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-07-12,2021-06-16,181500,2.05,1.76,24,32,256,Apple M3,16.2,macOS,Active
+EC-P00104,Razer,Blade 14 S 2023 Gen 3 Config 1,Laptop,2023,2023-09-12,2023-07-23,72000,2.44,1.85,24,32,256,AMD Ryzen 5,17.3,Windows,Active
+EC-P00105,Microsoft,Surface Pro 300 2025 Gen 1 Config 1,Laptop,2025,2025-06-06,2025-02-11,146500,2.32,1.64,36,64,512,Intel Core i7,16.0,Windows,Recycled
+EC-P00106,ASUS,ExpertBook S 2025 Gen 4 Config 1,Workstation Laptop,2025,2025-10-16,2025-07-26,159000,2.22,1.77,12,32,1024,Intel Core i9,13.3,Windows,Recycled
+EC-P00107,Razer,Blade 14 300 2026 Gen 4 Config 1,Business Laptop,2026,2026-04-01,2025-11-25,160500,2.26,1.55,12,64,512,AMD Ryzen 7,17.3,Windows,Active
+EC-P00108,Lenovo,Yoga 900 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-06-06,2026-01-25,137500,2.23,1.73,24,16,512,AMD Ryzen 7,13.3,ChromeOS,Resold
+EC-P00109,Apple,MacBook Pro 15 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-05-23,2026-03-16,169500,1.82,1.59,24,16,1024,Apple M2,14.2,macOS,Refurbished
+EC-P00110,Samsung,Galaxy Book Pro E 2024 Gen 3 Config 1,Ultrabook,2024,2024-01-10,2023-12-06,209500,2.42,2.04,24,64,2048,Intel Core i5,17.3,Windows,Active
+EC-P00111,Samsung,Galaxy Book Pro X 2026 Gen 2 Config 1,Business Laptop,2026,2026-01-22,2025-08-25,75500,2.22,1.77,12,32,512,AMD Ryzen 7,17.3,Windows,Active
+EC-P00112,Acer,Aspire G 2021 Gen 3 Config 1,Gaming Laptop,2021,2021-05-11,2021-02-12,134000,3.06,2.37,12,8,512,Intel Core i5,14.0,Windows,Returned
+EC-P00113,HP,ProBook 300 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-05-19,2024-12-01,221000,3.07,2.63,12,64,2048,Intel Core i7,13.3,ChromeOS,Active
+EC-P00114,Apple,MacBook Pro 15 2024 Gen 4 Config 1,Business Laptop,2024,2024-11-09,2024-09-08,146500,1.86,1.33,24,32,512,Apple M3,16.2,macOS,Active
+EC-P00115,Apple,MacBook Pro 15 2025 Gen 2 Config 1,Business Laptop,2025,2025-08-11,2025-05-25,146500,2.03,1.42,12,64,1024,Apple M3,16.2,macOS,Active
+EC-P00116,MSI,Modern A 2024 Gen 3 Config 1,Ultrabook,2024,2024-03-13,2023-10-22,141000,1.67,1.18,24,32,1024,AMD Ryzen 7,13.3,Windows,Resold
+EC-P00117,ASUS,VivoBook A 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-08-25,2026-03-26,215500,2.26,1.71,36,64,512,Intel Core i7,14.0,Windows,Resold
+EC-P00118,Acer,Swift 14 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-09-05,2026-07-10,123500,2.09,1.63,36,8,256,AMD Ryzen 5,15.6,Windows,Active
+EC-P00119,Microsoft,Surface Pro 15 2021 Gen 2 Config 1,Workstation Laptop,2021,2021-09-15,2021-06-14,170500,2.16,1.67,12,64,256,AMD Ryzen 5,17.3,Windows,Refurbished
+EC-P00120,MSI,Prestige 900 2021 Gen 1 Config 1,Laptop,2021,2021-11-24,2021-05-28,66000,1.65,1.26,12,8,256,AMD Ryzen 5,13.3,Windows,Recycled
+EC-P00121,Apple,MacBook Pro G 2024 Gen 4 Config 1,Laptop,2024,2024-12-08,2024-11-23,100500,2.28,1.73,12,32,256,Apple M3,14.2,macOS,Refurbished
+EC-P00122,ASUS,TUF S 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-01-26,2025-09-26,174500,1.78,1.52,12,64,1024,AMD Ryzen 5,14.0,Windows,Returned
+EC-P00123,Dell,Inspiron 500 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-03-17,2021-12-18,129500,1.77,1.28,12,16,256,Intel Core i5,13.3,Windows,Active
+EC-P00124,Razer,Blade 15 14 2025 Gen 3 Config 1,Business Laptop,2025,2025-12-06,2025-06-14,96500,2.02,1.6,36,16,2048,Intel Core i9,17.3,Windows,Returned
+EC-P00125,Microsoft,Surface Pro E 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-05-28,2021-04-07,125000,2.23,1.73,12,16,1024,Intel Core i9,16.0,Windows,Resold
+EC-P00126,Dell,Precision S 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-07-22,2024-02-04,172000,2.56,1.84,24,8,2048,Intel Core i7,15.6,Windows,Returned
+EC-P00127,HP,ProBook 15 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-04-23,2024-11-05,115000,2.75,2.42,24,32,256,Intel Core i7,15.6,Windows,Refurbished
+EC-P00128,MSI,Modern E 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-06-07,2025-02-18,160000,2.89,2.43,24,32,1024,AMD Ryzen 5,15.6,Windows,Active
+EC-P00129,Dell,Inspiron 700 2026 Gen 1 Config 1,Ultrabook,2026,2026-08-18,2026-05-09,142500,2.05,1.55,12,64,1024,AMD Ryzen 7,17.3,ChromeOS,Active
+EC-P00130,Samsung,Galaxy Book Pro 700 2024 Gen 3 Config 1,Business Laptop,2024,2024-01-14,2023-11-25,79000,1.8,1.53,12,16,256,Intel Core i7,16.0,Windows,Resold
+EC-P00131,Acer,Aspire 700 2026 Gen 1 Config 1,Business Laptop,2026,2026-01-17,2025-10-24,135500,1.64,1.3,12,64,2048,AMD Ryzen 7,13.3,Windows,Active
+EC-P00132,ASUS,VivoBook 15 2025 Gen 4 Config 1,Business Laptop,2025,2025-05-26,2025-01-30,62000,2.22,1.62,24,16,512,Intel Core i5,17.3,ChromeOS,Active
+EC-P00133,MSI,Prestige 900 2025 Gen 2 Config 1,Ultrabook,2025,2025-12-06,2025-10-31,84000,1.86,1.44,12,8,256,AMD Ryzen 9,13.3,Windows,Active
+EC-P00134,MSI,Katana 14 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-10-22,2023-09-29,154000,2.26,1.66,36,64,1024,Intel Core i5,17.3,Windows,Active
+EC-P00135,Apple,MacBook Air 14 2022 Gen 2 Config 1,Gaming Laptop,2022,2022-12-05,2022-10-31,191000,2.97,2.34,24,16,512,Apple M1,15.3,macOS,Active
+EC-P00136,Apple,MacBook Air G 2021 Gen 2 Config 1,Laptop,2021,2021-04-12,2020-11-07,130500,1.95,1.71,24,32,256,Apple M2,16.2,macOS,Resold
+EC-P00137,MSI,Modern 14 2026 Gen 4 Config 1,Laptop,2026,2026-12-13,2026-09-08,52500,1.76,1.45,12,8,256,AMD Ryzen 7,14.0,Windows,Active
+EC-P00138,HP,EliteBook X 2023 Gen 3 Config 1,Ultrabook,2023,2023-06-18,2023-05-11,199000,1.98,1.39,12,64,2048,Intel Core i5,14.0,Windows,Active
+EC-P00139,Apple,MacBook Pro A 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-07-09,2021-03-09,147000,2.34,1.66,12,16,2048,Apple M1,14.2,macOS,Active
+EC-P00140,HP,Pavilion 900 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-08-11,2023-04-08,115000,1.83,1.47,24,16,1024,AMD Ryzen 7,13.3,Windows,Resold
+EC-P00141,Razer,Blade 14 E 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-07-09,2023-03-16,196500,3.04,2.54,24,32,1024,Intel Core i9,16.0,Windows,Active
+EC-P00142,Razer,Blade 14 S 2025 Gen 2 Config 1,Workstation Laptop,2025,2025-11-16,2025-09-27,178000,2.28,1.58,24,16,2048,Intel Core i5,16.0,ChromeOS,Returned
+EC-P00143,Acer,TravelMate 700 2026 Gen 4 Config 1,Gaming Laptop,2026,2026-06-23,2026-01-22,227500,3.23,2.47,12,64,2048,Intel Core i5,17.3,Windows,Active
+EC-P00144,HP,EliteBook 15 2022 Gen 3 Config 1,Business Laptop,2022,2022-04-17,2021-11-21,168000,2.11,1.44,24,64,1024,AMD Ryzen 9,17.3,Windows,Active
+EC-P00145,Razer,Blade 14 E 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-12-05,2024-08-23,116500,2.49,2.17,12,16,1024,AMD Ryzen 9,17.3,Windows,Active
+EC-P00146,Samsung,Galaxy Book X 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-11-26,2025-09-30,111500,2.68,2.28,12,32,256,Intel Core i5,16.0,Windows,Resold
+EC-P00147,Acer,Swift 700 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-04-15,2024-10-31,191000,2.06,1.56,36,64,512,AMD Ryzen 5,14.0,ChromeOS,Active
+EC-P00148,Dell,Inspiron A 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-09-21,2022-06-18,122500,2.13,1.56,24,16,1024,Intel Core i5,17.3,Windows,Active
+EC-P00149,Razer,Blade 15 500 2025 Gen 3 Config 1,Ultrabook,2025,2025-12-05,2025-07-13,74000,1.9,1.34,24,8,512,AMD Ryzen 5,15.6,Windows,Active
+EC-P00150,Razer,Blade 14 G 2025 Gen 4 Config 1,Business Laptop,2025,2025-10-02,2025-06-18,96000,1.75,1.3,24,16,2048,AMD Ryzen 5,14.0,Windows,Recycled
+EC-P00151,Samsung,Galaxy Book G 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-04-18,2022-01-20,174500,2.57,1.9,24,64,512,AMD Ryzen 9,16.0,Windows,Active
+EC-P00152,Samsung,Galaxy Book Pro S 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-02-24,2024-12-08,190500,2.12,1.53,24,32,256,Intel Core i5,17.3,Windows,Active
+EC-P00153,Dell,Precision E 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-04-26,2023-03-27,186500,2.62,2.1,12,16,1024,Intel Core i5,14.0,Windows,Active
+EC-P00154,Microsoft,Surface Pro S 2025 Gen 2 Config 1,Ultrabook,2025,2025-11-05,2025-09-18,107500,2.32,2.0,24,32,256,AMD Ryzen 9,17.3,Windows,Active
+EC-P00155,Apple,MacBook Air G 2026 Gen 4 Config 1,Business Laptop,2026,2026-07-17,2026-04-22,189000,1.79,1.5,12,64,2048,Apple M3,15.3,macOS,Refurbished
+EC-P00156,Apple,MacBook Pro E 2024 Gen 1 Config 1,Laptop,2024,2024-04-16,2024-01-24,141000,2.11,1.53,24,32,256,Apple M3,16.2,macOS,Active
+EC-P00157,ASUS,ExpertBook 14 2025 Gen 2 Config 1,Workstation Laptop,2025,2025-08-15,2025-07-31,157500,2.13,1.46,12,8,256,AMD Ryzen 5,13.3,Windows,Recycled
+EC-P00158,MSI,Modern 700 2026 Gen 3 Config 1,Business Laptop,2026,2026-07-21,2026-04-19,88000,2.16,1.75,12,32,256,Intel Core i9,15.6,Windows,Refurbished
+EC-P00159,Acer,Nitro 500 2026 Gen 1 Config 1,Laptop,2026,2026-07-23,2026-06-05,77500,1.67,1.25,12,16,2048,Intel Core i7,14.0,Windows,Active
+EC-P00160,Acer,Nitro 500 2021 Gen 1 Config 1,Ultrabook,2021,2021-10-21,2021-08-25,181000,1.76,1.38,12,64,512,Intel Core i9,14.0,Windows,Active
+EC-P00161,Acer,Swift 14 2024 Gen 4 Config 1,Business Laptop,2024,2024-04-09,2023-10-12,90500,2.25,1.67,12,8,2048,Intel Core i5,14.0,Windows,Active
+EC-P00162,Microsoft,Surface Pro 300 2026 Gen 3 Config 1,Business Laptop,2026,2026-08-13,2026-07-01,158500,1.7,1.46,12,64,1024,AMD Ryzen 7,14.0,Windows,Active
+EC-P00163,Razer,Blade 14 300 2025 Gen 3 Config 1,Ultrabook,2025,2025-01-19,2024-12-18,184000,1.96,1.52,12,64,1024,Intel Core i7,17.3,Windows,Active
+EC-P00164,Acer,Aspire G 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-03-18,2020-12-10,93500,1.97,1.54,12,8,512,AMD Ryzen 5,16.0,Windows,Active
+EC-P00165,HP,Pavilion G 2026 Gen 2 Config 1,Laptop,2026,2026-02-01,2025-12-13,107500,2.15,1.59,12,8,2048,Intel Core i7,16.0,Windows,Refurbished
+EC-P00166,Lenovo,Yoga S 2023 Gen 3 Config 1,Business Laptop,2023,2023-05-23,2022-12-12,57000,2.24,1.65,12,8,256,Intel Core i9,15.6,Windows,Returned
+EC-P00167,Samsung,Galaxy Book Pro E 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-01-28,2025-01-10,185000,2.49,2.06,12,32,256,AMD Ryzen 7,14.0,Windows,Active
+EC-P00168,Samsung,Galaxy Book Pro 700 2024 Gen 2 Config 1,Laptop,2024,2024-02-19,2023-11-01,74500,2.03,1.67,24,16,1024,AMD Ryzen 7,16.0,Windows,Active
+EC-P00169,Dell,Inspiron S 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-12-20,2022-10-04,144500,2.58,1.9,24,32,1024,Intel Core i5,15.6,Windows,Active
+EC-P00170,Razer,Blade 15 S 2022 Gen 2 Config 1,Business Laptop,2022,2022-01-25,2021-10-06,100000,2.14,1.83,24,16,1024,Intel Core i5,13.3,ChromeOS,Resold
+EC-P00171,ASUS,VivoBook S 2022 Gen 2 Config 1,Gaming Laptop,2022,2022-08-24,2022-07-19,107000,2.84,2.33,24,32,256,AMD Ryzen 5,14.0,ChromeOS,Active
+EC-P00172,Microsoft,Surface Laptop G 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-06-15,2026-03-23,161500,1.86,1.56,24,16,1024,AMD Ryzen 7,14.0,Windows,Active
+EC-P00173,Acer,Swift 500 2025 Gen 2 Config 1,Laptop,2025,2025-05-15,2025-02-22,137500,1.97,1.64,24,64,256,Intel Core i7,15.6,Windows,Resold
+EC-P00174,HP,ProBook A 2026 Gen 1 Config 1,Business Laptop,2026,2026-01-13,2025-09-05,129500,1.7,1.26,12,32,2048,Intel Core i9,14.0,Windows,Active
+EC-P00175,Microsoft,Surface Laptop X 2021 Gen 1 Config 1,Business Laptop,2021,2021-10-19,2021-07-30,103000,1.91,1.56,12,16,512,Intel Core i5,14.0,Windows,Resold
+EC-P00176,HP,EliteBook 900 2021 Gen 4 Config 1,Business Laptop,2021,2021-12-13,2021-07-24,65000,1.79,1.55,24,8,256,Intel Core i5,15.6,ChromeOS,Active
+EC-P00177,MSI,Modern 900 2023 Gen 2 Config 1,Ultrabook,2023,2023-01-03,2022-10-09,101500,1.97,1.69,24,8,512,Intel Core i9,14.0,Windows,Active
+EC-P00178,MSI,Modern S 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-03-01,2025-11-25,247000,2.1,1.56,24,64,2048,Intel Core i5,15.6,ChromeOS,Active
+EC-P00179,Dell,Vostro X 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-04-19,2020-12-26,131500,2.12,1.83,12,16,512,Intel Core i7,13.3,ChromeOS,Active
+EC-P00180,Lenovo,IdeaPad 14 2022 Gen 3 Config 1,Ultrabook,2022,2022-02-02,2021-11-20,130000,2.08,1.49,12,16,512,AMD Ryzen 7,15.6,Windows,Returned
+EC-P00181,Dell,Precision E 2021 Gen 2 Config 1,Business Laptop,2021,2021-09-28,2021-06-12,44500,2.11,1.82,12,8,256,Intel Core i9,15.6,Windows,Recycled
+EC-P00182,Apple,MacBook Pro 500 2025 Gen 3 Config 1,Ultrabook,2025,2025-12-18,2025-06-29,184500,2.26,1.83,12,16,2048,Apple M2,14.2,macOS,Refurbished
+EC-P00183,Acer,Swift A 2024 Gen 3 Config 1,Business Laptop,2024,2024-04-21,2023-11-14,114000,2.21,1.91,36,64,256,Intel Core i7,17.3,Windows,Active
+EC-P00184,Samsung,Galaxy Book 500 2023 Gen 2 Config 1,Ultrabook,2023,2023-05-26,2023-04-14,115500,1.76,1.44,24,32,2048,Intel Core i9,13.3,Windows,Refurbished
+EC-P00185,Dell,Precision G 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-03-15,2024-02-11,213000,2.9,2.41,12,64,256,AMD Ryzen 5,15.6,Windows,Refurbished
+EC-P00186,Dell,Vostro E 2021 Gen 3 Config 1,Laptop,2021,2021-10-20,2021-06-04,80500,2.35,2.06,24,16,256,Intel Core i5,16.0,Windows,Refurbished
+EC-P00187,MSI,Katana 14 2022 Gen 4 Config 1,Business Laptop,2022,2022-05-22,2022-02-24,122500,2.0,1.73,36,16,2048,Intel Core i5,14.0,Windows,Active
+EC-P00188,HP,EliteBook 14 2024 Gen 4 Config 1,Business Laptop,2024,2024-02-01,2023-11-26,103000,2.18,1.74,12,8,1024,Intel Core i5,16.0,Windows,Active
+EC-P00189,ASUS,VivoBook 500 2024 Gen 3 Config 1,Gaming Laptop,2024,2024-08-15,2024-05-25,128500,2.84,2.18,24,8,2048,AMD Ryzen 5,15.6,Windows,Active
+EC-P00190,ASUS,VivoBook 15 2022 Gen 1 Config 1,Laptop,2022,2022-07-18,2022-03-04,143000,1.89,1.43,36,64,512,AMD Ryzen 9,17.3,Windows,Active
+EC-P00191,Acer,Nitro 500 2023 Gen 4 Config 1,Laptop,2023,2023-04-26,2023-02-21,94000,2.12,1.84,12,16,256,AMD Ryzen 7,17.3,Windows,Active
+EC-P00192,MSI,Modern G 2026 Gen 2 Config 1,Business Laptop,2026,2026-09-15,2026-08-28,103500,1.87,1.39,24,8,2048,AMD Ryzen 7,13.3,Windows,Refurbished
+EC-P00193,Razer,Blade 15 G 2021 Gen 2 Config 1,Business Laptop,2021,2021-07-09,2021-03-18,86500,1.8,1.42,24,8,256,AMD Ryzen 7,13.3,Windows,Returned
+EC-P00194,Razer,Blade 15 700 2021 Gen 3 Config 1,Gaming Laptop,2021,2021-06-01,2021-02-20,172500,2.57,1.99,24,8,2048,Intel Core i7,16.0,Windows,Resold
+EC-P00195,ASUS,ExpertBook X 2023 Gen 1 Config 1,Business Laptop,2023,2023-08-07,2023-04-10,125500,2.03,1.64,12,32,1024,Intel Core i7,16.0,Windows,Refurbished
+EC-P00196,Microsoft,Surface Pro S 2021 Gen 2 Config 1,Laptop,2021,2021-04-02,2020-11-22,56000,1.9,1.61,12,16,256,Intel Core i9,16.0,Windows,Active
+EC-P00197,Apple,MacBook Air E 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-10-18,2023-07-06,151000,1.99,1.42,24,8,512,Apple M2,13.3,macOS,Active
+EC-P00198,ASUS,VivoBook 300 2023 Gen 4 Config 1,Laptop,2023,2023-01-28,2023-01-11,93500,1.79,1.45,36,16,512,Intel Core i7,14.0,Windows,Active
+EC-P00199,Lenovo,IdeaPad 300 2025 Gen 2 Config 1,Ultrabook,2025,2025-08-10,2025-03-15,177000,2.27,1.75,12,32,2048,AMD Ryzen 7,15.6,Windows,Resold
+EC-P00200,MSI,Katana 300 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-05-09,2021-02-07,129500,1.96,1.44,24,32,256,AMD Ryzen 9,15.6,Windows,Active
+EC-P00201,Microsoft,Surface Laptop 14 2021 Gen 4 Config 1,Ultrabook,2021,2021-12-19,2021-10-17,156500,1.87,1.55,36,64,1024,AMD Ryzen 9,13.3,Windows,Active
+EC-P00202,Acer,Nitro E 2026 Gen 3 Config 1,Business Laptop,2026,2026-03-22,2025-12-12,94500,1.75,1.28,36,32,256,AMD Ryzen 9,14.0,Windows,Returned
+EC-P00203,Acer,TravelMate A 2022 Gen 4 Config 1,Ultrabook,2022,2022-02-16,2021-12-14,145000,2.28,1.82,36,64,256,Intel Core i9,15.6,Windows,Active
+EC-P00204,MSI,Katana G 2023 Gen 1 Config 1,Business Laptop,2023,2023-08-11,2023-02-16,144000,1.95,1.61,12,64,2048,Intel Core i7,15.6,ChromeOS,Recycled
+EC-P00205,Apple,MacBook Air X 2021 Gen 3 Config 1,Business Laptop,2021,2021-07-16,2021-03-25,135500,2.05,1.65,24,64,256,Apple M1,14.2,macOS,Active
+EC-P00206,Microsoft,Surface Laptop E 2026 Gen 1 Config 1,Ultrabook,2026,2026-10-10,2026-08-14,116000,1.82,1.27,36,16,512,AMD Ryzen 7,13.3,Windows,Active
+EC-P00207,Dell,Vostro X 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-04-08,2023-02-19,202500,2.71,2.28,12,64,1024,AMD Ryzen 9,15.6,ChromeOS,Active
+EC-P00208,Dell,Inspiron E 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-08-13,2021-06-28,110500,2.6,2.13,24,8,256,AMD Ryzen 9,17.3,Windows,Active
+EC-P00209,Samsung,Galaxy Book 15 2022 Gen 1 Config 1,Ultrabook,2022,2022-02-26,2022-01-15,109500,2.16,1.74,24,32,512,AMD Ryzen 5,17.3,Windows,Active
+EC-P00210,Razer,Blade 14 S 2023 Gen 2 Config 1,Ultrabook,2023,2023-01-01,2022-11-25,143500,2.08,1.61,12,8,2048,AMD Ryzen 9,14.0,Windows,Resold
+EC-P00211,Razer,Blade 15 500 2022 Gen 1 Config 1,Laptop,2022,2022-05-12,2022-02-06,108000,1.81,1.53,12,32,1024,Intel Core i9,16.0,Windows,Active
+EC-P00212,HP,EliteBook 300 2021 Gen 2 Config 1,Business Laptop,2021,2021-07-15,2021-04-22,88000,2.27,1.63,24,32,256,Intel Core i9,16.0,Windows,Resold
+EC-P00213,Samsung,Galaxy Book Pro 700 2026 Gen 1 Config 1,Business Laptop,2026,2026-03-20,2025-11-28,127000,2.02,1.7,24,8,2048,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00214,Razer,Blade 14 700 2026 Gen 4 Config 1,Gaming Laptop,2026,2026-12-19,2026-10-08,120000,2.71,2.21,36,8,256,Intel Core i5,16.0,Windows,Recycled
+EC-P00215,Apple,MacBook Air 15 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-03-03,2023-10-15,137500,2.98,2.31,24,16,256,Apple M2,16.2,macOS,Active
+EC-P00216,Apple,MacBook Pro S 2021 Gen 2 Config 1,Workstation Laptop,2021,2021-08-15,2021-05-12,197000,2.06,1.64,12,64,512,Apple M3,16.2,macOS,Active
+EC-P00217,Samsung,Galaxy Book G 2021 Gen 4 Config 1,Laptop,2021,2021-01-27,2020-11-16,111500,2.03,1.77,24,32,512,AMD Ryzen 7,13.3,Windows,Resold
+EC-P00218,Apple,MacBook Pro 15 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-06-23,2026-05-12,140000,3.01,2.22,36,16,256,Apple M1,13.3,macOS,Active
+EC-P00219,Lenovo,Yoga G 2022 Gen 1 Config 1,Ultrabook,2022,2022-01-21,2021-08-09,153000,2.06,1.45,24,64,512,AMD Ryzen 7,13.3,Windows,Active
+EC-P00220,Samsung,Galaxy Book Pro 14 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-02-13,2025-08-29,244000,2.63,2.09,12,64,2048,Intel Core i5,13.3,Windows,Returned
+EC-P00221,Apple,MacBook Pro 14 2024 Gen 2 Config 1,Ultrabook,2024,2024-05-27,2023-12-24,188000,1.82,1.46,36,32,2048,Apple M2,15.3,macOS,Resold
+EC-P00222,Microsoft,Surface Laptop 900 2022 Gen 3 Config 1,Ultrabook,2022,2022-11-24,2022-06-26,135000,2.01,1.6,24,32,256,AMD Ryzen 9,14.0,Windows,Active
+EC-P00223,MSI,Modern 500 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-12-26,2025-09-27,184000,2.24,1.64,12,16,1024,Intel Core i7,13.3,Windows,Active
+EC-P00224,Microsoft,Surface Laptop X 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-07-13,2023-03-14,221500,2.15,1.76,12,64,512,AMD Ryzen 9,14.0,Windows,Recycled
+EC-P00225,Apple,MacBook Air A 2021 Gen 2 Config 1,Workstation Laptop,2021,2021-11-03,2021-09-02,222000,2.26,1.67,12,32,512,Apple M2,14.2,macOS,Recycled
+EC-P00226,Microsoft,Surface Laptop 300 2024 Gen 4 Config 1,Ultrabook,2024,2024-06-20,2024-05-23,110500,2.1,1.49,12,32,256,AMD Ryzen 7,14.0,Windows,Refurbished
+EC-P00227,Razer,Blade 15 14 2024 Gen 3 Config 1,Laptop,2024,2024-07-03,2024-03-21,96000,1.97,1.5,36,16,256,AMD Ryzen 9,14.0,Windows,Active
+EC-P00228,Acer,TravelMate E 2023 Gen 3 Config 1,Business Laptop,2023,2023-10-08,2023-09-13,79000,2.06,1.5,36,8,256,AMD Ryzen 7,17.3,Windows,Refurbished
+EC-P00229,Apple,MacBook Pro G 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-11-07,2021-08-02,190000,2.05,1.59,24,8,1024,Apple M3,15.3,macOS,Active
+EC-P00230,HP,ProBook S 2025 Gen 1 Config 1,Laptop,2025,2025-11-27,2025-10-25,115500,1.99,1.63,24,64,256,Intel Core i7,14.0,Windows,Refurbished
+EC-P00231,Lenovo,ThinkPad E 2024 Gen 1 Config 1,Laptop,2024,2024-07-11,2024-06-22,99500,1.91,1.45,24,8,512,Intel Core i5,15.6,Windows,Active
+EC-P00232,HP,EliteBook 14 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-08-13,2026-04-19,164500,2.04,1.63,24,32,256,Intel Core i5,13.3,Windows,Resold
+EC-P00233,Dell,Precision S 2022 Gen 2 Config 1,Business Laptop,2022,2022-01-18,2021-08-14,88000,2.26,1.95,24,32,512,AMD Ryzen 9,17.3,Windows,Active
+EC-P00234,Dell,Latitude 14 2025 Gen 4 Config 1,Workstation Laptop,2025,2025-03-06,2024-12-25,129500,2.3,1.96,12,16,1024,AMD Ryzen 7,15.6,ChromeOS,Returned
+EC-P00235,ASUS,ZenBook 700 2021 Gen 1 Config 1,Workstation Laptop,2021,2021-06-05,2021-03-22,116500,1.75,1.39,24,32,256,AMD Ryzen 5,13.3,Windows,Active
+EC-P00236,Razer,Blade 14 E 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-12-24,2022-06-28,157000,2.78,2.06,12,16,1024,Intel Core i9,15.6,Windows,Active
+EC-P00237,Apple,MacBook Air E 2026 Gen 4 Config 1,Gaming Laptop,2026,2026-09-07,2026-06-17,189500,2.53,2.15,12,32,2048,Apple M2,15.3,macOS,Refurbished
+EC-P00238,HP,EliteBook S 2021 Gen 1 Config 1,Workstation Laptop,2021,2021-11-25,2021-10-03,128000,2.18,1.92,24,16,256,AMD Ryzen 7,17.3,Windows,Active
+EC-P00239,Acer,TravelMate X 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-12-24,2022-08-08,114000,2.65,2.15,12,16,512,Intel Core i9,14.0,Windows,Resold
+EC-P00240,Dell,Inspiron 900 2024 Gen 1 Config 1,Ultrabook,2024,2024-02-23,2023-09-28,151500,2.2,1.51,24,32,2048,Intel Core i9,14.0,Windows,Returned
+EC-P00241,ASUS,ExpertBook S 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-08-20,2025-08-04,113000,2.71,2.31,24,8,1024,AMD Ryzen 9,17.3,Windows,Active
+EC-P00242,Lenovo,Yoga 900 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-07-26,2022-04-18,142500,2.1,1.48,12,16,512,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00243,Samsung,Galaxy Book Pro 900 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-03-17,2023-11-20,149000,2.36,1.63,24,16,512,Intel Core i5,14.0,Windows,Active
+EC-P00244,Razer,Blade 14 15 2026 Gen 3 Config 1,Laptop,2026,2026-03-20,2025-10-26,121000,2.28,1.82,36,64,512,Intel Core i7,16.0,Windows,Active
+EC-P00245,Apple,MacBook Pro 14 2025 Gen 1 Config 1,Business Laptop,2025,2025-11-14,2025-09-22,70500,1.91,1.63,36,16,256,Apple M2,16.2,macOS,Returned
+EC-P00246,Lenovo,Yoga 14 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-09-14,2025-05-28,235500,1.96,1.33,24,64,512,AMD Ryzen 7,13.3,Windows,Resold
+EC-P00247,Microsoft,Surface Pro X 2022 Gen 4 Config 1,Ultrabook,2022,2022-05-20,2021-12-17,94500,2.14,1.55,12,8,2048,AMD Ryzen 7,17.3,Windows,Active
+EC-P00248,Acer,Aspire 300 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-05-28,2025-12-27,157000,1.76,1.43,24,32,2048,Intel Core i5,14.0,Windows,Active
+EC-P00249,Apple,MacBook Pro G 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-12-05,2026-10-21,181500,2.97,2.36,24,16,1024,Apple M3,16.2,macOS,Refurbished
+EC-P00250,Samsung,Galaxy Book 900 2021 Gen 4 Config 1,Ultrabook,2021,2021-10-14,2021-09-07,128500,2.11,1.78,24,16,2048,AMD Ryzen 7,13.3,Windows,Active
+EC-P00251,Acer,TravelMate 14 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-05-07,2021-04-14,193500,2.58,1.76,36,32,256,AMD Ryzen 5,17.3,Windows,Refurbished
+EC-P00252,Microsoft,Surface Laptop 700 2025 Gen 1 Config 1,Ultrabook,2025,2025-04-17,2025-03-30,123000,1.88,1.43,36,8,1024,Intel Core i7,14.0,Windows,Refurbished
+EC-P00253,HP,EliteBook A 2025 Gen 3 Config 1,Ultrabook,2025,2025-09-03,2025-04-13,182500,1.83,1.39,12,64,2048,Intel Core i9,14.0,Windows,Active
+EC-P00254,HP,Pavilion 14 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-02-13,2024-08-20,196000,3.03,2.35,24,32,2048,AMD Ryzen 5,14.0,Windows,Refurbished
+EC-P00255,Acer,Swift G 2023 Gen 3 Config 1,Workstation Laptop,2023,2023-09-06,2023-04-23,120500,2.16,1.82,12,16,1024,AMD Ryzen 7,15.6,Windows,Active
+EC-P00256,Acer,TravelMate 15 2022 Gen 2 Config 1,Gaming Laptop,2022,2022-02-03,2021-09-15,121500,2.98,2.24,12,32,512,AMD Ryzen 9,14.0,Windows,Returned
+EC-P00257,Microsoft,Surface Laptop E 2024 Gen 3 Config 1,Gaming Laptop,2024,2024-08-18,2024-07-26,124000,2.65,2.08,24,16,1024,AMD Ryzen 7,16.0,Windows,Active
+EC-P00258,MSI,Katana X 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-03-18,2021-12-26,132500,1.69,1.27,24,8,512,AMD Ryzen 5,13.3,Windows,Active
+EC-P00259,Samsung,Galaxy Book Pro 700 2023 Gen 4 Config 1,Gaming Laptop,2023,2023-02-24,2022-12-02,169000,2.29,1.82,12,32,2048,Intel Core i7,15.6,Windows,Resold
+EC-P00260,Microsoft,Surface Pro 900 2024 Gen 2 Config 1,Business Laptop,2024,2024-09-24,2024-06-21,143500,2.27,1.93,36,64,2048,AMD Ryzen 5,14.0,Windows,Refurbished
+EC-P00261,ASUS,ExpertBook 14 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-06-18,2025-01-12,169500,2.61,1.95,24,16,1024,Intel Core i5,13.3,Windows,Resold
+EC-P00262,ASUS,ExpertBook G 2021 Gen 1 Config 1,Ultrabook,2021,2021-02-13,2020-08-25,102500,2.07,1.61,24,16,1024,AMD Ryzen 9,14.0,ChromeOS,Active
+EC-P00263,Lenovo,IdeaPad E 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-10-21,2026-06-27,107000,1.82,1.48,24,8,512,AMD Ryzen 7,13.3,Windows,Active
+EC-P00264,Samsung,Galaxy Book Pro 14 2026 Gen 4 Config 1,Gaming Laptop,2026,2026-07-04,2026-05-26,134000,2.93,2.04,12,16,512,Intel Core i7,13.3,Windows,Active
+EC-P00265,Samsung,Galaxy Book G 2021 Gen 1 Config 1,Laptop,2021,2021-03-17,2021-01-18,131000,1.78,1.31,12,64,1024,Intel Core i9,13.3,Windows,Active
+EC-P00266,Apple,MacBook Pro X 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-11-21,2024-06-23,222500,2.06,1.63,36,16,2048,Apple M2,14.2,macOS,Active
+EC-P00267,Apple,MacBook Pro 900 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-06-10,2025-01-26,196000,2.39,1.99,12,64,1024,Apple M2,15.3,macOS,Active
+EC-P00268,Samsung,Galaxy Book Pro 300 2023 Gen 4 Config 1,Ultrabook,2023,2023-07-08,2023-04-17,124000,1.89,1.38,24,32,512,AMD Ryzen 7,13.3,Windows,Active
+EC-P00269,Acer,TravelMate 15 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-04-11,2023-03-23,132500,2.54,2.08,24,16,1024,Intel Core i7,14.0,Windows,Active
+EC-P00270,Microsoft,Surface Laptop 500 2022 Gen 3 Config 1,Ultrabook,2022,2022-08-12,2022-04-01,65000,1.93,1.44,24,16,256,Intel Core i7,13.3,Windows,Refurbished
+EC-P00271,Dell,Vostro 700 2021 Gen 1 Config 1,Ultrabook,2021,2021-12-08,2021-08-17,126000,2.27,1.92,12,16,512,AMD Ryzen 5,16.0,Windows,Refurbished
+EC-P00272,Samsung,Galaxy Book 300 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-12-18,2026-07-23,172000,3.29,2.34,12,16,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00273,Samsung,Galaxy Book Pro E 2022 Gen 1 Config 1,Business Laptop,2022,2022-04-01,2022-03-07,75000,2.26,1.8,24,32,256,Intel Core i5,16.0,Windows,Active
+EC-P00274,Samsung,Galaxy Book 500 2023 Gen 2 Config 1,Business Laptop,2023,2023-02-05,2022-09-19,67500,2.06,1.46,36,32,256,AMD Ryzen 5,17.3,Windows,Active
+EC-P00275,Microsoft,Surface Pro 900 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-03-18,2023-12-05,167000,2.74,2.13,36,8,2048,Intel Core i9,15.6,Windows,Active
+EC-P00276,Samsung,Galaxy Book Pro S 2025 Gen 2 Config 1,Laptop,2025,2025-12-06,2025-11-17,107500,1.76,1.42,24,32,1024,AMD Ryzen 7,15.6,Windows,Returned
+EC-P00277,Apple,MacBook Air 500 2023 Gen 4 Config 1,Business Laptop,2023,2023-09-22,2023-08-21,104500,2.04,1.52,12,16,1024,Apple M3,16.2,macOS,Active
+EC-P00278,Lenovo,IdeaPad 900 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-12-03,2021-11-15,235000,2.76,2.08,36,64,2048,Intel Core i7,17.3,Windows,Resold
+EC-P00279,Acer,Nitro X 2021 Gen 1 Config 1,Ultrabook,2021,2021-05-03,2021-02-22,148000,1.94,1.33,12,32,256,AMD Ryzen 7,16.0,Windows,Recycled
+EC-P00280,HP,EliteBook 900 2026 Gen 4 Config 1,Business Laptop,2026,2026-11-15,2026-07-14,126000,1.73,1.4,24,16,2048,Intel Core i7,14.0,Windows,Resold
+EC-P00281,Lenovo,IdeaPad G 2025 Gen 3 Config 1,Business Laptop,2025,2025-07-25,2025-01-29,113500,2.37,1.77,24,32,1024,AMD Ryzen 7,16.0,ChromeOS,Active
+EC-P00282,Apple,MacBook Air S 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-09-05,2025-06-05,201500,2.11,1.55,12,32,2048,Apple M3,15.3,macOS,Active
+EC-P00283,Acer,Swift 300 2023 Gen 3 Config 1,Workstation Laptop,2023,2023-10-08,2023-07-26,107000,2.06,1.46,24,16,256,AMD Ryzen 7,17.3,Windows,Active
+EC-P00284,ASUS,VivoBook G 2025 Gen 2 Config 1,Laptop,2025,2025-10-21,2025-07-22,131000,2.32,1.9,12,16,2048,AMD Ryzen 9,16.0,Windows,Active
+EC-P00285,Razer,Blade 15 300 2021 Gen 3 Config 1,Ultrabook,2021,2021-06-18,2021-01-10,117000,1.86,1.38,12,16,256,AMD Ryzen 5,13.3,Windows,Active
+EC-P00286,Microsoft,Surface Laptop 300 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-12-02,2022-06-30,172500,2.29,1.6,36,16,2048,AMD Ryzen 7,13.3,Windows,Active
+EC-P00287,HP,ZBook G 2025 Gen 2 Config 1,Business Laptop,2025,2025-04-03,2025-01-10,143500,2.15,1.78,12,64,512,AMD Ryzen 5,16.0,Windows,Refurbished
+EC-P00288,Apple,MacBook Air 15 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-10-27,2021-06-21,170000,2.91,2.08,24,16,1024,Apple M2,15.3,macOS,Returned
+EC-P00289,Samsung,Galaxy Book 900 2022 Gen 3 Config 1,Business Laptop,2022,2022-01-11,2021-11-29,80500,2.19,1.87,24,8,512,AMD Ryzen 9,13.3,Windows,Active
+EC-P00290,Samsung,Galaxy Book 900 2023 Gen 2 Config 1,Business Laptop,2023,2023-11-17,2023-10-22,152500,2.18,1.49,36,64,512,AMD Ryzen 7,15.6,Windows,Active
+EC-P00291,Dell,Vostro 14 2022 Gen 3 Config 1,Laptop,2022,2022-02-01,2021-11-04,110500,1.79,1.52,24,8,2048,AMD Ryzen 5,13.3,Windows,Resold
+EC-P00292,MSI,Modern S 2024 Gen 1 Config 1,Ultrabook,2024,2024-01-08,2023-08-11,79000,2.43,1.92,12,8,512,AMD Ryzen 5,17.3,Windows,Active
+EC-P00293,Samsung,Galaxy Book Pro 700 2026 Gen 1 Config 1,Ultrabook,2026,2026-09-09,2026-06-29,123500,2.13,1.82,12,16,1024,AMD Ryzen 9,15.6,Windows,Active
+EC-P00294,MSI,Katana 500 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-06-15,2022-01-13,184500,1.93,1.43,36,64,512,AMD Ryzen 9,14.0,Windows,Active
+EC-P00295,Lenovo,IdeaPad A 2022 Gen 2 Config 1,Gaming Laptop,2022,2022-12-01,2022-08-27,124500,2.92,2.09,12,16,1024,Intel Core i7,17.3,Windows,Resold
+EC-P00296,MSI,Prestige X 2023 Gen 3 Config 1,Business Laptop,2023,2023-04-22,2023-04-01,88500,2.01,1.46,12,8,1024,Intel Core i7,14.0,Windows,Active
+EC-P00297,Samsung,Galaxy Book 14 2025 Gen 4 Config 1,Ultrabook,2025,2025-05-14,2025-03-04,134000,1.92,1.46,12,64,512,Intel Core i7,16.0,Windows,Refurbished
+EC-P00298,Acer,Swift 700 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-12-11,2021-08-18,184500,1.81,1.5,24,16,2048,AMD Ryzen 5,16.0,Windows,Returned
+EC-P00299,Razer,Blade 14 500 2025 Gen 4 Config 1,Gaming Laptop,2025,2025-08-13,2025-05-13,189000,2.68,1.85,24,64,256,Intel Core i5,14.0,Windows,Refurbished
+EC-P00300,ASUS,TUF G 2022 Gen 3 Config 1,Workstation Laptop,2022,2022-12-18,2022-10-30,217500,1.97,1.41,36,64,2048,Intel Core i5,14.0,Windows,Active
+EC-P00301,Apple,MacBook Pro 700 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-12-24,2021-11-08,195000,2.1,1.81,12,64,256,Apple M3,14.2,macOS,Active
+EC-P00302,Samsung,Galaxy Book Pro S 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-03-28,2021-02-04,193500,2.33,1.85,12,64,256,AMD Ryzen 7,16.0,ChromeOS,Active
+EC-P00303,Dell,Precision A 2023 Gen 4 Config 1,Ultrabook,2023,2023-09-26,2023-09-10,103500,1.68,1.31,24,16,256,AMD Ryzen 9,14.0,Windows,Returned
+EC-P00304,Samsung,Galaxy Book 14 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-01-06,2021-11-15,158500,2.71,2.29,12,8,512,AMD Ryzen 5,17.3,Windows,Active
+EC-P00305,Apple,MacBook Air 300 2022 Gen 3 Config 1,Ultrabook,2022,2022-10-26,2022-05-21,119000,2.03,1.63,36,8,2048,Apple M1,13.3,macOS,Active
+EC-P00306,Samsung,Galaxy Book Pro 500 2021 Gen 3 Config 1,Ultrabook,2021,2021-06-17,2021-02-17,147000,1.71,1.4,24,64,256,Intel Core i9,13.3,Windows,Active
+EC-P00307,Acer,Aspire 14 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-10-16,2021-05-21,192500,2.8,2.42,36,64,1024,AMD Ryzen 9,15.6,Windows,Refurbished
+EC-P00308,Samsung,Galaxy Book Pro 14 2022 Gen 2 Config 1,Ultrabook,2022,2022-01-11,2021-09-29,167500,2.11,1.86,24,64,256,Intel Core i7,13.3,Windows,Active
+EC-P00309,Acer,Aspire 900 2026 Gen 3 Config 1,Ultrabook,2026,2026-10-01,2026-08-03,103500,2.05,1.56,36,32,256,Intel Core i5,17.3,Windows,Active
+EC-P00310,Apple,MacBook Pro 300 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-10-24,2024-07-21,251000,2.8,2.37,24,32,2048,Apple M1,16.2,macOS,Active
+EC-P00311,Dell,Inspiron 15 2025 Gen 3 Config 1,Ultrabook,2025,2025-07-06,2025-01-20,104000,2.08,1.48,36,8,1024,Intel Core i5,15.6,ChromeOS,Active
+EC-P00312,ASUS,ExpertBook 300 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-04-03,2025-11-26,195000,2.32,1.63,12,32,2048,Intel Core i5,14.0,Windows,Active
+EC-P00313,Samsung,Galaxy Book E 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-02-01,2021-10-30,130500,1.69,1.28,36,8,512,Intel Core i9,14.0,Windows,Resold
+EC-P00314,Razer,Blade 14 X 2023 Gen 1 Config 1,Laptop,2023,2023-05-09,2022-12-09,90500,2.29,1.7,12,8,1024,AMD Ryzen 7,15.6,Windows,Active
+EC-P00315,Samsung,Galaxy Book 700 2023 Gen 2 Config 1,Ultrabook,2023,2023-10-08,2023-08-11,96500,2.18,1.6,24,8,512,Intel Core i5,17.3,Windows,Active
+EC-P00316,Razer,Blade 15 X 2025 Gen 1 Config 1,Business Laptop,2025,2025-10-21,2025-06-14,71000,1.68,1.27,36,8,2048,Intel Core i5,13.3,Windows,Returned
+EC-P00317,ASUS,ExpertBook 15 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-03-28,2021-10-07,157500,2.94,2.28,12,8,2048,AMD Ryzen 7,16.0,Windows,Active
+EC-P00318,Apple,MacBook Pro 15 2022 Gen 3 Config 1,Ultrabook,2022,2022-05-25,2022-02-10,105000,2.0,1.54,12,8,256,Apple M2,16.2,macOS,Returned
+EC-P00319,Lenovo,ThinkPad 500 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-08-13,2024-07-13,230500,1.9,1.38,12,64,2048,AMD Ryzen 9,15.6,Windows,Active
+EC-P00320,Razer,Blade 15 14 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-03-10,2023-11-13,210000,1.91,1.51,24,64,256,AMD Ryzen 9,13.3,Windows,Active
+EC-P00321,HP,ZBook X 2023 Gen 1 Config 1,Laptop,2023,2023-10-19,2023-06-12,83000,1.94,1.53,24,8,512,Intel Core i7,17.3,Windows,Active
+EC-P00322,Apple,MacBook Pro 15 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-09-02,2025-08-18,158500,2.4,1.77,24,8,256,Apple M3,15.3,macOS,Refurbished
+EC-P00323,Apple,MacBook Air 300 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-04-18,2022-12-26,197500,2.52,1.8,12,32,2048,Apple M3,16.2,macOS,Resold
+EC-P00324,Apple,MacBook Pro A 2022 Gen 2 Config 1,Business Laptop,2022,2022-02-05,2021-08-10,112000,2.16,1.75,12,8,512,Apple M1,13.3,macOS,Resold
+EC-P00325,Samsung,Galaxy Book Pro 700 2025 Gen 4 Config 1,Workstation Laptop,2025,2025-12-08,2025-07-18,173000,2.03,1.38,24,64,1024,AMD Ryzen 5,16.0,Windows,Active
+EC-P00326,Microsoft,Surface Pro 300 2021 Gen 4 Config 1,Ultrabook,2021,2021-04-16,2020-10-22,116000,1.68,1.44,12,16,1024,Intel Core i5,13.3,Windows,Refurbished
+EC-P00327,HP,Pavilion 300 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-03-02,2024-09-16,196500,2.43,2.04,24,64,1024,Intel Core i5,17.3,Windows,Refurbished
+EC-P00328,Razer,Blade 15 15 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-05-05,2020-11-14,116000,1.83,1.27,24,8,1024,Intel Core i7,15.6,Windows,Active
+EC-P00329,ASUS,VivoBook 500 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-01-11,2025-12-06,167000,2.2,1.71,36,32,512,AMD Ryzen 9,16.0,Windows,Recycled
+EC-P00330,Razer,Blade 14 G 2024 Gen 4 Config 1,Business Laptop,2024,2024-01-06,2023-08-26,62000,2.06,1.71,12,16,1024,AMD Ryzen 9,14.0,Windows,Active
+EC-P00331,ASUS,TUF S 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-09-22,2026-08-28,156500,2.65,2.04,24,32,512,AMD Ryzen 9,16.0,Windows,Active
+EC-P00332,Microsoft,Surface Pro 14 2024 Gen 3 Config 1,Ultrabook,2024,2024-04-17,2024-01-07,158500,2.08,1.72,36,32,2048,Intel Core i9,13.3,Windows,Returned
+EC-P00333,Lenovo,ThinkBook 300 2025 Gen 1 Config 1,Laptop,2025,2025-01-01,2024-07-12,90500,1.98,1.46,12,8,2048,Intel Core i5,17.3,Windows,Active
+EC-P00334,Razer,Blade 14 15 2025 Gen 1 Config 1,Laptop,2025,2025-08-22,2025-07-19,165500,1.74,1.25,24,64,512,Intel Core i5,14.0,Windows,Returned
+EC-P00335,ASUS,TUF 15 2026 Gen 3 Config 1,Ultrabook,2026,2026-03-15,2026-02-11,113500,2.36,1.73,24,8,2048,Intel Core i7,15.6,Windows,Active
+EC-P00336,Acer,Nitro 15 2022 Gen 4 Config 1,Laptop,2022,2022-02-03,2021-08-26,104500,2.04,1.49,12,16,256,Intel Core i7,16.0,Windows,Refurbished
+EC-P00337,Samsung,Galaxy Book 700 2024 Gen 1 Config 1,Laptop,2024,2024-08-14,2024-04-18,133500,1.67,1.37,24,32,2048,AMD Ryzen 9,14.0,Windows,Resold
+EC-P00338,HP,ProBook G 2021 Gen 4 Config 1,Laptop,2021,2021-06-18,2021-03-08,104000,1.79,1.57,12,32,1024,AMD Ryzen 7,15.6,Windows,Active
+EC-P00339,Samsung,Galaxy Book Pro 900 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-11-15,2026-09-13,192000,2.05,1.54,12,32,2048,Intel Core i5,14.0,ChromeOS,Active
+EC-P00340,Acer,Aspire 14 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-01-11,2025-12-17,210500,3.22,2.2,24,32,2048,AMD Ryzen 5,17.3,Windows,Active
+EC-P00341,Acer,Nitro S 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-04-23,2026-03-06,151000,1.91,1.65,12,16,2048,Intel Core i7,13.3,ChromeOS,Active
+EC-P00342,Dell,Vostro X 2021 Gen 2 Config 1,Workstation Laptop,2021,2021-07-11,2021-03-16,188500,2.0,1.39,12,8,2048,Intel Core i5,13.3,Windows,Active
+EC-P00343,Razer,Blade 14 900 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-08-08,2023-02-26,175500,1.73,1.3,12,32,512,Intel Core i7,13.3,Windows,Active
+EC-P00344,HP,ZBook 300 2022 Gen 4 Config 1,Laptop,2022,2022-04-05,2021-10-09,141500,2.12,1.77,12,32,2048,Intel Core i5,13.3,Windows,Active
+EC-P00345,Samsung,Galaxy Book Pro 700 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-09-04,2022-03-15,129000,1.85,1.35,12,8,1024,Intel Core i7,17.3,Windows,Active
+EC-P00346,Microsoft,Surface Laptop 15 2024 Gen 2 Config 1,Ultrabook,2024,2024-05-07,2024-01-02,161000,2.07,1.43,24,64,2048,Intel Core i5,14.0,Windows,Active
+EC-P00347,Razer,Blade 15 500 2021 Gen 1 Config 1,Workstation Laptop,2021,2021-06-14,2021-04-10,195500,1.77,1.36,36,64,256,Intel Core i7,13.3,Windows,Refurbished
+EC-P00348,Apple,MacBook Air E 2021 Gen 2 Config 1,Laptop,2021,2021-01-14,2020-11-23,160500,1.92,1.49,24,16,2048,Apple M1,16.2,macOS,Active
+EC-P00349,Razer,Blade 15 G 2022 Gen 3 Config 1,Business Laptop,2022,2022-05-05,2022-03-23,90500,1.83,1.5,12,32,512,AMD Ryzen 5,15.6,Windows,Resold
+EC-P00350,Samsung,Galaxy Book Pro E 2022 Gen 2 Config 1,Ultrabook,2022,2022-10-16,2022-06-05,78500,2.37,1.84,12,16,512,AMD Ryzen 7,17.3,Windows,Active
+EC-P00351,MSI,Katana 900 2022 Gen 3 Config 1,Gaming Laptop,2022,2022-07-17,2022-03-24,100000,2.48,2.07,12,16,256,AMD Ryzen 7,17.3,Windows,Active
+EC-P00352,HP,ZBook 900 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-08-22,2024-05-21,122000,1.92,1.69,12,16,512,Intel Core i5,16.0,Windows,Active
+EC-P00353,Samsung,Galaxy Book X 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-05-14,2024-02-20,224500,2.64,1.97,12,64,256,Intel Core i7,15.6,Windows,Refurbished
+EC-P00354,Razer,Blade 14 500 2026 Gen 3 Config 1,Laptop,2026,2026-06-06,2025-12-08,60000,1.98,1.59,24,8,256,AMD Ryzen 7,15.6,ChromeOS,Active
+EC-P00355,HP,ProBook E 2022 Gen 2 Config 1,Workstation Laptop,2022,2022-05-02,2022-04-01,123500,2.39,1.87,24,16,512,Intel Core i5,17.3,Windows,Active
+EC-P00356,Samsung,Galaxy Book Pro S 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-04-15,2025-03-09,186000,3.2,2.69,12,32,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00357,Lenovo,ThinkBook 500 2021 Gen 2 Config 1,Ultrabook,2021,2021-03-16,2020-12-03,114000,1.79,1.37,36,16,512,Intel Core i5,16.0,Windows,Active
+EC-P00358,Dell,Vostro 500 2022 Gen 1 Config 1,Business Laptop,2022,2022-08-15,2022-05-15,109500,2.14,1.75,36,32,1024,AMD Ryzen 7,16.0,Windows,Active
+EC-P00359,ASUS,ZenBook 900 2023 Gen 4 Config 1,Ultrabook,2023,2023-12-18,2023-09-21,102000,2.21,1.78,12,16,1024,Intel Core i9,13.3,Windows,Active
+EC-P00360,Lenovo,IdeaPad 900 2022 Gen 1 Config 1,Laptop,2022,2022-06-05,2022-02-15,89500,1.9,1.56,24,32,1024,Intel Core i9,16.0,Windows,Active
+EC-P00361,Lenovo,ThinkBook 300 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-05-25,2020-12-15,154000,2.88,2.36,24,16,256,Intel Core i7,15.6,ChromeOS,Returned
+EC-P00362,Razer,Blade 15 500 2023 Gen 4 Config 1,Laptop,2023,2023-02-11,2023-01-13,90000,2.0,1.45,24,32,256,Intel Core i7,13.3,Windows,Returned
+EC-P00363,Acer,Swift 900 2023 Gen 1 Config 1,Laptop,2023,2023-11-12,2023-07-19,139000,1.82,1.46,12,64,512,AMD Ryzen 7,13.3,Windows,Active
+EC-P00364,MSI,Prestige E 2024 Gen 1 Config 1,Ultrabook,2024,2024-05-06,2024-01-04,112000,2.22,1.69,24,8,512,Intel Core i9,16.0,Windows,Refurbished
+EC-P00365,MSI,Modern 14 2025 Gen 1 Config 1,Business Laptop,2025,2025-11-09,2025-07-11,102500,2.31,1.61,24,32,256,Intel Core i7,17.3,Windows,Active
+EC-P00366,Samsung,Galaxy Book 700 2022 Gen 4 Config 1,Ultrabook,2022,2022-03-09,2021-12-08,167000,2.04,1.4,12,32,2048,AMD Ryzen 7,15.6,Windows,Recycled
+EC-P00367,Samsung,Galaxy Book 15 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-10-16,2026-05-10,128500,2.85,2.28,24,8,256,Intel Core i7,14.0,Windows,Active
+EC-P00368,ASUS,TUF 500 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-03-02,2025-12-08,105000,2.03,1.66,24,16,256,AMD Ryzen 9,15.6,Windows,Active
+EC-P00369,Apple,MacBook Air A 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-05-22,2023-02-04,151500,2.2,1.86,24,8,512,Apple M1,14.2,macOS,Active
+EC-P00370,Razer,Blade 15 300 2022 Gen 2 Config 1,Workstation Laptop,2022,2022-04-26,2021-11-19,216500,1.84,1.31,12,64,1024,Intel Core i9,16.0,Windows,Returned
+EC-P00371,Microsoft,Surface Laptop X 2024 Gen 1 Config 1,Laptop,2024,2024-09-25,2024-06-15,123000,2.0,1.69,36,32,1024,Intel Core i7,16.0,ChromeOS,Active
+EC-P00372,ASUS,VivoBook 500 2026 Gen 2 Config 1,Business Laptop,2026,2026-02-01,2025-09-16,82000,1.75,1.22,12,32,512,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00373,Dell,Inspiron 300 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-10-07,2021-08-06,118000,2.86,2.47,12,8,1024,Intel Core i5,13.3,ChromeOS,Returned
+EC-P00374,Dell,Latitude A 2022 Gen 3 Config 1,Ultrabook,2022,2022-05-06,2021-12-05,80000,2.31,1.82,12,16,256,Intel Core i7,17.3,Windows,Active
+EC-P00375,HP,ProBook X 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-06-04,2025-01-21,141000,1.76,1.28,12,16,1024,Intel Core i7,13.3,Windows,Active
+EC-P00376,Lenovo,Yoga A 2023 Gen 1 Config 1,Laptop,2023,2023-04-18,2022-12-20,135500,2.22,1.81,24,32,2048,Intel Core i9,16.0,Windows,Active
+EC-P00377,MSI,Modern X 2021 Gen 3 Config 1,Business Laptop,2021,2021-03-13,2020-11-16,96000,2.09,1.7,12,8,2048,Intel Core i5,16.0,ChromeOS,Refurbished
+EC-P00378,HP,ProBook E 2021 Gen 2 Config 1,Ultrabook,2021,2021-10-09,2021-04-13,118500,2.22,1.63,36,8,512,Intel Core i7,16.0,Windows,Resold
+EC-P00379,Apple,MacBook Pro 14 2026 Gen 4 Config 1,Gaming Laptop,2026,2026-01-04,2025-12-07,142000,2.52,2.03,12,16,2048,Apple M3,15.3,macOS,Resold
+EC-P00380,Samsung,Galaxy Book G 2022 Gen 3 Config 1,Business Laptop,2022,2022-08-17,2022-05-28,119000,1.91,1.41,24,8,2048,Intel Core i9,13.3,Windows,Active
+EC-P00381,Microsoft,Surface Laptop G 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-08-14,2021-06-26,164000,2.6,2.17,12,64,2048,AMD Ryzen 5,16.0,Windows,Active
+EC-P00382,MSI,Prestige 14 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-10-22,2021-07-09,173500,2.01,1.57,24,64,512,AMD Ryzen 9,16.0,Windows,Refurbished
+EC-P00383,ASUS,ExpertBook 300 2021 Gen 1 Config 1,Business Laptop,2021,2021-07-12,2021-06-13,74000,1.91,1.43,24,8,1024,Intel Core i9,17.3,Windows,Returned
+EC-P00384,Acer,Swift A 2026 Gen 1 Config 1,Laptop,2026,2026-09-14,2026-06-23,51500,1.95,1.66,36,8,1024,Intel Core i9,14.0,Windows,Active
+EC-P00385,Samsung,Galaxy Book G 2023 Gen 4 Config 1,Ultrabook,2023,2023-03-20,2022-12-19,88000,2.08,1.73,24,8,512,AMD Ryzen 7,16.0,Windows,Active
+EC-P00386,MSI,Modern 15 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-02-19,2023-11-10,193500,2.01,1.75,36,32,2048,Intel Core i7,13.3,Windows,Active
+EC-P00387,Razer,Blade 15 900 2024 Gen 3 Config 1,Laptop,2024,2024-05-20,2023-12-26,139500,2.18,1.57,24,32,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00388,Microsoft,Surface Laptop 15 2021 Gen 2 Config 1,Workstation Laptop,2021,2021-08-05,2021-05-21,211000,2.16,1.69,24,32,2048,AMD Ryzen 5,16.0,Windows,Active
+EC-P00389,ASUS,TUF E 2024 Gen 1 Config 1,Business Laptop,2024,2024-03-07,2024-02-14,103500,2.12,1.61,12,16,1024,AMD Ryzen 5,15.6,Windows,Active
+EC-P00390,ASUS,TUF S 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-11-28,2024-11-03,94500,2.62,2.13,12,16,1024,AMD Ryzen 9,14.0,ChromeOS,Recycled
+EC-P00391,Samsung,Galaxy Book 500 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-10-24,2021-06-03,175000,2.21,1.56,12,32,256,Intel Core i9,16.0,Windows,Resold
+EC-P00392,Microsoft,Surface Pro 500 2024 Gen 2 Config 1,Workstation Laptop,2024,2024-03-04,2024-01-05,228000,2.2,1.91,12,32,2048,Intel Core i5,15.6,Windows,Active
+EC-P00393,ASUS,TUF A 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-06-16,2024-02-28,197000,2.28,1.91,12,32,2048,AMD Ryzen 7,13.3,Windows,Resold
+EC-P00394,Dell,Latitude 15 2026 Gen 1 Config 1,Business Laptop,2026,2026-01-13,2025-10-25,99000,2.28,1.94,24,32,256,Intel Core i9,15.6,Windows,Active
+EC-P00395,Acer,TravelMate 700 2022 Gen 4 Config 1,Ultrabook,2022,2022-12-14,2022-11-04,144000,1.91,1.46,24,32,256,AMD Ryzen 9,13.3,Windows,Resold
+EC-P00396,ASUS,VivoBook G 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-10-03,2023-08-21,195500,2.28,1.84,24,16,2048,AMD Ryzen 9,13.3,Windows,Active
+EC-P00397,Microsoft,Surface Laptop 15 2025 Gen 4 Config 1,Ultrabook,2025,2025-02-14,2024-10-28,143000,2.17,1.82,12,32,512,AMD Ryzen 5,14.0,Windows,Active
+EC-P00398,MSI,Katana 300 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-10-14,2022-04-29,127500,2.09,1.49,24,8,2048,AMD Ryzen 9,14.0,Windows,Active
+EC-P00399,HP,Pavilion 14 2022 Gen 1 Config 1,Laptop,2022,2022-05-24,2022-01-03,117000,2.21,1.59,24,64,256,AMD Ryzen 9,16.0,Windows,Active
+EC-P00400,MSI,Modern 900 2025 Gen 3 Config 1,Business Laptop,2025,2025-06-19,2024-12-21,66000,1.81,1.39,12,8,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00401,Dell,Precision E 2022 Gen 4 Config 1,Business Laptop,2022,2022-08-12,2022-02-23,70000,2.11,1.46,12,32,256,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00402,Razer,Blade 14 A 2021 Gen 4 Config 1,Ultrabook,2021,2021-03-03,2020-11-27,72000,1.97,1.71,24,8,512,AMD Ryzen 5,14.0,Windows,Refurbished
+EC-P00403,MSI,Modern 500 2023 Gen 3 Config 1,Laptop,2023,2023-09-11,2023-05-08,114500,2.3,1.69,24,32,2048,Intel Core i7,15.6,Windows,Resold
+EC-P00404,Apple,MacBook Pro S 2022 Gen 4 Config 1,Laptop,2022,2022-07-04,2022-02-13,76500,1.7,1.24,24,8,512,Apple M1,14.2,macOS,Active
+EC-P00405,Apple,MacBook Pro X 2024 Gen 1 Config 1,Business Laptop,2024,2024-05-19,2023-12-07,121500,1.91,1.62,36,8,512,Apple M1,15.3,macOS,Active
+EC-P00406,Dell,Inspiron 500 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-06-05,2024-05-14,163000,2.39,2.07,12,8,1024,AMD Ryzen 9,15.6,Windows,Active
+EC-P00407,Samsung,Galaxy Book Pro A 2026 Gen 1 Config 1,Ultrabook,2026,2026-12-03,2026-07-01,94000,2.26,1.66,12,32,512,Intel Core i5,16.0,Windows,Recycled
+EC-P00408,MSI,Modern A 2024 Gen 2 Config 1,Business Laptop,2024,2024-02-10,2023-09-23,128000,1.91,1.55,12,16,2048,AMD Ryzen 5,14.0,Windows,Resold
+EC-P00409,ASUS,ZenBook 15 2023 Gen 1 Config 1,Ultrabook,2023,2023-06-20,2023-04-19,180500,2.14,1.49,24,64,2048,AMD Ryzen 7,16.0,Windows,Active
+EC-P00410,MSI,Modern S 2021 Gen 3 Config 1,Gaming Laptop,2021,2021-03-22,2020-12-21,177000,2.78,2.16,12,64,256,AMD Ryzen 9,14.0,Windows,Resold
+EC-P00411,Microsoft,Surface Pro 14 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-06-09,2022-12-27,130500,2.13,1.76,24,8,2048,Intel Core i5,17.3,ChromeOS,Active
+EC-P00412,Microsoft,Surface Laptop 15 2021 Gen 4 Config 1,Business Laptop,2021,2021-11-15,2021-05-25,124500,2.05,1.52,24,8,2048,Intel Core i7,13.3,Windows,Resold
+EC-P00413,Apple,MacBook Air 700 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-08-23,2022-04-27,183500,1.7,1.21,24,64,256,Apple M2,13.3,macOS,Resold
+EC-P00414,Razer,Blade 15 14 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-08-21,2023-06-30,125500,2.56,2.18,12,8,512,Intel Core i9,14.0,Windows,Returned
+EC-P00415,MSI,Katana 900 2025 Gen 1 Config 1,Ultrabook,2025,2025-08-01,2025-03-24,61000,2.22,1.71,24,8,256,AMD Ryzen 5,16.0,Windows,Active
+EC-P00416,Acer,TravelMate G 2025 Gen 1 Config 1,Ultrabook,2025,2025-01-16,2024-09-21,211500,2.14,1.69,24,64,2048,Intel Core i5,16.0,Windows,Active
+EC-P00417,Razer,Blade 15 300 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-12-14,2022-11-24,210500,2.39,1.93,24,32,2048,AMD Ryzen 7,13.3,Windows,Active
+EC-P00418,Acer,Nitro X 2023 Gen 2 Config 1,Workstation Laptop,2023,2023-11-21,2023-08-06,214000,2.19,1.66,24,64,512,Intel Core i7,15.6,Windows,Refurbished
+EC-P00419,Lenovo,IdeaPad 500 2023 Gen 4 Config 1,Business Laptop,2023,2023-04-07,2022-11-01,154000,2.1,1.85,24,64,256,Intel Core i7,17.3,Windows,Active
+EC-P00420,Dell,Vostro E 2023 Gen 2 Config 1,Business Laptop,2023,2023-08-09,2023-04-29,103500,2.0,1.41,12,32,2048,AMD Ryzen 7,13.3,Windows,Refurbished
+EC-P00421,Dell,Vostro S 2022 Gen 1 Config 1,Laptop,2022,2022-11-04,2022-08-29,89000,1.97,1.54,12,8,256,AMD Ryzen 5,13.3,Windows,Resold
+EC-P00422,Lenovo,ThinkBook X 2026 Gen 4 Config 1,Laptop,2026,2026-04-27,2025-12-12,100000,1.88,1.64,12,16,256,Intel Core i7,15.6,Windows,Active
+EC-P00423,Microsoft,Surface Laptop A 2021 Gen 3 Config 1,Gaming Laptop,2021,2021-09-26,2021-06-11,168500,2.34,2.02,24,16,2048,Intel Core i9,14.0,Windows,Resold
+EC-P00424,Samsung,Galaxy Book S 2021 Gen 1 Config 1,Laptop,2021,2021-10-02,2021-04-09,128000,2.13,1.73,12,64,256,Intel Core i9,14.0,Windows,Recycled
+EC-P00425,Microsoft,Surface Pro G 2024 Gen 3 Config 1,Ultrabook,2024,2024-11-15,2024-08-04,137000,1.88,1.48,36,16,2048,Intel Core i9,15.6,Windows,Resold
+EC-P00426,MSI,Modern 500 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-01-01,2022-08-01,138000,2.0,1.57,12,32,512,Intel Core i9,14.0,Windows,Active
+EC-P00427,Acer,TravelMate G 2026 Gen 1 Config 1,Laptop,2026,2026-05-19,2026-05-03,67000,2.31,2.01,24,32,256,Intel Core i9,17.3,Windows,Active
+EC-P00428,Acer,Swift A 2023 Gen 3 Config 1,Workstation Laptop,2023,2023-08-04,2023-06-13,130000,2.13,1.8,24,16,256,AMD Ryzen 9,16.0,Windows,Refurbished
+EC-P00429,MSI,Modern 300 2021 Gen 4 Config 1,Business Laptop,2021,2021-10-16,2021-04-22,134500,1.97,1.65,24,32,2048,AMD Ryzen 5,13.3,Windows,Active
+EC-P00430,Samsung,Galaxy Book Pro G 2026 Gen 2 Config 1,Business Laptop,2026,2026-09-12,2026-07-29,90000,1.91,1.48,12,16,256,AMD Ryzen 7,16.0,Windows,Returned
+EC-P00431,MSI,Modern E 2021 Gen 3 Config 1,Laptop,2021,2021-03-26,2020-10-12,97500,1.93,1.32,12,32,1024,AMD Ryzen 7,15.6,Windows,Active
+EC-P00432,ASUS,ExpertBook 700 2022 Gen 4 Config 1,Laptop,2022,2022-07-16,2022-01-27,99000,1.98,1.57,24,8,2048,Intel Core i5,13.3,Windows,Active
+EC-P00433,Lenovo,Yoga 15 2024 Gen 4 Config 1,Business Laptop,2024,2024-11-15,2024-08-21,149500,2.39,1.79,12,64,2048,AMD Ryzen 9,17.3,Windows,Returned
+EC-P00434,Lenovo,ThinkPad 15 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-09-07,2025-04-24,145500,2.2,1.52,36,8,512,AMD Ryzen 9,17.3,Windows,Active
+EC-P00435,Dell,Latitude S 2026 Gen 2 Config 1,Laptop,2026,2026-01-16,2025-12-27,155000,1.99,1.48,36,64,256,Intel Core i9,14.0,Windows,Active
+EC-P00436,Lenovo,Yoga S 2021 Gen 3 Config 1,Gaming Laptop,2021,2021-11-06,2021-10-07,105000,2.18,1.62,24,16,1024,Intel Core i9,13.3,Windows,Returned
+EC-P00437,Apple,MacBook Air 300 2021 Gen 3 Config 1,Gaming Laptop,2021,2021-04-08,2020-10-23,206500,2.76,2.37,12,16,2048,Apple M1,15.3,macOS,Active
+EC-P00438,Samsung,Galaxy Book Pro A 2021 Gen 1 Config 1,Ultrabook,2021,2021-09-19,2021-08-10,159500,1.77,1.52,24,64,256,AMD Ryzen 5,13.3,Windows,Active
+EC-P00439,Microsoft,Surface Laptop 14 2023 Gen 4 Config 1,Gaming Laptop,2023,2023-09-15,2023-08-21,134000,3.22,2.54,24,16,512,Intel Core i5,17.3,Windows,Active
+EC-P00440,Samsung,Galaxy Book Pro 700 2026 Gen 1 Config 1,Laptop,2026,2026-05-02,2026-03-07,171000,2.14,1.71,36,64,1024,AMD Ryzen 5,15.6,Windows,Refurbished
+EC-P00441,Razer,Blade 14 500 2023 Gen 4 Config 1,Laptop,2023,2023-11-09,2023-07-02,147000,2.06,1.73,24,64,512,Intel Core i7,15.6,Windows,Active
+EC-P00442,Apple,MacBook Pro X 2022 Gen 3 Config 1,Laptop,2022,2022-09-23,2022-05-06,92500,2.22,1.81,24,8,2048,Apple M3,14.2,macOS,Refurbished
+EC-P00443,Microsoft,Surface Laptop 15 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-12-01,2026-10-16,157000,2.28,1.71,12,8,1024,Intel Core i5,16.0,Windows,Active
+EC-P00444,Acer,Nitro 900 2021 Gen 1 Config 1,Ultrabook,2021,2021-04-16,2020-12-30,128000,2.13,1.79,12,16,256,AMD Ryzen 9,15.6,ChromeOS,Active
+EC-P00445,Samsung,Galaxy Book 900 2021 Gen 4 Config 1,Laptop,2021,2021-10-06,2021-09-05,92500,2.22,1.81,36,16,512,Intel Core i9,16.0,Windows,Active
+EC-P00446,HP,ProBook 14 2023 Gen 2 Config 1,Workstation Laptop,2023,2023-11-22,2023-10-25,160000,2.2,1.5,24,8,1024,AMD Ryzen 9,14.0,Windows,Resold
+EC-P00447,Apple,MacBook Pro A 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-09-15,2024-06-12,224000,1.93,1.42,24,32,256,Apple M2,16.2,macOS,Active
+EC-P00448,Acer,TravelMate 14 2021 Gen 1 Config 1,Business Laptop,2021,2021-01-16,2020-09-13,60000,1.83,1.27,12,16,512,AMD Ryzen 9,13.3,Windows,Resold
+EC-P00449,Razer,Blade 15 900 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-10-04,2023-08-29,149000,2.58,1.8,24,32,512,Intel Core i7,13.3,ChromeOS,Recycled
+EC-P00450,Dell,Precision 500 2023 Gen 2 Config 1,Laptop,2023,2023-07-13,2023-06-04,109000,2.26,1.79,24,64,256,AMD Ryzen 5,17.3,Windows,Returned
+EC-P00451,MSI,Modern 15 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-02-04,2025-01-17,161000,2.85,2.13,12,8,1024,AMD Ryzen 5,16.0,Windows,Active
+EC-P00452,HP,ProBook 700 2025 Gen 3 Config 1,Ultrabook,2025,2025-10-14,2025-05-21,137500,2.33,1.61,24,64,512,AMD Ryzen 5,17.3,Windows,Recycled
+EC-P00453,Apple,MacBook Pro S 2025 Gen 2 Config 1,Business Laptop,2025,2025-01-08,2024-08-17,127000,2.32,1.82,12,32,1024,Apple M2,15.3,macOS,Resold
+EC-P00454,Microsoft,Surface Laptop E 2024 Gen 2 Config 1,Business Laptop,2024,2024-10-23,2024-07-16,112000,1.92,1.57,24,32,512,AMD Ryzen 9,13.3,ChromeOS,Resold
+EC-P00455,Razer,Blade 15 A 2025 Gen 4 Config 1,Ultrabook,2025,2025-04-08,2024-11-21,138000,1.77,1.29,36,64,512,Intel Core i7,13.3,Windows,Refurbished
+EC-P00456,Apple,MacBook Pro G 2022 Gen 2 Config 1,Laptop,2022,2022-04-21,2021-11-08,76000,1.96,1.39,24,8,1024,Apple M2,13.3,macOS,Resold
+EC-P00457,Apple,MacBook Air 900 2021 Gen 2 Config 1,Ultrabook,2021,2021-05-04,2021-04-14,144000,1.83,1.32,12,32,512,Apple M1,14.2,macOS,Resold
+EC-P00458,Lenovo,Yoga 500 2026 Gen 3 Config 1,Business Laptop,2026,2026-12-03,2026-10-19,103000,2.34,2.06,24,32,512,Intel Core i9,15.6,Windows,Active
+EC-P00459,Lenovo,IdeaPad S 2022 Gen 4 Config 1,Ultrabook,2022,2022-01-21,2021-10-27,123000,1.85,1.31,12,8,512,Intel Core i9,14.0,Windows,Resold
+EC-P00460,Microsoft,Surface Pro 500 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-12-16,2022-07-28,190500,1.89,1.55,36,32,2048,Intel Core i5,16.0,Windows,Active
+EC-P00461,Razer,Blade 15 14 2026 Gen 1 Config 1,Business Laptop,2026,2026-03-27,2025-12-07,91000,1.96,1.68,36,16,2048,Intel Core i7,16.0,Windows,Active
+EC-P00462,HP,ProBook A 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-06-09,2021-02-17,203500,1.91,1.46,24,64,1024,Intel Core i9,13.3,Windows,Active
+EC-P00463,Samsung,Galaxy Book 15 2023 Gen 1 Config 1,Ultrabook,2023,2023-04-11,2023-02-05,77000,1.92,1.44,36,8,1024,Intel Core i5,17.3,Windows,Returned
+EC-P00464,ASUS,ExpertBook 15 2026 Gen 3 Config 1,Business Laptop,2026,2026-07-27,2026-02-14,114500,1.85,1.56,24,32,256,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00465,Dell,Precision S 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-06-26,2026-05-21,204000,2.91,2.4,24,64,512,Intel Core i7,14.0,Windows,Active
+EC-P00466,Acer,Nitro G 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-06-08,2026-02-06,139500,2.57,2.0,24,32,512,AMD Ryzen 5,13.3,Windows,Active
+EC-P00467,MSI,Katana A 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-10-28,2025-07-05,138000,2.01,1.61,36,16,512,Intel Core i5,13.3,Windows,Recycled
+EC-P00468,Acer,Nitro S 2021 Gen 4 Config 1,Business Laptop,2021,2021-01-27,2020-08-11,122000,1.95,1.59,12,64,1024,AMD Ryzen 5,17.3,Windows,Active
+EC-P00469,Lenovo,IdeaPad G 2021 Gen 3 Config 1,Business Laptop,2021,2021-07-13,2021-05-19,71000,2.07,1.41,24,8,2048,Intel Core i7,17.3,Windows,Recycled
+EC-P00470,Lenovo,Yoga 500 2024 Gen 4 Config 1,Business Laptop,2024,2024-04-17,2023-12-07,145000,2.12,1.84,36,64,2048,Intel Core i7,15.6,Windows,Active
+EC-P00471,Dell,Inspiron 500 2024 Gen 4 Config 1,Workstation Laptop,2024,2024-06-23,2024-03-24,232500,1.87,1.31,24,64,2048,Intel Core i7,17.3,Windows,Active
+EC-P00472,Lenovo,Yoga 700 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-05-22,2022-04-20,141000,2.64,1.94,36,8,2048,AMD Ryzen 5,14.0,ChromeOS,Refurbished
+EC-P00473,Acer,Nitro S 2024 Gen 1 Config 1,Ultrabook,2024,2024-01-03,2023-07-09,141000,2.0,1.56,24,32,2048,Intel Core i5,17.3,Windows,Refurbished
+EC-P00474,Samsung,Galaxy Book Pro G 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-12-15,2023-10-26,176500,2.51,1.75,12,16,1024,Intel Core i5,13.3,Windows,Active
+EC-P00475,ASUS,ZenBook 300 2022 Gen 1 Config 1,Business Laptop,2022,2022-08-12,2022-06-13,88500,2.24,1.83,12,16,256,Intel Core i9,16.0,Windows,Active
+EC-P00476,Dell,Inspiron 300 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-04-03,2024-03-15,135500,2.95,2.23,12,8,256,AMD Ryzen 9,13.3,Windows,Active
+EC-P00477,Dell,Vostro 15 2022 Gen 1 Config 1,Business Laptop,2022,2022-09-21,2022-07-20,72000,1.98,1.67,24,16,256,Intel Core i5,14.0,Windows,Returned
+EC-P00478,Microsoft,Surface Pro 500 2024 Gen 2 Config 1,Business Laptop,2024,2024-04-03,2024-01-08,110000,1.86,1.41,24,8,2048,Intel Core i5,14.0,Windows,Returned
+EC-P00479,Apple,MacBook Air 900 2021 Gen 4 Config 1,Ultrabook,2021,2021-11-25,2021-10-07,94000,2.15,1.88,24,8,512,Apple M3,16.2,macOS,Active
+EC-P00480,Apple,MacBook Pro E 2021 Gen 1 Config 1,Workstation Laptop,2021,2021-10-25,2021-09-09,233500,2.21,1.51,12,64,512,Apple M3,16.2,macOS,Active
+EC-P00481,MSI,Modern 500 2025 Gen 1 Config 1,Business Laptop,2025,2025-08-24,2025-05-17,90000,2.06,1.5,36,16,2048,Intel Core i9,14.0,Windows,Active
+EC-P00482,Apple,MacBook Air G 2025 Gen 3 Config 1,Laptop,2025,2025-11-23,2025-09-13,107000,2.07,1.78,12,32,512,Apple M1,15.3,macOS,Returned
+EC-P00483,MSI,Katana 700 2023 Gen 4 Config 1,Laptop,2023,2023-02-06,2022-08-24,86000,2.23,1.93,12,16,256,Intel Core i5,13.3,Windows,Active
+EC-P00484,Acer,Swift 500 2025 Gen 4 Config 1,Gaming Laptop,2025,2025-05-28,2025-01-10,153000,2.33,1.79,12,16,2048,Intel Core i9,14.0,Windows,Active
+EC-P00485,Apple,MacBook Pro 700 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-10-18,2024-08-25,178000,2.84,2.36,24,16,2048,Apple M2,16.2,macOS,Active
+EC-P00486,Lenovo,ThinkBook X 2024 Gen 3 Config 1,Gaming Laptop,2024,2024-01-28,2023-09-07,158000,2.74,2.37,12,64,256,Intel Core i9,17.3,Windows,Refurbished
+EC-P00487,Apple,MacBook Pro G 2024 Gen 4 Config 1,Ultrabook,2024,2024-03-07,2023-11-02,127000,2.39,1.68,36,32,256,Apple M2,16.2,macOS,Recycled
+EC-P00488,Apple,MacBook Pro E 2026 Gen 1 Config 1,Gaming Laptop,2026,2026-05-20,2026-01-09,182500,2.64,1.81,12,16,2048,Apple M2,14.2,macOS,Resold
+EC-P00489,Lenovo,ThinkBook 14 2022 Gen 2 Config 1,Laptop,2022,2022-07-09,2022-04-08,136000,2.33,1.99,12,64,256,Intel Core i5,16.0,Windows,Active
+EC-P00490,Microsoft,Surface Pro A 2025 Gen 4 Config 1,Laptop,2025,2025-01-06,2024-08-19,107500,1.88,1.56,24,16,1024,Intel Core i5,15.6,Windows,Active
+EC-P00491,HP,ZBook G 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-03-07,2025-02-05,118000,2.38,1.89,12,16,512,Intel Core i7,14.0,Windows,Refurbished
+EC-P00492,Acer,TravelMate X 2024 Gen 1 Config 1,Business Laptop,2024,2024-08-22,2024-07-13,53000,1.99,1.59,24,8,1024,Intel Core i5,16.0,Windows,Active
+EC-P00493,ASUS,VivoBook 14 2026 Gen 1 Config 1,Laptop,2026,2026-06-12,2026-03-02,148000,1.92,1.44,24,64,1024,Intel Core i7,13.3,Windows,Recycled
+EC-P00494,Acer,TravelMate G 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-01-20,2025-12-05,152000,2.18,1.8,12,8,256,Intel Core i5,15.6,ChromeOS,Resold
+EC-P00495,ASUS,ZenBook X 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-11-15,2023-09-02,159000,2.16,1.89,24,32,256,AMD Ryzen 5,13.3,Windows,Returned
+EC-P00496,MSI,Katana 500 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-01-05,2024-08-16,193500,2.89,2.47,36,64,1024,AMD Ryzen 5,13.3,ChromeOS,Refurbished
+EC-P00497,ASUS,TUF X 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-03-11,2021-11-18,167000,2.5,2.2,12,16,512,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00498,Acer,TravelMate X 2026 Gen 1 Config 1,Business Laptop,2026,2026-02-21,2025-11-11,106000,1.91,1.52,36,8,1024,AMD Ryzen 7,16.0,Windows,Active
+EC-P00499,MSI,Katana S 2026 Gen 4 Config 1,Business Laptop,2026,2026-12-04,2026-06-26,41000,1.96,1.56,12,8,256,Intel Core i7,15.6,Windows,Active
+EC-P00500,Apple,MacBook Pro 300 2025 Gen 3 Config 1,Laptop,2025,2025-09-22,2025-04-06,180500,2.14,1.8,12,64,2048,Apple M3,14.2,macOS,Active
+EC-P00501,HP,ZBook S 2021 Gen 4 Config 1,Ultrabook,2021,2021-10-11,2021-07-09,146500,1.85,1.36,12,16,2048,Intel Core i7,15.6,Windows,Active
+EC-P00502,HP,Pavilion 14 2026 Gen 4 Config 1,Business Laptop,2026,2026-12-24,2026-11-26,59000,2.28,1.65,12,8,1024,AMD Ryzen 5,16.0,Windows,Resold
+EC-P00503,Lenovo,Yoga G 2026 Gen 3 Config 1,Business Laptop,2026,2026-12-10,2026-09-14,157500,2.21,1.68,36,64,2048,Intel Core i5,15.6,Windows,Refurbished
+EC-P00504,Acer,Nitro 700 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-04-07,2021-02-01,183500,2.02,1.57,12,64,512,Intel Core i5,15.6,Windows,Refurbished
+EC-P00505,Dell,Vostro 14 2026 Gen 1 Config 1,Business Laptop,2026,2026-02-17,2025-11-08,51000,1.99,1.54,12,16,256,AMD Ryzen 5,16.0,ChromeOS,Active
+EC-P00506,Lenovo,Yoga 300 2022 Gen 1 Config 1,Business Laptop,2022,2022-08-28,2022-05-08,127500,2.27,1.9,12,16,2048,AMD Ryzen 5,17.3,Windows,Active
+EC-P00507,Samsung,Galaxy Book Pro 500 2021 Gen 1 Config 1,Laptop,2021,2021-12-24,2021-11-15,83000,2.2,1.75,24,16,256,Intel Core i5,17.3,Windows,Refurbished
+EC-P00508,Lenovo,Yoga 15 2024 Gen 4 Config 1,Ultrabook,2024,2024-09-16,2024-08-16,99000,1.77,1.4,36,8,512,AMD Ryzen 7,15.6,Windows,Active
+EC-P00509,Razer,Blade 14 15 2022 Gen 1 Config 1,Business Laptop,2022,2022-02-18,2021-11-30,124000,1.65,1.31,12,64,1024,AMD Ryzen 7,13.3,Windows,Resold
+EC-P00510,Dell,Latitude S 2021 Gen 3 Config 1,Ultrabook,2021,2021-08-05,2021-02-24,88500,2.17,1.6,36,16,1024,AMD Ryzen 7,13.3,Windows,Active
+EC-P00511,Apple,MacBook Pro S 2025 Gen 2 Config 1,Laptop,2025,2025-03-20,2024-10-15,82000,1.72,1.46,12,16,256,Apple M3,13.3,macOS,Active
+EC-P00512,Apple,MacBook Pro 14 2022 Gen 4 Config 1,Laptop,2022,2022-05-22,2022-01-19,163500,2.28,1.73,12,32,2048,Apple M3,15.3,macOS,Resold
+EC-P00513,Lenovo,IdeaPad 15 2021 Gen 3 Config 1,Business Laptop,2021,2021-07-01,2021-01-13,130500,1.94,1.7,24,16,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00514,ASUS,VivoBook 500 2025 Gen 4 Config 1,Laptop,2025,2025-02-13,2024-12-04,87000,2.28,1.65,12,32,1024,Intel Core i9,15.6,Windows,Active
+EC-P00515,HP,EliteBook S 2022 Gen 3 Config 1,Workstation Laptop,2022,2022-03-12,2021-10-12,154000,2.3,1.64,24,32,1024,AMD Ryzen 5,15.6,Windows,Active
+EC-P00516,MSI,Prestige 700 2025 Gen 3 Config 1,Laptop,2025,2025-12-25,2025-10-08,74000,2.01,1.47,24,16,512,AMD Ryzen 9,14.0,Windows,Returned
+EC-P00517,MSI,Katana 700 2024 Gen 4 Config 1,Ultrabook,2024,2024-06-28,2024-05-21,157500,2.27,1.97,24,64,512,AMD Ryzen 5,15.6,Windows,Returned
+EC-P00518,HP,ProBook 700 2021 Gen 1 Config 1,Laptop,2021,2021-08-17,2021-03-19,111500,2.09,1.73,24,8,2048,AMD Ryzen 9,16.0,Windows,Refurbished
+EC-P00519,MSI,Modern 900 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-04-06,2025-03-03,139000,3.06,2.62,36,16,256,AMD Ryzen 9,15.6,Windows,Active
+EC-P00520,Lenovo,ThinkBook G 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-05-09,2021-03-01,183000,2.96,2.18,24,32,512,Intel Core i7,13.3,Windows,Active
+EC-P00521,Razer,Blade 15 A 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-07-12,2022-06-25,159500,2.37,1.61,12,32,256,AMD Ryzen 7,13.3,Windows,Active
+EC-P00522,Samsung,Galaxy Book S 2021 Gen 2 Config 1,Gaming Laptop,2021,2021-09-26,2021-07-05,129000,2.38,1.82,12,16,1024,Intel Core i5,13.3,ChromeOS,Active
+EC-P00523,Samsung,Galaxy Book Pro 700 2022 Gen 3 Config 1,Gaming Laptop,2022,2022-03-22,2022-01-16,86000,2.33,1.74,12,8,512,Intel Core i5,14.0,Windows,Resold
+EC-P00524,ASUS,VivoBook X 2024 Gen 4 Config 1,Business Laptop,2024,2024-03-12,2023-10-21,114000,2.35,1.97,12,64,512,Intel Core i9,16.0,Windows,Active
+EC-P00525,Acer,Aspire E 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-12-17,2026-10-16,145000,2.24,1.63,12,32,1024,AMD Ryzen 9,16.0,Windows,Active
+EC-P00526,HP,Pavilion 900 2026 Gen 4 Config 1,Business Laptop,2026,2026-02-05,2025-10-11,105000,1.99,1.61,12,16,512,AMD Ryzen 5,13.3,Windows,Active
+EC-P00527,Acer,Swift 300 2024 Gen 2 Config 1,Laptop,2024,2024-07-21,2024-06-23,83000,2.05,1.59,36,32,512,Intel Core i5,17.3,Windows,Active
+EC-P00528,ASUS,ExpertBook E 2023 Gen 4 Config 1,Business Laptop,2023,2023-08-09,2023-02-20,38500,2.07,1.54,24,8,256,Intel Core i9,14.0,Windows,Active
+EC-P00529,Lenovo,ThinkBook E 2024 Gen 3 Config 1,Ultrabook,2024,2024-09-20,2024-06-02,116500,2.12,1.76,36,16,1024,Intel Core i5,13.3,Windows,Active
+EC-P00530,ASUS,ZenBook G 2025 Gen 1 Config 1,Laptop,2025,2025-04-23,2024-12-15,73500,2.43,2.08,12,8,256,Intel Core i7,17.3,Windows,Resold
+EC-P00531,HP,Pavilion X 2023 Gen 2 Config 1,Workstation Laptop,2023,2023-06-12,2023-02-03,189500,1.82,1.56,36,16,2048,AMD Ryzen 9,14.0,Windows,Returned
+EC-P00532,HP,ZBook X 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-12-27,2021-09-02,120500,2.24,1.55,12,32,512,AMD Ryzen 7,14.0,Windows,Active
+EC-P00533,Microsoft,Surface Laptop X 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-09-15,2022-04-25,90000,2.1,1.68,12,16,512,AMD Ryzen 5,15.6,Windows,Refurbished
+EC-P00534,Microsoft,Surface Pro 900 2023 Gen 3 Config 1,Ultrabook,2023,2023-03-09,2023-02-09,70000,2.05,1.78,24,8,512,AMD Ryzen 7,14.0,Windows,Returned
+EC-P00535,Acer,Swift 500 2025 Gen 1 Config 1,Ultrabook,2025,2025-05-11,2025-04-12,138000,1.92,1.36,36,32,256,AMD Ryzen 9,15.6,Windows,Returned
+EC-P00536,Dell,Vostro A 2022 Gen 2 Config 1,Ultrabook,2022,2022-04-27,2021-12-20,128500,2.37,1.91,36,8,2048,Intel Core i5,17.3,Windows,Active
+EC-P00537,ASUS,ZenBook 15 2025 Gen 4 Config 1,Business Laptop,2025,2025-03-27,2025-01-26,127500,2.07,1.61,24,32,512,AMD Ryzen 5,16.0,Windows,Active
+EC-P00538,Samsung,Galaxy Book A 2026 Gen 1 Config 1,Ultrabook,2026,2026-02-24,2025-09-28,66500,2.04,1.57,24,16,256,Intel Core i7,16.0,Windows,Active
+EC-P00539,Dell,Latitude G 2024 Gen 1 Config 1,Laptop,2024,2024-01-26,2024-01-09,99500,1.68,1.19,36,16,512,Intel Core i5,13.3,Windows,Recycled
+EC-P00540,HP,Pavilion 500 2026 Gen 2 Config 1,Business Laptop,2026,2026-12-09,2026-06-17,80000,2.07,1.51,36,16,1024,AMD Ryzen 5,16.0,Windows,Active
+EC-P00541,Dell,Latitude S 2021 Gen 3 Config 1,Laptop,2021,2021-03-12,2020-12-14,104500,1.91,1.39,24,16,256,AMD Ryzen 7,16.0,Windows,Active
+EC-P00542,MSI,Katana 500 2026 Gen 4 Config 1,Business Laptop,2026,2026-01-20,2025-11-28,104000,1.96,1.47,12,32,256,Intel Core i5,15.6,Windows,Active
+EC-P00543,Microsoft,Surface Pro 700 2025 Gen 4 Config 1,Business Laptop,2025,2025-05-26,2025-04-22,135000,1.91,1.65,24,32,1024,AMD Ryzen 9,17.3,Windows,Refurbished
+EC-P00544,Lenovo,IdeaPad 700 2023 Gen 4 Config 1,Gaming Laptop,2023,2023-03-25,2022-12-02,126000,2.86,2.0,12,8,256,AMD Ryzen 9,16.0,Windows,Active
+EC-P00545,Samsung,Galaxy Book Pro G 2024 Gen 3 Config 1,Business Laptop,2024,2024-07-03,2024-01-22,170000,2.1,1.65,12,64,2048,AMD Ryzen 9,16.0,ChromeOS,Refurbished
+EC-P00546,Microsoft,Surface Laptop 500 2026 Gen 2 Config 1,Ultrabook,2026,2026-05-15,2026-03-25,118500,1.67,1.25,12,32,2048,Intel Core i5,13.3,Windows,Resold
+EC-P00547,Microsoft,Surface Pro 900 2022 Gen 2 Config 1,Laptop,2022,2022-11-19,2022-10-17,148000,2.25,1.7,12,64,256,AMD Ryzen 9,14.0,Windows,Active
+EC-P00548,Razer,Blade 14 700 2021 Gen 3 Config 1,Business Laptop,2021,2021-12-10,2021-07-28,157000,1.74,1.44,36,64,512,Intel Core i5,13.3,Windows,Active
+EC-P00549,Apple,MacBook Pro 300 2026 Gen 3 Config 1,Laptop,2026,2026-11-15,2026-06-12,97500,1.73,1.31,24,8,512,Apple M1,13.3,macOS,Refurbished
+EC-P00550,ASUS,ExpertBook 900 2026 Gen 4 Config 1,Business Laptop,2026,2026-07-06,2026-01-29,155500,1.98,1.59,12,64,512,Intel Core i9,17.3,ChromeOS,Returned
+EC-P00551,HP,ZBook E 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-01-08,2023-10-13,156500,2.37,1.98,24,64,512,Intel Core i7,15.6,Windows,Active
+EC-P00552,HP,EliteBook 14 2022 Gen 1 Config 1,Ultrabook,2022,2022-01-02,2021-09-29,92500,1.97,1.56,24,16,1024,Intel Core i7,13.3,Windows,Active
+EC-P00553,ASUS,VivoBook A 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-02-17,2022-12-26,188500,1.84,1.4,36,32,512,Intel Core i7,16.0,Windows,Active
+EC-P00554,MSI,Prestige 300 2025 Gen 3 Config 1,Business Laptop,2025,2025-12-06,2025-07-16,97500,1.76,1.44,12,8,512,Intel Core i7,13.3,Windows,Active
+EC-P00555,Razer,Blade 15 700 2024 Gen 3 Config 1,Ultrabook,2024,2024-10-21,2024-06-01,100000,2.38,1.91,12,8,2048,Intel Core i9,16.0,Windows,Active
+EC-P00556,Dell,Inspiron S 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-05-16,2023-02-25,116000,2.56,1.78,24,32,512,Intel Core i5,14.0,Windows,Refurbished
+EC-P00557,Samsung,Galaxy Book 14 2021 Gen 4 Config 1,Laptop,2021,2021-06-03,2021-02-03,135500,2.0,1.7,24,64,512,Intel Core i9,16.0,Windows,Active
+EC-P00558,ASUS,VivoBook 15 2025 Gen 1 Config 1,Business Laptop,2025,2025-04-13,2024-12-01,63500,1.86,1.48,12,16,256,AMD Ryzen 9,13.3,Windows,Returned
+EC-P00559,Apple,MacBook Pro 15 2024 Gen 4 Config 1,Laptop,2024,2024-06-11,2023-12-25,142500,1.94,1.47,12,8,2048,Apple M1,14.2,macOS,Active
+EC-P00560,Samsung,Galaxy Book X 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-06-26,2023-02-21,127500,2.26,1.89,12,16,1024,Intel Core i7,14.0,ChromeOS,Recycled
+EC-P00561,Acer,Aspire 300 2022 Gen 4 Config 1,Ultrabook,2022,2022-07-17,2022-05-09,86000,1.68,1.44,24,16,256,Intel Core i9,13.3,Windows,Returned
+EC-P00562,ASUS,ZenBook 500 2021 Gen 4 Config 1,Ultrabook,2021,2021-06-23,2021-01-13,193000,2.17,1.55,24,64,2048,Intel Core i9,15.6,Windows,Active
+EC-P00563,Dell,Inspiron 15 2021 Gen 2 Config 1,Ultrabook,2021,2021-02-26,2020-10-30,123500,2.32,1.81,24,8,512,AMD Ryzen 9,15.6,ChromeOS,Active
+EC-P00564,Dell,Precision 15 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-11-19,2022-11-01,201000,1.8,1.3,12,64,512,Intel Core i5,14.0,Windows,Active
+EC-P00565,Apple,MacBook Air A 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-02-06,2022-09-27,230500,2.87,2.51,24,64,2048,Apple M3,16.2,macOS,Active
+EC-P00566,Lenovo,IdeaPad G 2025 Gen 4 Config 1,Ultrabook,2025,2025-02-16,2024-08-26,83000,1.83,1.25,24,32,256,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00567,HP,ZBook 14 2025 Gen 1 Config 1,Ultrabook,2025,2025-07-27,2025-01-28,140500,2.35,1.76,24,64,256,AMD Ryzen 5,16.0,Windows,Refurbished
+EC-P00568,MSI,Modern 900 2023 Gen 3 Config 1,Ultrabook,2023,2023-09-27,2023-04-12,127000,1.8,1.23,24,16,256,AMD Ryzen 9,16.0,Windows,Active
+EC-P00569,Lenovo,Yoga S 2022 Gen 4 Config 1,Business Laptop,2022,2022-06-17,2022-04-23,148500,1.87,1.54,24,64,512,AMD Ryzen 7,13.3,Windows,Active
+EC-P00570,HP,ProBook 500 2025 Gen 4 Config 1,Ultrabook,2025,2025-03-01,2024-09-09,61500,2.02,1.63,36,16,256,AMD Ryzen 7,15.6,Windows,Refurbished
+EC-P00571,HP,ZBook 700 2021 Gen 4 Config 1,Ultrabook,2021,2021-05-22,2021-04-24,121500,2.11,1.78,24,32,512,Intel Core i7,14.0,Windows,Active
+EC-P00572,Lenovo,ThinkPad 14 2026 Gen 1 Config 1,Laptop,2026,2026-08-28,2026-05-13,58000,1.79,1.28,12,8,512,AMD Ryzen 5,13.3,ChromeOS,Resold
+EC-P00573,Acer,Nitro X 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-01-06,2020-07-30,147000,2.61,1.86,24,16,2048,Intel Core i5,13.3,Windows,Returned
+EC-P00574,Dell,Latitude E 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-03-07,2022-11-19,146000,1.69,1.16,36,32,256,AMD Ryzen 7,14.0,Windows,Active
+EC-P00575,Acer,Aspire 700 2023 Gen 2 Config 1,Laptop,2023,2023-11-10,2023-06-29,109000,1.79,1.25,36,32,1024,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00576,Samsung,Galaxy Book Pro G 2025 Gen 2 Config 1,Ultrabook,2025,2025-07-15,2025-03-14,169500,1.94,1.63,24,64,256,Intel Core i7,15.6,Windows,Active
+EC-P00577,ASUS,ExpertBook 500 2025 Gen 4 Config 1,Gaming Laptop,2025,2025-11-17,2025-08-04,105500,2.82,2.15,36,8,2048,Intel Core i7,15.6,Windows,Active
+EC-P00578,HP,ProBook G 2023 Gen 2 Config 1,Ultrabook,2023,2023-12-11,2023-10-03,140000,1.83,1.36,12,32,512,Intel Core i7,15.6,Windows,Active
+EC-P00579,Apple,MacBook Air 500 2025 Gen 4 Config 1,Ultrabook,2025,2025-10-21,2025-06-21,125500,2.11,1.83,12,16,256,Apple M3,14.2,macOS,Refurbished
+EC-P00580,MSI,Prestige 900 2023 Gen 2 Config 1,Laptop,2023,2023-07-08,2023-01-27,110500,2.03,1.62,36,64,256,AMD Ryzen 5,15.6,Windows,Active
+EC-P00581,Dell,Latitude A 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-05-11,2024-01-29,117000,2.3,1.93,24,8,1024,Intel Core i5,17.3,Windows,Active
+EC-P00582,Microsoft,Surface Pro 14 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-03-04,2023-11-28,207000,2.75,1.99,12,64,256,Intel Core i9,16.0,Windows,Resold
+EC-P00583,MSI,Modern 500 2022 Gen 2 Config 1,Ultrabook,2022,2022-12-20,2022-08-30,82500,2.2,1.53,24,32,256,AMD Ryzen 7,13.3,ChromeOS,Active
+EC-P00584,Lenovo,IdeaPad X 2025 Gen 1 Config 1,Business Laptop,2025,2025-08-22,2025-04-04,178000,1.92,1.51,36,64,2048,Intel Core i9,17.3,Windows,Recycled
+EC-P00585,Apple,MacBook Pro 500 2022 Gen 3 Config 1,Ultrabook,2022,2022-02-16,2022-01-17,168000,2.07,1.49,12,32,512,Apple M3,13.3,macOS,Active
+EC-P00586,Acer,Nitro 900 2024 Gen 4 Config 1,Laptop,2024,2024-02-05,2023-11-26,124000,2.12,1.51,36,32,1024,Intel Core i9,17.3,Windows,Resold
+EC-P00587,MSI,Prestige S 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-04-01,2024-11-20,178500,2.6,2.22,12,16,1024,Intel Core i7,16.0,Windows,Active
+EC-P00588,Dell,Precision S 2026 Gen 4 Config 1,Ultrabook,2026,2026-06-02,2026-01-26,94000,1.94,1.51,36,8,1024,Intel Core i9,17.3,Windows,Active
+EC-P00589,HP,EliteBook G 2026 Gen 4 Config 1,Business Laptop,2026,2026-02-08,2025-12-26,130000,1.93,1.58,12,32,2048,Intel Core i9,14.0,Windows,Active
+EC-P00590,Dell,Vostro 500 2022 Gen 1 Config 1,Ultrabook,2022,2022-08-07,2022-06-10,158500,2.22,1.9,24,64,2048,Intel Core i7,16.0,Windows,Refurbished
+EC-P00591,Apple,MacBook Pro 14 2026 Gen 3 Config 1,Laptop,2026,2026-11-03,2026-09-07,197000,2.23,1.62,24,64,1024,Apple M1,14.2,macOS,Active
+EC-P00592,Samsung,Galaxy Book 15 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-01-16,2020-10-30,159000,2.95,2.58,36,8,512,Intel Core i9,15.6,Windows,Active
+EC-P00593,Dell,Latitude 15 2025 Gen 3 Config 1,Business Laptop,2025,2025-12-12,2025-07-11,55000,2.15,1.61,24,8,256,AMD Ryzen 7,14.0,Windows,Active
+EC-P00594,Samsung,Galaxy Book Pro X 2023 Gen 1 Config 1,Ultrabook,2023,2023-07-28,2023-05-18,152500,2.16,1.75,12,64,256,Intel Core i9,17.3,Windows,Returned
+EC-P00595,Lenovo,ThinkBook 300 2024 Gen 2 Config 1,Workstation Laptop,2024,2024-05-21,2023-12-19,153000,1.9,1.65,12,32,512,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00596,Samsung,Galaxy Book 15 2023 Gen 3 Config 1,Ultrabook,2023,2023-02-14,2022-10-06,100000,2.07,1.55,36,32,512,AMD Ryzen 5,15.6,Windows,Active
+EC-P00597,Apple,MacBook Pro 300 2021 Gen 4 Config 1,Business Laptop,2021,2021-01-15,2020-12-21,113500,1.97,1.37,24,32,512,Apple M2,14.2,macOS,Active
+EC-P00598,Razer,Blade 14 X 2021 Gen 3 Config 1,Laptop,2021,2021-11-25,2021-06-20,58000,1.84,1.36,36,8,1024,AMD Ryzen 5,13.3,Windows,Active
+EC-P00599,HP,Pavilion 900 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-02-09,2021-11-09,215500,2.04,1.54,24,64,1024,Intel Core i5,13.3,Windows,Active
+EC-P00600,Lenovo,Yoga E 2026 Gen 2 Config 1,Business Laptop,2026,2026-09-06,2026-05-18,78500,1.9,1.51,24,16,1024,Intel Core i9,17.3,Windows,Refurbished
+EC-P00601,MSI,Modern S 2022 Gen 4 Config 1,Ultrabook,2022,2022-09-01,2022-05-02,169500,2.01,1.53,12,64,1024,AMD Ryzen 7,15.6,ChromeOS,Active
+EC-P00602,Lenovo,ThinkBook 14 2022 Gen 3 Config 1,Business Laptop,2022,2022-08-26,2022-04-01,113500,2.36,1.66,12,32,256,AMD Ryzen 7,17.3,Windows,Active
+EC-P00603,Dell,Latitude A 2021 Gen 1 Config 1,Ultrabook,2021,2021-12-23,2021-11-25,184500,1.83,1.46,36,64,1024,AMD Ryzen 7,15.6,Windows,Refurbished
+EC-P00604,Microsoft,Surface Laptop X 2025 Gen 2 Config 1,Business Laptop,2025,2025-10-23,2025-08-18,125000,2.26,1.54,24,32,1024,AMD Ryzen 9,14.0,Windows,Active
+EC-P00605,Dell,Inspiron 500 2025 Gen 1 Config 1,Business Laptop,2025,2025-03-27,2025-01-11,138000,2.19,1.62,24,64,2048,Intel Core i7,13.3,Windows,Resold
+EC-P00606,Microsoft,Surface Pro 15 2025 Gen 4 Config 1,Workstation Laptop,2025,2025-04-16,2024-11-30,181500,2.03,1.45,36,16,512,Intel Core i5,13.3,Windows,Active
+EC-P00607,HP,ZBook 15 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-01-19,2022-10-19,240500,2.23,1.57,24,64,2048,AMD Ryzen 5,13.3,Windows,Active
+EC-P00608,Razer,Blade 15 E 2021 Gen 2 Config 1,Gaming Laptop,2021,2021-02-06,2020-12-15,149000,2.6,2.04,36,16,1024,AMD Ryzen 9,13.3,Windows,Active
+EC-P00609,Razer,Blade 15 700 2024 Gen 3 Config 1,Ultrabook,2024,2024-11-17,2024-08-28,206000,1.89,1.55,36,64,2048,AMD Ryzen 5,16.0,Windows,Active
+EC-P00610,Apple,MacBook Pro 14 2025 Gen 4 Config 1,Laptop,2025,2025-06-25,2025-04-12,80500,2.03,1.58,24,16,512,Apple M1,13.3,macOS,Recycled
+EC-P00611,Acer,Aspire G 2022 Gen 4 Config 1,Laptop,2022,2022-03-11,2022-01-28,64000,2.09,1.67,12,8,256,Intel Core i5,13.3,Windows,Refurbished
+EC-P00612,MSI,Modern 14 2026 Gen 2 Config 1,Business Laptop,2026,2026-02-19,2026-01-29,98000,1.86,1.57,12,16,512,Intel Core i9,15.6,Windows,Returned
+EC-P00613,HP,ProBook 700 2021 Gen 1 Config 1,Ultrabook,2021,2021-08-07,2021-05-31,147000,2.21,1.82,36,32,512,AMD Ryzen 5,13.3,Windows,Active
+EC-P00614,Samsung,Galaxy Book Pro 14 2023 Gen 2 Config 1,Laptop,2023,2023-08-08,2023-07-11,43500,2.25,1.66,12,8,256,AMD Ryzen 5,16.0,Windows,Returned
+EC-P00615,Apple,MacBook Air A 2022 Gen 3 Config 1,Gaming Laptop,2022,2022-09-10,2022-05-16,113500,2.54,1.99,36,8,512,Apple M3,15.3,macOS,Returned
+EC-P00616,Microsoft,Surface Laptop X 2025 Gen 3 Config 1,Laptop,2025,2025-12-11,2025-11-11,116500,2.22,1.57,36,16,1024,Intel Core i5,15.6,Windows,Active
+EC-P00617,HP,EliteBook 500 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-04-21,2023-01-07,202000,1.66,1.14,36,64,512,AMD Ryzen 9,13.3,Windows,Active
+EC-P00618,ASUS,ZenBook 300 2021 Gen 1 Config 1,Business Laptop,2021,2021-07-23,2021-03-21,70500,2.01,1.52,12,8,2048,AMD Ryzen 7,16.0,Windows,Active
+EC-P00619,HP,ZBook 14 2021 Gen 3 Config 1,Ultrabook,2021,2021-10-02,2021-09-14,84500,1.64,1.25,36,16,512,Intel Core i7,13.3,Windows,Resold
+EC-P00620,Acer,Aspire 300 2021 Gen 2 Config 1,Gaming Laptop,2021,2021-02-09,2020-09-08,121000,2.73,1.92,12,32,512,Intel Core i7,15.6,Windows,Active
+EC-P00621,Apple,MacBook Air A 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-12-20,2024-08-03,214000,1.98,1.37,24,32,1024,Apple M2,14.2,macOS,Active
+EC-P00622,Acer,Swift 900 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-01-16,2024-12-24,144000,2.06,1.59,12,8,512,Intel Core i7,14.0,Windows,Active
+EC-P00623,Razer,Blade 15 500 2023 Gen 1 Config 1,Ultrabook,2023,2023-09-02,2023-06-01,175000,1.77,1.34,24,64,2048,AMD Ryzen 7,13.3,Windows,Active
+EC-P00624,Apple,MacBook Air E 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-02-18,2024-10-27,236000,2.1,1.82,12,32,2048,Apple M1,13.3,macOS,Recycled
+EC-P00625,ASUS,TUF 14 2024 Gen 3 Config 1,Business Laptop,2024,2024-04-25,2023-11-24,63000,2.15,1.87,12,16,256,AMD Ryzen 5,14.0,Windows,Active
+EC-P00626,Razer,Blade 15 14 2021 Gen 3 Config 1,Ultrabook,2021,2021-08-15,2021-07-27,83500,2.25,1.91,12,8,256,Intel Core i9,17.3,Windows,Active
+EC-P00627,Samsung,Galaxy Book X 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-03-08,2022-09-13,135500,2.51,1.85,24,32,1024,Intel Core i5,13.3,Windows,Active
+EC-P00628,Razer,Blade 14 500 2022 Gen 1 Config 1,Business Laptop,2022,2022-05-01,2022-01-16,100000,2.21,1.53,24,32,256,AMD Ryzen 9,16.0,Windows,Active
+EC-P00629,Dell,Inspiron 500 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-02-21,2022-10-20,138000,1.85,1.56,24,16,512,AMD Ryzen 5,13.3,Windows,Resold
+EC-P00630,Lenovo,ThinkPad 14 2023 Gen 3 Config 1,Ultrabook,2023,2023-10-01,2023-08-20,168000,1.85,1.27,12,64,1024,AMD Ryzen 5,15.6,Windows,Returned
+EC-P00631,Apple,MacBook Pro G 2022 Gen 1 Config 1,Business Laptop,2022,2022-12-14,2022-07-15,101500,1.93,1.53,36,8,512,Apple M2,13.3,macOS,Refurbished
+EC-P00632,Microsoft,Surface Laptop X 2025 Gen 4 Config 1,Ultrabook,2025,2025-08-11,2025-06-28,108000,2.33,2.04,12,32,512,Intel Core i9,17.3,Windows,Refurbished
+EC-P00633,Samsung,Galaxy Book Pro 500 2023 Gen 3 Config 1,Workstation Laptop,2023,2023-09-08,2023-05-12,218000,2.01,1.6,12,64,512,AMD Ryzen 7,15.6,Windows,Returned
+EC-P00634,Lenovo,ThinkBook E 2023 Gen 3 Config 1,Laptop,2023,2023-08-01,2023-06-05,118500,2.38,1.71,12,16,2048,Intel Core i5,17.3,Windows,Active
+EC-P00635,ASUS,TUF 500 2026 Gen 2 Config 1,Laptop,2026,2026-06-05,2026-02-08,73500,2.19,1.89,24,8,512,AMD Ryzen 5,14.0,Windows,Refurbished
+EC-P00636,Acer,TravelMate E 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-05-25,2021-01-08,168000,1.88,1.45,24,8,1024,AMD Ryzen 7,13.3,Windows,Refurbished
+EC-P00637,Lenovo,ThinkPad 300 2022 Gen 3 Config 1,Gaming Laptop,2022,2022-10-17,2022-06-15,123500,2.34,1.83,36,32,256,AMD Ryzen 5,14.0,Windows,Active
+EC-P00638,MSI,Prestige 700 2022 Gen 1 Config 1,Business Laptop,2022,2022-08-15,2022-06-04,86500,2.02,1.42,24,32,256,AMD Ryzen 5,17.3,Windows,Resold
+EC-P00639,ASUS,ExpertBook 500 2025 Gen 2 Config 1,Ultrabook,2025,2025-01-16,2024-12-26,95000,2.43,1.91,12,16,256,Intel Core i7,17.3,Windows,Active
+EC-P00640,ASUS,TUF X 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-06-26,2026-05-22,209000,2.11,1.55,12,64,2048,Intel Core i9,13.3,ChromeOS,Refurbished
+EC-P00641,Acer,Aspire 700 2023 Gen 3 Config 1,Ultrabook,2023,2023-06-07,2023-01-01,118500,2.11,1.83,36,8,1024,AMD Ryzen 5,17.3,Windows,Returned
+EC-P00642,Dell,Latitude 700 2022 Gen 4 Config 1,Business Laptop,2022,2022-04-21,2022-03-15,130000,1.89,1.47,12,16,2048,AMD Ryzen 9,16.0,Windows,Recycled
+EC-P00643,Acer,Aspire 500 2024 Gen 4 Config 1,Workstation Laptop,2024,2024-11-12,2024-06-27,159500,2.04,1.64,12,8,2048,AMD Ryzen 7,14.0,Windows,Active
+EC-P00644,Lenovo,ThinkBook A 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-07-15,2022-04-08,161500,2.66,2.21,24,64,1024,AMD Ryzen 9,15.6,Windows,Active
+EC-P00645,MSI,Modern X 2022 Gen 3 Config 1,Laptop,2022,2022-05-17,2022-03-08,174000,1.92,1.4,24,64,2048,Intel Core i9,14.0,Windows,Resold
+EC-P00646,MSI,Modern E 2025 Gen 3 Config 1,Ultrabook,2025,2025-11-27,2025-11-01,163500,1.94,1.6,24,64,2048,AMD Ryzen 5,16.0,Windows,Active
+EC-P00647,MSI,Modern 700 2025 Gen 2 Config 1,Laptop,2025,2025-06-25,2025-01-20,87500,1.9,1.59,24,8,256,AMD Ryzen 7,14.0,Windows,Active
+EC-P00648,Dell,Inspiron S 2023 Gen 2 Config 1,Business Laptop,2023,2023-12-08,2023-11-20,128000,1.89,1.44,36,32,512,AMD Ryzen 7,14.0,Windows,Active
+EC-P00649,Dell,Latitude G 2025 Gen 4 Config 1,Laptop,2025,2025-11-13,2025-09-26,51500,1.79,1.26,24,16,512,Intel Core i7,13.3,Windows,Resold
+EC-P00650,ASUS,VivoBook 500 2021 Gen 4 Config 1,Laptop,2021,2021-05-26,2021-02-18,93000,2.2,1.67,36,16,256,Intel Core i5,17.3,Windows,Active
+EC-P00651,Dell,Vostro X 2023 Gen 2 Config 1,Laptop,2023,2023-09-09,2023-04-24,153500,2.11,1.53,24,64,2048,Intel Core i9,17.3,ChromeOS,Active
+EC-P00652,Microsoft,Surface Laptop 300 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-02-21,2023-11-19,171500,2.35,1.77,36,64,512,Intel Core i9,13.3,Windows,Active
+EC-P00653,HP,EliteBook 700 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-05-14,2025-02-09,241000,2.94,2.03,24,64,2048,AMD Ryzen 7,14.0,Windows,Refurbished
+EC-P00654,Lenovo,ThinkPad 14 2023 Gen 4 Config 1,Laptop,2023,2023-12-16,2023-07-23,155000,2.43,1.77,24,64,2048,Intel Core i9,17.3,Windows,Active
+EC-P00655,HP,EliteBook 500 2024 Gen 4 Config 1,Business Laptop,2024,2024-08-06,2024-02-13,78000,2.15,1.51,24,16,512,Intel Core i5,13.3,Windows,Resold
+EC-P00656,Samsung,Galaxy Book S 2026 Gen 4 Config 1,Gaming Laptop,2026,2026-05-17,2026-03-11,158000,2.7,2.19,12,32,1024,Intel Core i5,16.0,Windows,Resold
+EC-P00657,Apple,MacBook Pro X 2024 Gen 2 Config 1,Ultrabook,2024,2024-01-10,2023-11-08,123000,1.93,1.37,12,16,2048,Apple M3,14.2,macOS,Active
+EC-P00658,HP,ZBook 500 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-07-19,2023-04-17,162000,1.64,1.18,24,32,512,AMD Ryzen 5,13.3,Windows,Active
+EC-P00659,MSI,Prestige S 2025 Gen 2 Config 1,Laptop,2025,2025-10-21,2025-06-30,85500,2.01,1.42,36,32,512,AMD Ryzen 7,14.0,Windows,Active
+EC-P00660,Razer,Blade 15 14 2026 Gen 4 Config 1,Business Laptop,2026,2026-01-11,2025-12-08,97000,2.04,1.45,24,16,256,Intel Core i7,14.0,Windows,Resold
+EC-P00661,Dell,Inspiron X 2025 Gen 4 Config 1,Gaming Laptop,2025,2025-06-17,2025-05-13,177500,2.47,1.83,36,16,2048,Intel Core i9,13.3,Windows,Resold
+EC-P00662,Acer,Swift A 2026 Gen 2 Config 1,Gaming Laptop,2026,2026-12-14,2026-10-06,158000,2.69,2.29,24,8,2048,AMD Ryzen 7,15.6,Windows,Returned
+EC-P00663,Acer,Nitro 700 2023 Gen 1 Config 1,Business Laptop,2023,2023-09-01,2023-03-15,70500,1.73,1.3,24,8,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00664,ASUS,TUF 300 2024 Gen 3 Config 1,Ultrabook,2024,2024-02-02,2023-10-16,138000,2.12,1.52,36,8,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00665,Lenovo,IdeaPad 500 2022 Gen 4 Config 1,Laptop,2022,2022-11-20,2022-11-01,120000,1.96,1.72,12,32,256,Intel Core i5,13.3,Windows,Active
+EC-P00666,Apple,MacBook Air E 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-01-09,2024-07-23,193500,2.68,1.87,24,8,512,Apple M2,13.3,macOS,Active
+EC-P00667,Microsoft,Surface Pro 15 2022 Gen 1 Config 1,Ultrabook,2022,2022-02-03,2021-12-04,166000,1.68,1.45,12,32,2048,Intel Core i9,13.3,Windows,Refurbished
+EC-P00668,Lenovo,ThinkBook 15 2025 Gen 1 Config 1,Business Laptop,2025,2025-12-25,2025-11-07,159500,2.19,1.6,12,64,256,Intel Core i5,15.6,Windows,Active
+EC-P00669,MSI,Katana 700 2023 Gen 3 Config 1,Business Laptop,2023,2023-12-15,2023-09-24,116500,1.79,1.57,24,16,1024,AMD Ryzen 7,14.0,Windows,Active
+EC-P00670,Apple,MacBook Pro 15 2023 Gen 4 Config 1,Business Laptop,2023,2023-04-11,2022-11-19,120000,2.05,1.66,24,16,512,Apple M1,16.2,macOS,Active
+EC-P00671,ASUS,VivoBook 900 2025 Gen 3 Config 1,Business Laptop,2025,2025-07-22,2025-02-07,86000,1.91,1.42,36,16,2048,AMD Ryzen 5,13.3,Windows,Resold
+EC-P00672,Apple,MacBook Air E 2026 Gen 1 Config 1,Business Laptop,2026,2026-05-06,2025-12-23,145000,2.33,1.67,24,32,1024,Apple M2,16.2,macOS,Active
+EC-P00673,Dell,Precision X 2025 Gen 4 Config 1,Gaming Laptop,2025,2025-09-04,2025-05-05,178500,2.37,2.05,12,32,1024,AMD Ryzen 5,15.6,Windows,Active
+EC-P00674,ASUS,TUF 300 2025 Gen 2 Config 1,Workstation Laptop,2025,2025-05-26,2025-04-05,131000,2.05,1.79,12,16,512,Intel Core i7,17.3,ChromeOS,Resold
+EC-P00675,Samsung,Galaxy Book Pro X 2022 Gen 1 Config 1,Business Laptop,2022,2022-12-08,2022-10-15,76000,1.9,1.37,12,32,256,Intel Core i7,15.6,Windows,Refurbished
+EC-P00676,Apple,MacBook Air 700 2024 Gen 3 Config 1,Laptop,2024,2024-02-13,2023-12-28,145500,2.02,1.56,12,16,2048,Apple M2,16.2,macOS,Active
+EC-P00677,Lenovo,Yoga A 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-06-11,2023-01-19,205000,2.12,1.77,24,64,256,AMD Ryzen 5,15.6,Windows,Resold
+EC-P00678,Razer,Blade 15 15 2021 Gen 2 Config 1,Business Laptop,2021,2021-03-10,2020-12-06,102000,1.87,1.52,24,32,2048,AMD Ryzen 5,14.0,Windows,Active
+EC-P00679,Samsung,Galaxy Book G 2023 Gen 2 Config 1,Business Laptop,2023,2023-01-06,2022-10-02,125000,2.04,1.43,24,64,256,AMD Ryzen 5,13.3,Windows,Active
+EC-P00680,Microsoft,Surface Pro X 2026 Gen 1 Config 1,Gaming Laptop,2026,2026-09-12,2026-04-29,175000,2.63,2.11,24,64,256,AMD Ryzen 9,16.0,ChromeOS,Refurbished
+EC-P00681,Microsoft,Surface Pro 700 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-12-28,2021-08-19,143000,1.99,1.43,36,16,256,AMD Ryzen 5,13.3,Windows,Active
+EC-P00682,Samsung,Galaxy Book Pro 500 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-03-10,2020-11-24,152500,3.03,2.07,24,32,1024,Intel Core i9,17.3,Windows,Active
+EC-P00683,Samsung,Galaxy Book Pro 15 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-11-16,2023-07-14,154000,1.95,1.38,12,64,512,Intel Core i5,13.3,Windows,Resold
+EC-P00684,Apple,MacBook Pro 14 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-07-17,2026-06-12,136000,1.81,1.45,12,8,256,Apple M3,16.2,macOS,Active
+EC-P00685,ASUS,TUF 300 2024 Gen 2 Config 1,Ultrabook,2024,2024-09-18,2024-07-03,170500,1.97,1.73,36,64,256,AMD Ryzen 9,13.3,Windows,Refurbished
+EC-P00686,Dell,Vostro X 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-04-01,2024-12-01,154500,2.94,2.16,24,32,256,Intel Core i9,14.0,Windows,Returned
+EC-P00687,ASUS,ExpertBook 14 2024 Gen 3 Config 1,Laptop,2024,2024-10-14,2024-04-20,84500,1.93,1.59,24,16,256,Intel Core i7,15.6,Windows,Active
+EC-P00688,Microsoft,Surface Pro S 2024 Gen 1 Config 1,Ultrabook,2024,2024-11-13,2024-08-25,167000,2.08,1.64,12,16,2048,Intel Core i9,16.0,Windows,Active
+EC-P00689,Razer,Blade 14 X 2026 Gen 3 Config 1,Laptop,2026,2026-01-05,2025-07-15,96500,2.3,1.77,24,32,1024,Intel Core i7,17.3,Windows,Active
+EC-P00690,Razer,Blade 15 G 2025 Gen 4 Config 1,Laptop,2025,2025-02-13,2024-12-05,112000,1.86,1.49,12,16,2048,Intel Core i9,16.0,Windows,Active
+EC-P00691,HP,Pavilion 700 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-09-18,2022-04-20,217500,1.89,1.33,24,64,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00692,MSI,Prestige A 2024 Gen 4 Config 1,Business Laptop,2024,2024-10-21,2024-06-21,139000,1.73,1.49,24,32,2048,Intel Core i7,13.3,Windows,Recycled
+EC-P00693,MSI,Modern 300 2026 Gen 2 Config 1,Business Laptop,2026,2026-11-03,2026-07-17,123500,2.0,1.43,24,64,256,AMD Ryzen 7,13.3,Windows,Active
+EC-P00694,Razer,Blade 15 S 2025 Gen 2 Config 1,Business Laptop,2025,2025-02-01,2024-11-26,123500,2.22,1.65,24,16,2048,AMD Ryzen 5,14.0,Windows,Active
+EC-P00695,Samsung,Galaxy Book 14 2026 Gen 4 Config 1,Business Laptop,2026,2026-12-03,2026-11-17,106000,2.4,1.71,24,8,1024,Intel Core i7,17.3,ChromeOS,Refurbished
+EC-P00696,MSI,Katana G 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-06-13,2024-01-20,120000,2.73,2.3,12,8,256,Intel Core i9,17.3,Windows,Returned
+EC-P00697,Samsung,Galaxy Book Pro 500 2021 Gen 2 Config 1,Ultrabook,2021,2021-04-09,2021-03-01,117000,1.84,1.59,24,16,1024,AMD Ryzen 7,13.3,Windows,Active
+EC-P00698,HP,ZBook X 2026 Gen 2 Config 1,Ultrabook,2026,2026-03-17,2025-12-19,160500,2.12,1.69,12,32,2048,Intel Core i9,16.0,Windows,Active
+EC-P00699,Apple,MacBook Pro A 2026 Gen 3 Config 1,Business Laptop,2026,2026-03-20,2025-12-21,203500,1.92,1.59,12,64,2048,Apple M3,15.3,macOS,Resold
+EC-P00700,ASUS,ZenBook 900 2021 Gen 3 Config 1,Business Laptop,2021,2021-10-28,2021-06-07,175000,2.3,2.01,12,64,2048,AMD Ryzen 7,15.6,Windows,Active
+EC-P00701,Apple,MacBook Pro 15 2024 Gen 2 Config 1,Workstation Laptop,2024,2024-04-08,2024-02-15,234000,2.25,1.68,24,64,2048,Apple M2,14.2,macOS,Active
+EC-P00702,HP,ProBook X 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-09-03,2023-06-11,146500,1.87,1.51,24,16,512,AMD Ryzen 9,17.3,ChromeOS,Active
+EC-P00703,Microsoft,Surface Laptop X 2021 Gen 2 Config 1,Business Laptop,2021,2021-05-18,2021-02-21,94500,2.1,1.5,36,16,512,Intel Core i9,14.0,Windows,Active
+EC-P00704,Acer,Aspire S 2022 Gen 3 Config 1,Laptop,2022,2022-11-03,2022-08-30,141000,2.17,1.81,24,64,2048,Intel Core i7,17.3,Windows,Active
+EC-P00705,Samsung,Galaxy Book 900 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-11-07,2024-05-26,160000,2.3,1.62,24,32,256,AMD Ryzen 7,16.0,Windows,Resold
+EC-P00706,Razer,Blade 15 A 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-04-11,2021-01-16,178500,2.24,1.66,36,32,2048,Intel Core i9,14.0,Windows,Returned
+EC-P00707,Microsoft,Surface Pro X 2026 Gen 1 Config 1,Business Laptop,2026,2026-02-28,2025-10-23,145000,1.96,1.63,24,64,2048,AMD Ryzen 5,17.3,Windows,Active
+EC-P00708,Microsoft,Surface Laptop 500 2022 Gen 2 Config 1,Business Laptop,2022,2022-11-05,2022-07-31,147000,1.94,1.56,36,64,256,Intel Core i9,15.6,Windows,Active
+EC-P00709,MSI,Modern 14 2022 Gen 2 Config 1,Ultrabook,2022,2022-06-05,2022-03-04,149500,2.13,1.81,24,64,1024,AMD Ryzen 7,17.3,ChromeOS,Active
+EC-P00710,Apple,MacBook Pro A 2024 Gen 4 Config 1,Workstation Laptop,2024,2024-05-01,2024-02-25,152500,2.0,1.68,24,8,2048,Apple M2,16.2,macOS,Active
+EC-P00711,ASUS,ExpertBook 300 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-06-24,2023-02-07,147500,2.62,1.82,12,16,512,AMD Ryzen 5,17.3,Windows,Resold
+EC-P00712,Razer,Blade 15 15 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-02-16,2020-12-29,137500,2.74,2.07,24,64,256,Intel Core i7,17.3,Windows,Resold
+EC-P00713,HP,Pavilion G 2026 Gen 2 Config 1,Business Laptop,2026,2026-09-17,2026-06-20,83500,1.87,1.48,24,8,2048,AMD Ryzen 7,14.0,Windows,Refurbished
+EC-P00714,Lenovo,ThinkPad E 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-05-20,2026-04-30,166000,2.35,2.05,24,32,2048,AMD Ryzen 9,14.0,Windows,Active
+EC-P00715,MSI,Prestige X 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-09-16,2024-06-21,159500,2.45,2.14,24,32,256,Intel Core i5,17.3,ChromeOS,Active
+EC-P00716,HP,EliteBook 500 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-08-15,2025-06-23,191000,2.09,1.6,24,64,512,Intel Core i7,13.3,Windows,Returned
+EC-P00717,HP,ProBook 14 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-06-14,2026-04-22,149000,2.59,1.77,12,8,2048,AMD Ryzen 7,16.0,Windows,Active
+EC-P00718,Acer,TravelMate X 2025 Gen 2 Config 1,Workstation Laptop,2025,2025-09-20,2025-08-26,139500,1.98,1.42,12,16,512,Intel Core i9,17.3,Windows,Refurbished
+EC-P00719,Microsoft,Surface Pro E 2021 Gen 3 Config 1,Business Laptop,2021,2021-01-05,2020-08-31,94500,1.9,1.64,24,16,2048,AMD Ryzen 9,15.6,Windows,Active
+EC-P00720,MSI,Modern 900 2024 Gen 4 Config 1,Laptop,2024,2024-09-19,2024-04-25,115500,2.16,1.51,12,16,2048,AMD Ryzen 5,14.0,Windows,Active
+EC-P00721,Acer,Aspire 14 2024 Gen 3 Config 1,Ultrabook,2024,2024-07-26,2024-03-26,139500,1.7,1.31,12,32,2048,AMD Ryzen 5,13.3,Windows,Active
+EC-P00722,HP,Pavilion A 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-03-19,2023-03-02,178500,2.91,2.01,12,64,2048,AMD Ryzen 9,13.3,Windows,Active
+EC-P00723,Lenovo,IdeaPad X 2026 Gen 1 Config 1,Laptop,2026,2026-03-24,2026-01-22,150000,1.85,1.32,36,32,2048,AMD Ryzen 7,15.6,Windows,Active
+EC-P00724,HP,ProBook X 2021 Gen 2 Config 1,Ultrabook,2021,2021-12-28,2021-11-07,126000,1.96,1.68,12,32,256,AMD Ryzen 5,15.6,Windows,Resold
+EC-P00725,Dell,Precision S 2025 Gen 2 Config 1,Business Laptop,2025,2025-09-15,2025-07-28,71500,1.74,1.35,24,8,2048,Intel Core i5,14.0,Windows,Resold
+EC-P00726,Dell,Vostro X 2024 Gen 3 Config 1,Business Laptop,2024,2024-03-08,2023-10-14,99500,2.21,1.88,12,8,2048,Intel Core i9,15.6,Windows,Active
+EC-P00727,Lenovo,IdeaPad 500 2026 Gen 1 Config 1,Gaming Laptop,2026,2026-11-19,2026-06-24,102500,2.59,2.13,24,16,512,Intel Core i9,13.3,Windows,Active
+EC-P00728,ASUS,ZenBook G 2023 Gen 3 Config 1,Business Laptop,2023,2023-11-02,2023-08-19,154000,1.75,1.25,12,64,256,AMD Ryzen 7,13.3,Windows,Active
+EC-P00729,Apple,MacBook Air X 2025 Gen 4 Config 1,Ultrabook,2025,2025-11-25,2025-07-02,192000,1.95,1.5,24,64,512,Apple M1,16.2,macOS,Resold
+EC-P00730,Apple,MacBook Air E 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-03-04,2022-12-21,188000,1.85,1.5,36,32,1024,Apple M2,13.3,macOS,Recycled
+EC-P00731,HP,EliteBook A 2025 Gen 2 Config 1,Ultrabook,2025,2025-01-07,2024-09-24,92500,1.97,1.67,12,8,512,Intel Core i9,17.3,Windows,Active
+EC-P00732,Lenovo,ThinkPad E 2025 Gen 2 Config 1,Workstation Laptop,2025,2025-07-28,2025-05-23,183500,2.06,1.62,36,16,512,Intel Core i7,13.3,Windows,Active
+EC-P00733,MSI,Prestige S 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-10-03,2024-09-03,123000,2.61,2.26,36,8,256,AMD Ryzen 5,15.6,Windows,Refurbished
+EC-P00734,Lenovo,IdeaPad 700 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-02-24,2023-09-13,152000,2.7,1.99,24,16,512,Intel Core i7,16.0,Windows,Resold
+EC-P00735,Lenovo,IdeaPad 700 2024 Gen 3 Config 1,Ultrabook,2024,2024-05-27,2024-04-11,145000,2.21,1.61,24,32,256,Intel Core i5,17.3,Windows,Active
+EC-P00736,Razer,Blade 15 500 2022 Gen 3 Config 1,Ultrabook,2022,2022-05-08,2021-12-11,124500,1.86,1.53,24,8,2048,Intel Core i5,15.6,Windows,Active
+EC-P00737,Razer,Blade 15 15 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-06-03,2022-05-16,178500,2.55,2.07,24,32,1024,AMD Ryzen 5,13.3,Windows,Active
+EC-P00738,Samsung,Galaxy Book X 2025 Gen 2 Config 1,Workstation Laptop,2025,2025-10-04,2025-04-21,238000,2.15,1.75,12,64,2048,AMD Ryzen 5,13.3,Windows,Resold
+EC-P00739,HP,EliteBook 900 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-08-19,2021-03-24,260500,1.88,1.52,24,64,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00740,MSI,Katana G 2026 Gen 1 Config 1,Business Laptop,2026,2026-06-27,2026-03-16,76000,2.24,1.85,24,8,1024,AMD Ryzen 7,15.6,Windows,Active
+EC-P00741,Acer,TravelMate 300 2024 Gen 3 Config 1,Gaming Laptop,2024,2024-03-28,2023-11-07,161500,2.98,2.47,24,16,512,AMD Ryzen 9,15.6,ChromeOS,Resold
+EC-P00742,Apple,MacBook Pro S 2025 Gen 2 Config 1,Ultrabook,2025,2025-04-09,2024-11-21,143000,1.93,1.38,24,8,2048,Apple M2,13.3,macOS,Active
+EC-P00743,Samsung,Galaxy Book Pro 700 2022 Gen 3 Config 1,Laptop,2022,2022-02-23,2021-09-08,94500,2.13,1.48,12,32,512,Intel Core i5,15.6,Windows,Resold
+EC-P00744,MSI,Prestige E 2022 Gen 3 Config 1,Gaming Laptop,2022,2022-01-16,2021-11-05,125000,2.27,1.79,24,32,256,Intel Core i7,13.3,ChromeOS,Resold
+EC-P00745,Acer,Swift X 2022 Gen 2 Config 1,Business Laptop,2022,2022-07-06,2022-02-09,161500,1.97,1.73,12,64,2048,Intel Core i5,13.3,Windows,Active
+EC-P00746,Razer,Blade 15 A 2026 Gen 3 Config 1,Ultrabook,2026,2026-09-19,2026-08-03,115500,1.75,1.49,12,32,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00747,Microsoft,Surface Pro E 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-08-19,2025-04-15,162000,2.35,1.81,24,16,2048,Intel Core i7,17.3,Windows,Active
+EC-P00748,Lenovo,ThinkPad X 2025 Gen 1 Config 1,Ultrabook,2025,2025-12-20,2025-08-02,86500,1.84,1.34,12,8,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00749,Lenovo,Yoga 15 2022 Gen 4 Config 1,Ultrabook,2022,2022-11-19,2022-08-16,132500,2.33,1.65,36,32,512,AMD Ryzen 7,15.6,Windows,Resold
+EC-P00750,Razer,Blade 14 E 2026 Gen 1 Config 1,Laptop,2026,2026-03-01,2025-10-11,65500,2.37,1.98,12,16,512,AMD Ryzen 7,16.0,Windows,Refurbished
+EC-P00751,Apple,MacBook Air G 2021 Gen 4 Config 1,Gaming Laptop,2021,2021-08-03,2021-06-02,126500,2.43,1.86,24,16,1024,Apple M2,16.2,macOS,Active
+EC-P00752,Acer,Swift 15 2023 Gen 1 Config 1,Ultrabook,2023,2023-02-06,2023-01-22,151500,1.89,1.5,24,32,256,AMD Ryzen 5,17.3,Windows,Recycled
+EC-P00753,Microsoft,Surface Laptop E 2021 Gen 4 Config 1,Ultrabook,2021,2021-04-12,2021-03-04,91500,2.23,1.74,36,32,256,Intel Core i5,17.3,Windows,Resold
+EC-P00754,Lenovo,ThinkBook 700 2025 Gen 4 Config 1,Business Laptop,2025,2025-05-10,2025-03-29,70000,2.31,1.94,12,8,256,AMD Ryzen 7,16.0,Windows,Active
+EC-P00755,Lenovo,IdeaPad X 2021 Gen 2 Config 1,Workstation Laptop,2021,2021-06-08,2021-02-20,245000,2.32,1.89,12,64,2048,Intel Core i7,15.6,ChromeOS,Active
+EC-P00756,Samsung,Galaxy Book 300 2024 Gen 3 Config 1,Laptop,2024,2024-10-23,2024-05-25,78500,2.24,1.93,36,8,256,AMD Ryzen 5,17.3,Windows,Active
+EC-P00757,Microsoft,Surface Laptop E 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-10-13,2023-07-12,189500,2.69,2.0,24,64,2048,Intel Core i7,16.0,Windows,Active
+EC-P00758,ASUS,VivoBook 300 2025 Gen 2 Config 1,Laptop,2025,2025-07-07,2025-03-24,107000,1.88,1.29,24,16,1024,Intel Core i9,17.3,Windows,Recycled
+EC-P00759,Dell,Precision S 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-12-07,2026-07-19,116500,2.17,1.78,12,16,256,Intel Core i9,13.3,Windows,Active
+EC-P00760,Razer,Blade 14 G 2021 Gen 2 Config 1,Laptop,2021,2021-01-05,2020-11-15,94000,2.17,1.64,24,32,512,Intel Core i9,14.0,Windows,Active
+EC-P00761,Razer,Blade 15 15 2024 Gen 3 Config 1,Business Laptop,2024,2024-08-09,2024-02-23,129500,2.25,1.7,12,64,256,AMD Ryzen 9,15.6,Windows,Active
+EC-P00762,MSI,Modern X 2026 Gen 2 Config 1,Business Laptop,2026,2026-11-23,2026-07-30,81000,1.74,1.3,24,16,2048,Intel Core i5,13.3,Windows,Active
+EC-P00763,ASUS,ExpertBook A 2025 Gen 1 Config 1,Laptop,2025,2025-08-04,2025-06-22,80500,1.75,1.54,24,8,2048,AMD Ryzen 5,14.0,Windows,Active
+EC-P00764,MSI,Modern 500 2021 Gen 2 Config 1,Gaming Laptop,2021,2021-01-19,2021-01-01,203500,2.58,1.86,24,64,256,AMD Ryzen 7,14.0,Windows,Resold
+EC-P00765,Apple,MacBook Pro E 2022 Gen 4 Config 1,Business Laptop,2022,2022-03-21,2022-01-16,169500,2.2,1.72,12,64,2048,Apple M3,13.3,macOS,Active
+EC-P00766,Samsung,Galaxy Book 500 2024 Gen 2 Config 1,Workstation Laptop,2024,2024-01-20,2023-11-23,99500,2.08,1.58,36,16,1024,AMD Ryzen 7,14.0,Windows,Refurbished
+EC-P00767,Apple,MacBook Pro 700 2021 Gen 1 Config 1,Business Laptop,2021,2021-11-02,2021-05-27,113500,2.02,1.6,12,8,256,Apple M1,16.2,macOS,Active
+EC-P00768,Dell,Precision 15 2025 Gen 4 Config 1,Ultrabook,2025,2025-08-05,2025-03-27,135000,1.99,1.75,24,16,2048,AMD Ryzen 9,16.0,Windows,Active
+EC-P00769,Apple,MacBook Air A 2022 Gen 2 Config 1,Gaming Laptop,2022,2022-04-13,2022-02-25,195000,2.23,1.7,36,32,256,Apple M2,14.2,macOS,Resold
+EC-P00770,Apple,MacBook Air G 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-04-08,2024-01-29,238500,2.71,1.91,36,64,2048,Apple M3,16.2,macOS,Refurbished
+EC-P00771,Razer,Blade 14 15 2026 Gen 3 Config 1,Gaming Laptop,2026,2026-10-14,2026-09-16,142500,2.27,1.84,24,32,1024,AMD Ryzen 7,16.0,Windows,Active
+EC-P00772,Apple,MacBook Air G 2026 Gen 4 Config 1,Business Laptop,2026,2026-03-21,2025-11-24,139000,2.03,1.49,36,16,2048,Apple M2,13.3,macOS,Active
+EC-P00773,Acer,Swift E 2024 Gen 4 Config 1,Business Laptop,2024,2024-01-28,2023-12-31,108000,1.84,1.28,12,32,256,AMD Ryzen 9,16.0,Windows,Active
+EC-P00774,HP,Pavilion 900 2023 Gen 2 Config 1,Business Laptop,2023,2023-02-26,2022-09-21,127000,1.96,1.4,24,32,2048,Intel Core i9,15.6,Windows,Active
+EC-P00775,Lenovo,IdeaPad 500 2024 Gen 4 Config 1,Business Laptop,2024,2024-02-25,2024-01-31,76000,2.18,1.55,24,32,512,AMD Ryzen 7,16.0,Windows,Active
+EC-P00776,MSI,Prestige X 2024 Gen 2 Config 1,Laptop,2024,2024-06-11,2024-05-06,136000,2.29,2.0,36,64,512,AMD Ryzen 7,15.6,Windows,Resold
+EC-P00777,HP,ProBook 14 2022 Gen 3 Config 1,Gaming Laptop,2022,2022-01-20,2021-08-07,201000,2.63,2.11,24,32,1024,Intel Core i7,14.0,Windows,Active
+EC-P00778,Lenovo,ThinkBook 900 2023 Gen 3 Config 1,Workstation Laptop,2023,2023-01-09,2022-08-30,135500,1.83,1.61,24,8,512,Intel Core i5,14.0,Windows,Returned
+EC-P00779,Apple,MacBook Air 14 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-12-13,2022-09-04,252000,1.97,1.35,24,64,512,Apple M1,15.3,macOS,Active
+EC-P00780,Microsoft,Surface Pro E 2024 Gen 2 Config 1,Ultrabook,2024,2024-11-11,2024-06-19,146000,2.22,1.92,12,64,1024,AMD Ryzen 9,14.0,Windows,Resold
+EC-P00781,Dell,Inspiron 900 2021 Gen 1 Config 1,Business Laptop,2021,2021-10-03,2021-08-10,101000,1.9,1.57,24,16,256,Intel Core i9,17.3,Windows,Active
+EC-P00782,Samsung,Galaxy Book Pro 500 2026 Gen 1 Config 1,Laptop,2026,2026-04-02,2026-02-26,91500,2.2,1.5,12,16,256,AMD Ryzen 9,13.3,Windows,Active
+EC-P00783,Microsoft,Surface Laptop 900 2024 Gen 4 Config 1,Workstation Laptop,2024,2024-05-05,2023-12-04,142500,1.76,1.26,12,8,2048,AMD Ryzen 9,15.6,Windows,Active
+EC-P00784,Acer,Aspire 500 2026 Gen 2 Config 1,Business Laptop,2026,2026-09-21,2026-06-25,118500,2.17,1.6,24,16,2048,Intel Core i9,14.0,Windows,Active
+EC-P00785,ASUS,ExpertBook 900 2026 Gen 1 Config 1,Ultrabook,2026,2026-02-22,2025-10-16,88500,2.17,1.5,24,8,256,Intel Core i9,13.3,Windows,Active
+EC-P00786,HP,Pavilion E 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-06-18,2025-04-16,248000,2.05,1.6,24,64,1024,Intel Core i9,15.6,Windows,Active
+EC-P00787,Lenovo,ThinkPad E 2026 Gen 4 Config 1,Gaming Laptop,2026,2026-03-26,2025-12-20,199000,2.63,2.01,12,64,2048,AMD Ryzen 5,16.0,Windows,Active
+EC-P00788,Lenovo,Yoga 300 2023 Gen 4 Config 1,Business Laptop,2023,2023-04-01,2022-11-10,45500,1.9,1.35,24,16,256,Intel Core i7,14.0,Windows,Active
+EC-P00789,ASUS,ExpertBook 900 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-12-16,2022-06-29,154500,1.99,1.4,24,16,2048,AMD Ryzen 9,16.0,Windows,Active
+EC-P00790,Acer,Nitro G 2022 Gen 4 Config 1,Laptop,2022,2022-06-24,2022-03-06,136000,1.83,1.29,24,32,2048,Intel Core i9,15.6,Windows,Resold
+EC-P00791,Lenovo,ThinkBook X 2025 Gen 1 Config 1,Laptop,2025,2025-11-16,2025-08-22,103500,1.81,1.55,24,16,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00792,Razer,Blade 15 900 2026 Gen 2 Config 1,Ultrabook,2026,2026-02-13,2025-12-23,109500,1.95,1.33,36,16,512,AMD Ryzen 9,14.0,Windows,Returned
+EC-P00793,HP,ZBook 14 2024 Gen 3 Config 1,Laptop,2024,2024-04-21,2024-04-06,92000,2.18,1.51,12,32,512,AMD Ryzen 5,14.0,Windows,Active
+EC-P00794,Razer,Blade 15 700 2025 Gen 3 Config 1,Ultrabook,2025,2025-09-26,2025-05-05,118000,1.92,1.59,12,16,512,AMD Ryzen 5,17.3,ChromeOS,Active
+EC-P00795,MSI,Prestige 300 2026 Gen 3 Config 1,Ultrabook,2026,2026-08-21,2026-05-01,94500,1.91,1.65,12,8,2048,Intel Core i7,13.3,Windows,Active
+EC-P00796,Razer,Blade 15 500 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-09-16,2023-05-30,190000,2.8,1.97,24,64,1024,Intel Core i9,17.3,Windows,Active
+EC-P00797,MSI,Katana 15 2021 Gen 4 Config 1,Ultrabook,2021,2021-01-24,2020-12-07,98500,2.31,1.59,36,8,1024,AMD Ryzen 5,17.3,Windows,Active
+EC-P00798,HP,ProBook 500 2022 Gen 2 Config 1,Business Laptop,2022,2022-09-02,2022-04-06,91000,1.96,1.36,24,32,256,Intel Core i5,15.6,Windows,Active
+EC-P00799,MSI,Katana S 2022 Gen 1 Config 1,Business Laptop,2022,2022-11-27,2022-09-16,53000,2.14,1.69,12,16,512,AMD Ryzen 5,15.6,Windows,Active
+EC-P00800,Dell,Inspiron 700 2022 Gen 2 Config 1,Workstation Laptop,2022,2022-02-02,2021-11-28,112500,2.18,1.79,36,8,1024,Intel Core i9,16.0,Windows,Active
+EC-P00801,Acer,Swift X 2025 Gen 1 Config 1,Ultrabook,2025,2025-05-09,2024-12-03,106000,2.08,1.8,36,16,2048,AMD Ryzen 9,15.6,Windows,Active
+EC-P00802,MSI,Modern 14 2022 Gen 3 Config 1,Ultrabook,2022,2022-07-07,2022-05-06,164000,2.03,1.56,36,64,256,Intel Core i7,15.6,Windows,Active
+EC-P00803,MSI,Modern 900 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-04-17,2026-03-27,141500,2.06,1.5,24,32,1024,AMD Ryzen 9,14.0,Windows,Active
+EC-P00804,Acer,Swift 900 2023 Gen 4 Config 1,Gaming Laptop,2023,2023-02-20,2023-01-09,170000,2.93,2.38,12,16,2048,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00805,Dell,Latitude A 2021 Gen 1 Config 1,Ultrabook,2021,2021-12-12,2021-11-08,70000,1.98,1.42,24,16,256,AMD Ryzen 5,17.3,Windows,Active
+EC-P00806,Dell,Vostro 500 2021 Gen 3 Config 1,Business Laptop,2021,2021-02-03,2020-11-20,92500,2.23,1.73,12,8,256,Intel Core i9,14.0,Windows,Active
+EC-P00807,Razer,Blade 15 300 2023 Gen 4 Config 1,Laptop,2023,2023-08-14,2023-06-16,111500,1.9,1.31,24,8,2048,AMD Ryzen 9,14.0,Windows,Recycled
+EC-P00808,Razer,Blade 14 500 2026 Gen 3 Config 1,Ultrabook,2026,2026-11-02,2026-05-27,122000,1.9,1.46,12,8,1024,AMD Ryzen 9,15.6,Windows,Resold
+EC-P00809,MSI,Katana X 2026 Gen 2 Config 1,Laptop,2026,2026-12-18,2026-07-18,150000,2.13,1.52,24,32,2048,Intel Core i9,17.3,Windows,Active
+EC-P00810,Apple,MacBook Pro 14 2022 Gen 4 Config 1,Ultrabook,2022,2022-07-12,2022-03-09,179000,2.19,1.71,36,32,512,Apple M2,15.3,macOS,Active
+EC-P00811,ASUS,ZenBook E 2023 Gen 4 Config 1,Gaming Laptop,2023,2023-10-05,2023-07-30,148000,2.29,1.85,12,8,1024,AMD Ryzen 7,14.0,Windows,Resold
+EC-P00812,MSI,Modern 500 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-12-27,2024-09-08,170500,2.23,1.73,24,16,512,Intel Core i5,15.6,Windows,Active
+EC-P00813,MSI,Katana G 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-09-26,2026-08-15,171500,2.05,1.7,12,16,2048,Intel Core i9,13.3,Windows,Active
+EC-P00814,HP,Pavilion G 2022 Gen 3 Config 1,Business Laptop,2022,2022-02-09,2021-10-02,37000,1.85,1.33,12,8,256,AMD Ryzen 7,14.0,Windows,Recycled
+EC-P00815,MSI,Prestige G 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-10-02,2026-05-15,157000,2.11,1.64,36,16,1024,Intel Core i9,15.6,Windows,Recycled
+EC-P00816,Samsung,Galaxy Book Pro 300 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-08-09,2023-03-08,218000,2.79,2.43,12,64,1024,AMD Ryzen 5,13.3,Windows,Active
+EC-P00817,Acer,Aspire G 2024 Gen 3 Config 1,Business Laptop,2024,2024-10-14,2024-09-05,114000,2.1,1.79,12,32,1024,AMD Ryzen 7,13.3,ChromeOS,Active
+EC-P00818,Lenovo,ThinkPad X 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-08-10,2025-06-15,187000,1.92,1.5,12,64,256,Intel Core i7,17.3,Windows,Active
+EC-P00819,Razer,Blade 15 500 2024 Gen 2 Config 1,Laptop,2024,2024-07-02,2024-04-01,118000,2.12,1.72,12,8,2048,Intel Core i7,14.0,Windows,Active
+EC-P00820,Apple,MacBook Pro X 2022 Gen 1 Config 1,Laptop,2022,2022-01-23,2021-08-27,98500,1.98,1.66,24,16,256,Apple M1,14.2,macOS,Resold
+EC-P00821,Apple,MacBook Air X 2024 Gen 1 Config 1,Ultrabook,2024,2024-07-17,2024-05-01,84500,2.32,1.89,24,8,256,Apple M2,16.2,macOS,Resold
+EC-P00822,Lenovo,ThinkPad 700 2021 Gen 1 Config 1,Workstation Laptop,2021,2021-07-04,2021-01-27,143500,2.36,1.91,36,32,1024,Intel Core i7,16.0,Windows,Active
+EC-P00823,Acer,Swift 700 2023 Gen 4 Config 1,Laptop,2023,2023-06-08,2023-01-22,87000,1.95,1.44,12,8,1024,Intel Core i9,13.3,Windows,Resold
+EC-P00824,Acer,Nitro X 2024 Gen 2 Config 1,Laptop,2024,2024-08-17,2024-07-15,83500,1.93,1.51,12,8,512,Intel Core i7,17.3,Windows,Active
+EC-P00825,Acer,Nitro E 2026 Gen 2 Config 1,Ultrabook,2026,2026-07-15,2026-01-26,123000,1.8,1.47,24,8,1024,AMD Ryzen 5,16.0,Windows,Resold
+EC-P00826,Acer,Swift 14 2024 Gen 4 Config 1,Business Laptop,2024,2024-02-23,2024-01-02,130500,2.12,1.62,36,64,256,Intel Core i7,15.6,Windows,Refurbished
+EC-P00827,Dell,Vostro G 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-12-18,2023-07-02,153500,2.63,2.25,36,32,1024,AMD Ryzen 9,15.6,Windows,Active
+EC-P00828,Razer,Blade 14 E 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-06-11,2024-03-27,132500,3.24,2.59,12,8,1024,Intel Core i9,17.3,Windows,Active
+EC-P00829,Apple,MacBook Pro E 2022 Gen 4 Config 1,Ultrabook,2022,2022-12-18,2022-07-15,159500,1.97,1.61,24,16,512,Apple M2,16.2,macOS,Active
+EC-P00830,Samsung,Galaxy Book A 2021 Gen 2 Config 1,Business Laptop,2021,2021-10-15,2021-05-16,101500,1.91,1.48,24,16,2048,AMD Ryzen 7,15.6,Windows,Active
+EC-P00831,ASUS,VivoBook 500 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-07-07,2023-04-15,192000,2.02,1.49,36,32,2048,AMD Ryzen 5,14.0,Windows,Active
+EC-P00832,MSI,Katana 14 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-05-04,2023-12-01,106000,2.98,2.05,12,16,512,AMD Ryzen 5,13.3,Windows,Active
+EC-P00833,Lenovo,ThinkPad 15 2026 Gen 4 Config 1,Business Laptop,2026,2026-05-14,2026-02-27,42500,2.05,1.65,24,8,256,Intel Core i5,17.3,Windows,Active
+EC-P00834,Razer,Blade 15 E 2025 Gen 2 Config 1,Business Laptop,2025,2025-10-01,2025-08-06,102000,2.34,1.77,36,16,512,Intel Core i5,15.6,Windows,Active
+EC-P00835,Razer,Blade 15 500 2024 Gen 1 Config 1,Business Laptop,2024,2024-07-19,2024-02-02,63500,1.95,1.33,24,16,512,AMD Ryzen 5,16.0,Windows,Resold
+EC-P00836,Samsung,Galaxy Book 500 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-09-11,2022-06-06,196500,2.59,2.11,24,64,2048,AMD Ryzen 9,14.0,Windows,Active
+EC-P00837,Microsoft,Surface Pro 14 2024 Gen 2 Config 1,Ultrabook,2024,2024-05-08,2024-02-09,181500,1.98,1.47,24,64,512,Intel Core i7,17.3,Windows,Resold
+EC-P00838,MSI,Katana 300 2024 Gen 2 Config 1,Laptop,2024,2024-07-03,2024-02-28,139500,1.86,1.45,24,64,1024,AMD Ryzen 5,13.3,Windows,Active
+EC-P00839,Acer,TravelMate A 2023 Gen 4 Config 1,Business Laptop,2023,2023-12-06,2023-10-29,69500,2.07,1.72,12,16,256,Intel Core i7,17.3,Windows,Returned
+EC-P00840,Microsoft,Surface Laptop 500 2023 Gen 3 Config 1,Gaming Laptop,2023,2023-10-02,2023-04-24,135500,2.6,1.89,12,32,512,Intel Core i7,16.0,Windows,Returned
+EC-P00841,Lenovo,ThinkBook X 2025 Gen 4 Config 1,Business Laptop,2025,2025-09-04,2025-04-24,85500,1.73,1.46,12,8,256,Intel Core i7,14.0,Windows,Active
+EC-P00842,Apple,MacBook Air S 2022 Gen 2 Config 1,Business Laptop,2022,2022-07-05,2022-05-09,117000,2.23,1.74,12,16,1024,Apple M1,15.3,macOS,Active
+EC-P00843,Lenovo,IdeaPad 14 2022 Gen 3 Config 1,Workstation Laptop,2022,2022-02-13,2021-12-26,137500,1.88,1.51,12,16,256,Intel Core i9,16.0,Windows,Active
+EC-P00844,Samsung,Galaxy Book Pro G 2026 Gen 4 Config 1,Workstation Laptop,2026,2026-08-05,2026-07-12,192000,2.17,1.65,36,32,2048,AMD Ryzen 5,17.3,ChromeOS,Active
+EC-P00845,Razer,Blade 15 500 2023 Gen 4 Config 1,Gaming Laptop,2023,2023-08-28,2023-03-15,183000,2.23,1.8,12,32,2048,AMD Ryzen 5,13.3,Windows,Refurbished
+EC-P00846,Lenovo,ThinkBook 900 2024 Gen 2 Config 1,Laptop,2024,2024-08-05,2024-04-06,165000,2.19,1.65,12,64,2048,Intel Core i7,15.6,ChromeOS,Recycled
+EC-P00847,Acer,Swift 500 2026 Gen 3 Config 1,Ultrabook,2026,2026-01-28,2025-09-13,161000,1.99,1.56,24,64,256,Intel Core i5,16.0,Windows,Active
+EC-P00848,Apple,MacBook Air S 2023 Gen 2 Config 1,Laptop,2023,2023-01-15,2022-09-19,90500,1.99,1.6,24,32,256,Apple M1,14.2,macOS,Active
+EC-P00849,Razer,Blade 15 14 2023 Gen 3 Config 1,Ultrabook,2023,2023-12-24,2023-07-18,143000,2.11,1.65,36,8,2048,Intel Core i9,17.3,Windows,Active
+EC-P00850,Lenovo,Yoga 15 2023 Gen 4 Config 1,Ultrabook,2023,2023-03-07,2022-11-05,108500,1.8,1.24,12,8,2048,Intel Core i7,14.0,Windows,Active
+EC-P00851,MSI,Modern S 2024 Gen 3 Config 1,Business Laptop,2024,2024-03-22,2023-11-02,96500,1.96,1.36,24,8,1024,Intel Core i5,14.0,ChromeOS,Active
+EC-P00852,Samsung,Galaxy Book Pro E 2025 Gen 4 Config 1,Ultrabook,2025,2025-10-25,2025-08-09,144500,2.26,1.8,24,32,512,AMD Ryzen 7,15.6,Windows,Active
+EC-P00853,Dell,Precision A 2024 Gen 3 Config 1,Workstation Laptop,2024,2024-04-28,2024-02-17,188000,1.93,1.63,36,8,1024,Intel Core i9,16.0,Windows,Resold
+EC-P00854,Acer,Nitro 500 2022 Gen 3 Config 1,Gaming Laptop,2022,2022-06-02,2022-01-27,124000,2.56,2.22,12,32,1024,AMD Ryzen 9,17.3,Windows,Active
+EC-P00855,MSI,Modern X 2024 Gen 1 Config 1,Ultrabook,2024,2024-05-08,2023-11-19,189500,1.8,1.38,12,64,2048,Intel Core i9,14.0,Windows,Resold
+EC-P00856,Apple,MacBook Air E 2025 Gen 4 Config 1,Laptop,2025,2025-12-21,2025-10-29,70000,1.96,1.53,12,8,256,Apple M1,13.3,macOS,Recycled
+EC-P00857,Dell,Precision 300 2022 Gen 2 Config 1,Ultrabook,2022,2022-02-02,2021-08-14,66000,1.96,1.35,36,8,256,Intel Core i9,15.6,Windows,Active
+EC-P00858,Acer,Swift X 2024 Gen 1 Config 1,Ultrabook,2024,2024-11-25,2024-07-02,70000,2.13,1.81,12,8,1024,AMD Ryzen 7,17.3,Windows,Active
+EC-P00859,Razer,Blade 14 A 2026 Gen 1 Config 1,Gaming Laptop,2026,2026-05-22,2026-02-13,194500,2.69,2.04,12,64,1024,Intel Core i9,16.0,Windows,Active
+EC-P00860,Samsung,Galaxy Book 700 2026 Gen 1 Config 1,Laptop,2026,2026-06-23,2026-03-19,74000,1.71,1.41,24,16,256,Intel Core i5,13.3,Windows,Active
+EC-P00861,Samsung,Galaxy Book Pro 500 2024 Gen 3 Config 1,Business Laptop,2024,2024-07-06,2024-02-15,89500,1.97,1.36,24,16,2048,AMD Ryzen 5,15.6,Windows,Active
+EC-P00862,MSI,Katana X 2023 Gen 2 Config 1,Ultrabook,2023,2023-06-05,2023-05-11,84500,2.35,1.79,24,32,512,AMD Ryzen 9,16.0,ChromeOS,Resold
+EC-P00863,Acer,Nitro 900 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-04-05,2022-12-26,125000,2.6,2.27,12,32,1024,Intel Core i5,15.6,Windows,Refurbished
+EC-P00864,Microsoft,Surface Pro G 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-08-27,2025-04-28,142500,2.55,2.05,12,32,2048,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00865,Razer,Blade 14 14 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-04-13,2023-03-29,126500,2.11,1.53,24,16,1024,Intel Core i9,13.3,Windows,Active
+EC-P00866,HP,Pavilion S 2025 Gen 4 Config 1,Laptop,2025,2025-02-28,2024-12-15,105500,1.89,1.54,24,8,2048,AMD Ryzen 7,15.6,Windows,Resold
+EC-P00867,MSI,Katana E 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-12-24,2026-10-04,137500,2.35,1.61,12,8,1024,AMD Ryzen 9,16.0,Windows,Active
+EC-P00868,ASUS,ExpertBook 700 2024 Gen 4 Config 1,Business Laptop,2024,2024-03-28,2024-02-11,113000,2.05,1.66,12,32,1024,AMD Ryzen 9,13.3,Windows,Resold
+EC-P00869,Dell,Inspiron A 2021 Gen 2 Config 1,Laptop,2021,2021-06-26,2021-05-19,133500,2.25,1.66,12,64,256,AMD Ryzen 5,17.3,Windows,Active
+EC-P00870,MSI,Modern A 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-11-12,2025-10-21,133000,2.16,1.7,24,16,1024,Intel Core i5,14.0,ChromeOS,Active
+EC-P00871,MSI,Prestige S 2021 Gen 4 Config 1,Business Laptop,2021,2021-09-25,2021-05-16,94500,2.17,1.87,24,8,512,Intel Core i7,16.0,Windows,Active
+EC-P00872,Apple,MacBook Air 300 2021 Gen 4 Config 1,Business Laptop,2021,2021-06-28,2021-02-15,116500,1.94,1.61,12,8,1024,Apple M1,15.3,macOS,Active
+EC-P00873,HP,EliteBook 700 2025 Gen 4 Config 1,Gaming Laptop,2025,2025-05-02,2025-03-21,166500,2.63,2.07,24,8,256,AMD Ryzen 7,15.6,ChromeOS,Active
+EC-P00874,ASUS,ZenBook A 2026 Gen 4 Config 1,Business Laptop,2026,2026-01-01,2025-10-06,53500,2.08,1.72,24,8,1024,Intel Core i9,16.0,Windows,Active
+EC-P00875,HP,ProBook 14 2025 Gen 1 Config 1,Ultrabook,2025,2025-04-02,2025-01-07,150000,1.87,1.35,12,32,1024,Intel Core i5,15.6,Windows,Active
+EC-P00876,Microsoft,Surface Laptop S 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-03-03,2026-01-23,164000,1.84,1.37,12,8,1024,AMD Ryzen 9,16.0,Windows,Resold
+EC-P00877,Razer,Blade 14 X 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-11-19,2021-10-09,169000,2.65,1.98,12,32,512,Intel Core i9,13.3,Windows,Returned
+EC-P00878,Dell,Precision 700 2022 Gen 2 Config 1,Workstation Laptop,2022,2022-11-13,2022-09-10,166500,1.77,1.36,36,32,512,Intel Core i7,13.3,ChromeOS,Resold
+EC-P00879,ASUS,ExpertBook G 2022 Gen 4 Config 1,Workstation Laptop,2022,2022-07-19,2022-05-17,156500,2.21,1.5,12,8,2048,Intel Core i9,17.3,Windows,Refurbished
+EC-P00880,Lenovo,IdeaPad 14 2026 Gen 1 Config 1,Business Laptop,2026,2026-05-04,2025-11-23,92500,1.71,1.3,12,16,256,Intel Core i7,14.0,Windows,Active
+EC-P00881,Acer,Aspire 300 2026 Gen 4 Config 1,Laptop,2026,2026-11-17,2026-08-24,101500,1.89,1.65,24,16,256,Intel Core i9,14.0,Windows,Active
+EC-P00882,Acer,Swift G 2022 Gen 3 Config 1,Business Laptop,2022,2022-08-06,2022-07-07,152500,1.93,1.41,24,64,2048,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00883,Dell,Precision A 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-10-15,2025-07-03,142000,2.74,2.28,12,32,1024,Intel Core i5,14.0,Windows,Active
+EC-P00884,Acer,Nitro A 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-09-21,2022-07-31,184000,2.43,1.76,36,64,512,Intel Core i9,14.0,Windows,Active
+EC-P00885,Apple,MacBook Pro 500 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-04-25,2025-11-19,185000,1.86,1.6,24,8,256,Apple M2,16.2,macOS,Resold
+EC-P00886,Razer,Blade 14 X 2026 Gen 1 Config 1,Business Laptop,2026,2026-12-25,2026-08-24,116000,2.14,1.54,24,64,1024,Intel Core i5,17.3,Windows,Active
+EC-P00887,ASUS,ZenBook G 2026 Gen 3 Config 1,Laptop,2026,2026-09-11,2026-04-23,61500,2.18,1.64,12,16,1024,AMD Ryzen 5,14.0,Windows,Active
+EC-P00888,Microsoft,Surface Laptop 500 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-08-23,2026-07-05,169000,2.23,1.55,36,16,2048,Intel Core i7,13.3,Windows,Active
+EC-P00889,Acer,Swift 500 2023 Gen 1 Config 1,Ultrabook,2023,2023-06-08,2022-12-19,120500,2.31,1.98,12,8,1024,Intel Core i5,16.0,ChromeOS,Active
+EC-P00890,ASUS,ZenBook X 2021 Gen 3 Config 1,Workstation Laptop,2021,2021-10-08,2021-04-29,216000,2.16,1.51,36,64,512,Intel Core i7,13.3,Windows,Active
+EC-P00891,MSI,Katana E 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-12-06,2023-10-02,102500,2.12,1.54,12,8,1024,AMD Ryzen 9,13.3,Windows,Resold
+EC-P00892,Acer,Swift X 2023 Gen 1 Config 1,Gaming Laptop,2023,2023-03-23,2023-02-20,129500,2.85,2.41,24,8,512,Intel Core i7,13.3,Windows,Resold
+EC-P00893,Lenovo,Yoga 300 2024 Gen 2 Config 1,Ultrabook,2024,2024-07-08,2024-05-12,100500,1.91,1.36,12,8,256,Intel Core i5,16.0,Windows,Active
+EC-P00894,Microsoft,Surface Pro 700 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-04-13,2024-01-14,159500,2.66,2.22,12,32,1024,AMD Ryzen 5,16.0,Windows,Active
+EC-P00895,Microsoft,Surface Pro 14 2021 Gen 1 Config 1,Business Laptop,2021,2021-01-17,2020-11-17,93000,2.4,1.91,12,8,2048,Intel Core i5,17.3,Windows,Active
+EC-P00896,Acer,Swift 300 2022 Gen 1 Config 1,Business Laptop,2022,2022-01-14,2021-08-27,66000,1.96,1.39,12,8,1024,AMD Ryzen 7,15.6,Windows,Resold
+EC-P00897,Acer,Swift 15 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-06-01,2022-05-09,230500,1.82,1.3,24,64,256,Intel Core i7,13.3,Windows,Refurbished
+EC-P00898,Dell,Latitude 300 2026 Gen 1 Config 1,Ultrabook,2026,2026-09-21,2026-06-03,96500,2.14,1.8,24,8,256,Intel Core i7,17.3,Windows,Active
+EC-P00899,Razer,Blade 14 700 2026 Gen 3 Config 1,Ultrabook,2026,2026-11-19,2026-06-19,110000,1.9,1.6,36,32,1024,AMD Ryzen 5,17.3,Windows,Active
+EC-P00900,Samsung,Galaxy Book 700 2022 Gen 3 Config 1,Workstation Laptop,2022,2022-01-01,2021-10-12,200500,2.02,1.38,36,64,2048,AMD Ryzen 7,15.6,Windows,Resold
+EC-P00901,MSI,Prestige E 2026 Gen 1 Config 1,Ultrabook,2026,2026-09-08,2026-06-03,130000,1.93,1.47,24,16,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00902,Dell,Vostro 700 2023 Gen 4 Config 1,Laptop,2023,2023-09-15,2023-03-26,81000,1.92,1.54,36,8,2048,AMD Ryzen 7,16.0,Windows,Active
+EC-P00903,Dell,Inspiron 500 2022 Gen 1 Config 1,Ultrabook,2022,2022-11-24,2022-09-04,150500,2.33,1.93,24,32,256,Intel Core i5,16.0,ChromeOS,Recycled
+EC-P00904,Lenovo,Yoga 900 2024 Gen 2 Config 1,Gaming Laptop,2024,2024-11-10,2024-09-13,125500,2.33,1.91,36,8,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00905,ASUS,TUF 700 2023 Gen 1 Config 1,Business Laptop,2023,2023-02-15,2023-01-21,110000,1.73,1.51,24,32,2048,AMD Ryzen 5,14.0,Windows,Resold
+EC-P00906,ASUS,TUF E 2022 Gen 3 Config 1,Ultrabook,2022,2022-11-03,2022-06-21,145500,1.78,1.28,12,32,1024,Intel Core i5,14.0,Windows,Active
+EC-P00907,MSI,Prestige S 2023 Gen 1 Config 1,Business Laptop,2023,2023-12-02,2023-08-22,80000,2.11,1.49,36,16,1024,AMD Ryzen 9,14.0,Windows,Active
+EC-P00908,Dell,Vostro 900 2022 Gen 2 Config 1,Business Laptop,2022,2022-03-26,2022-02-13,135500,2.28,1.73,12,32,1024,Intel Core i9,17.3,Windows,Active
+EC-P00909,Razer,Blade 15 X 2025 Gen 1 Config 1,Workstation Laptop,2025,2025-11-11,2025-08-31,160500,1.79,1.29,24,16,256,Intel Core i5,14.0,Windows,Active
+EC-P00910,MSI,Modern 500 2026 Gen 1 Config 1,Workstation Laptop,2026,2026-01-01,2025-10-31,195500,2.27,1.9,36,64,256,AMD Ryzen 7,15.6,Windows,Active
+EC-P00911,Dell,Latitude 500 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-10-04,2025-06-05,134500,2.75,2.14,24,8,512,Intel Core i5,17.3,Windows,Resold
+EC-P00912,Razer,Blade 14 E 2024 Gen 3 Config 1,Business Laptop,2024,2024-02-18,2023-11-21,92000,2.17,1.81,24,8,256,Intel Core i5,17.3,Windows,Active
+EC-P00913,MSI,Katana E 2024 Gen 1 Config 1,Workstation Laptop,2024,2024-09-05,2024-08-03,180000,1.87,1.35,36,16,512,Intel Core i7,16.0,Windows,Active
+EC-P00914,ASUS,ExpertBook G 2023 Gen 1 Config 1,Laptop,2023,2023-06-08,2023-01-18,126000,1.78,1.34,12,16,2048,Intel Core i9,15.6,ChromeOS,Resold
+EC-P00915,MSI,Prestige 300 2026 Gen 1 Config 1,Laptop,2026,2026-06-13,2026-02-17,97000,2.23,1.75,12,8,512,AMD Ryzen 9,13.3,Windows,Resold
+EC-P00916,HP,EliteBook 700 2024 Gen 4 Config 1,Laptop,2024,2024-01-27,2023-09-24,90000,1.8,1.55,24,8,512,Intel Core i9,14.0,ChromeOS,Active
+EC-P00917,Lenovo,Yoga 500 2025 Gen 4 Config 1,Gaming Laptop,2025,2025-01-26,2024-08-29,151500,2.66,1.97,36,16,1024,AMD Ryzen 5,14.0,Windows,Recycled
+EC-P00918,Acer,TravelMate 900 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-01-04,2022-09-17,161500,2.06,1.65,12,64,256,AMD Ryzen 9,14.0,Windows,Active
+EC-P00919,Dell,Latitude E 2025 Gen 1 Config 1,Ultrabook,2025,2025-10-21,2025-06-21,169500,1.87,1.5,36,64,1024,Intel Core i9,13.3,Windows,Refurbished
+EC-P00920,Razer,Blade 15 A 2026 Gen 4 Config 1,Laptop,2026,2026-10-04,2026-07-06,138000,2.42,1.77,24,32,2048,AMD Ryzen 7,17.3,Windows,Active
+EC-P00921,Microsoft,Surface Pro 14 2025 Gen 2 Config 1,Business Laptop,2025,2025-01-14,2024-07-24,119500,2.25,1.71,36,32,512,Intel Core i7,14.0,Windows,Refurbished
+EC-P00922,Microsoft,Surface Pro G 2022 Gen 1 Config 1,Gaming Laptop,2022,2022-10-08,2022-07-02,195000,2.69,2.22,36,64,512,AMD Ryzen 5,13.3,ChromeOS,Returned
+EC-P00923,Razer,Blade 15 900 2026 Gen 2 Config 1,Workstation Laptop,2026,2026-10-14,2026-07-04,163500,2.16,1.89,36,8,1024,Intel Core i5,15.6,Windows,Active
+EC-P00924,Lenovo,Yoga E 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-08-26,2025-04-24,208500,3.09,2.24,36,64,2048,AMD Ryzen 9,17.3,Windows,Active
+EC-P00925,Lenovo,IdeaPad E 2025 Gen 3 Config 1,Laptop,2025,2025-05-21,2025-04-26,122500,2.11,1.76,36,64,512,Intel Core i9,15.6,Windows,Resold
+EC-P00926,Lenovo,Yoga 300 2022 Gen 1 Config 1,Workstation Laptop,2022,2022-02-03,2021-12-01,127500,2.37,1.8,12,8,256,AMD Ryzen 5,16.0,Windows,Resold
+EC-P00927,Apple,MacBook Air 500 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-08-14,2021-06-15,185000,1.79,1.48,12,8,1024,Apple M1,15.3,macOS,Resold
+EC-P00928,Microsoft,Surface Laptop X 2025 Gen 4 Config 1,Business Laptop,2025,2025-05-13,2025-03-18,78500,2.21,1.7,36,32,1024,Intel Core i5,14.0,Windows,Active
+EC-P00929,Samsung,Galaxy Book G 2026 Gen 4 Config 1,Business Laptop,2026,2026-01-06,2025-07-31,115000,2.01,1.56,24,8,2048,AMD Ryzen 7,13.3,Windows,Refurbished
+EC-P00930,Razer,Blade 14 300 2023 Gen 4 Config 1,Workstation Laptop,2023,2023-06-23,2023-04-26,122000,1.77,1.54,24,16,512,AMD Ryzen 9,13.3,Windows,Active
+EC-P00931,MSI,Modern S 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-09-22,2024-06-18,110000,2.08,1.73,12,8,256,Intel Core i5,14.0,Windows,Active
+EC-P00932,Samsung,Galaxy Book Pro 500 2024 Gen 2 Config 1,Business Laptop,2024,2024-10-11,2024-09-14,95000,2.21,1.82,12,32,1024,AMD Ryzen 5,17.3,Windows,Active
+EC-P00933,MSI,Prestige 300 2025 Gen 1 Config 1,Gaming Laptop,2025,2025-03-15,2024-10-24,160000,2.19,1.7,12,16,2048,Intel Core i9,13.3,Windows,Returned
+EC-P00934,Lenovo,IdeaPad 300 2021 Gen 2 Config 1,Laptop,2021,2021-03-19,2020-10-16,86000,1.97,1.54,24,16,256,AMD Ryzen 5,17.3,Windows,Active
+EC-P00935,Samsung,Galaxy Book Pro G 2022 Gen 2 Config 1,Workstation Laptop,2022,2022-12-01,2022-07-13,117000,2.05,1.63,24,16,1024,Intel Core i7,17.3,Windows,Refurbished
+EC-P00936,Razer,Blade 15 15 2024 Gen 1 Config 1,Gaming Laptop,2024,2024-06-25,2024-06-10,217500,2.89,2.46,12,64,512,AMD Ryzen 5,16.0,Windows,Active
+EC-P00937,Lenovo,ThinkPad 700 2026 Gen 2 Config 1,Business Laptop,2026,2026-09-15,2026-08-05,111500,2.19,1.65,24,8,2048,AMD Ryzen 9,14.0,Windows,Refurbished
+EC-P00938,MSI,Katana 500 2022 Gen 2 Config 1,Laptop,2022,2022-09-25,2022-07-04,184000,2.21,1.52,36,64,2048,AMD Ryzen 7,17.3,Windows,Active
+EC-P00939,Razer,Blade 15 300 2025 Gen 2 Config 1,Business Laptop,2025,2025-05-21,2025-04-03,124000,1.99,1.63,36,16,2048,Intel Core i5,13.3,Windows,Active
+EC-P00940,Razer,Blade 15 14 2026 Gen 1 Config 1,Laptop,2026,2026-04-18,2025-12-22,148000,2.24,1.56,12,64,256,Intel Core i9,17.3,Windows,Active
+EC-P00941,Samsung,Galaxy Book 15 2025 Gen 2 Config 1,Laptop,2025,2025-10-18,2025-05-30,82000,2.16,1.89,24,8,256,AMD Ryzen 7,16.0,Windows,Active
+EC-P00942,Lenovo,Yoga X 2025 Gen 2 Config 1,Business Laptop,2025,2025-01-13,2024-07-18,154000,2.06,1.53,36,64,256,Intel Core i9,14.0,Windows,Active
+EC-P00943,Acer,TravelMate A 2021 Gen 1 Config 1,Ultrabook,2021,2021-09-06,2021-05-27,144500,1.87,1.32,24,32,2048,AMD Ryzen 5,17.3,Windows,Resold
+EC-P00944,ASUS,ExpertBook S 2022 Gen 4 Config 1,Gaming Laptop,2022,2022-05-26,2022-01-31,156500,2.69,2.2,36,32,1024,AMD Ryzen 7,14.0,Windows,Resold
+EC-P00945,Acer,Swift 14 2025 Gen 1 Config 1,Ultrabook,2025,2025-03-11,2024-11-17,138500,1.83,1.61,24,32,512,AMD Ryzen 5,13.3,Windows,Active
+EC-P00946,Razer,Blade 14 14 2024 Gen 2 Config 1,Business Laptop,2024,2024-12-13,2024-08-26,96000,2.35,1.84,36,8,512,Intel Core i9,15.6,Windows,Active
+EC-P00947,Samsung,Galaxy Book Pro S 2024 Gen 3 Config 1,Laptop,2024,2024-02-22,2023-09-29,92500,1.78,1.32,36,32,1024,AMD Ryzen 7,16.0,Windows,Resold
+EC-P00948,HP,EliteBook 14 2024 Gen 4 Config 1,Business Laptop,2024,2024-07-10,2024-06-03,110500,1.78,1.51,12,16,1024,Intel Core i5,15.6,Windows,Active
+EC-P00949,Samsung,Galaxy Book E 2023 Gen 2 Config 1,Laptop,2023,2023-04-26,2022-12-23,108000,2.19,1.91,12,16,2048,Intel Core i7,15.6,Windows,Active
+EC-P00950,Apple,MacBook Air 14 2021 Gen 3 Config 1,Business Laptop,2021,2021-10-17,2021-09-01,91000,2.1,1.5,24,32,256,Apple M3,13.3,macOS,Refurbished
+EC-P00951,Microsoft,Surface Pro 300 2025 Gen 2 Config 1,Gaming Laptop,2025,2025-07-02,2025-03-26,120500,3.07,2.43,24,16,1024,Intel Core i5,14.0,Windows,Resold
+EC-P00952,Razer,Blade 15 S 2024 Gen 4 Config 1,Ultrabook,2024,2024-09-21,2024-06-12,170500,2.26,1.94,24,64,1024,Intel Core i9,14.0,Windows,Refurbished
+EC-P00953,MSI,Prestige 14 2023 Gen 3 Config 1,Business Laptop,2023,2023-03-28,2023-03-12,88000,2.27,1.99,12,8,256,AMD Ryzen 7,17.3,Windows,Resold
+EC-P00954,Dell,Inspiron E 2023 Gen 2 Config 1,Workstation Laptop,2023,2023-06-28,2023-03-24,179000,2.13,1.87,12,16,512,AMD Ryzen 9,13.3,Windows,Active
+EC-P00955,Dell,Vostro X 2023 Gen 1 Config 1,Workstation Laptop,2023,2023-07-13,2023-01-29,113000,1.95,1.53,36,16,256,Intel Core i7,16.0,Windows,Returned
+EC-P00956,Samsung,Galaxy Book 900 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-06-10,2024-04-03,181000,2.65,2.32,12,64,512,AMD Ryzen 9,15.6,Windows,Resold
+EC-P00957,HP,ProBook S 2022 Gen 1 Config 1,Business Laptop,2022,2022-10-03,2022-09-03,107000,2.17,1.48,24,16,512,Intel Core i7,14.0,Windows,Active
+EC-P00958,Dell,Latitude 900 2025 Gen 4 Config 1,Ultrabook,2025,2025-12-03,2025-07-25,145000,1.95,1.51,36,64,1024,AMD Ryzen 5,17.3,Windows,Active
+EC-P00959,Lenovo,ThinkBook X 2024 Gen 3 Config 1,Ultrabook,2024,2024-06-05,2023-12-15,127500,1.94,1.54,12,32,2048,AMD Ryzen 9,17.3,ChromeOS,Active
+EC-P00960,Samsung,Galaxy Book Pro S 2026 Gen 2 Config 1,Laptop,2026,2026-04-15,2026-02-04,144500,1.95,1.35,12,64,256,AMD Ryzen 5,14.0,Windows,Resold
+EC-P00961,Razer,Blade 14 E 2021 Gen 2 Config 1,Business Laptop,2021,2021-06-22,2021-01-09,134500,1.95,1.37,24,16,2048,Intel Core i7,17.3,Windows,Active
+EC-P00962,ASUS,ZenBook S 2025 Gen 2 Config 1,Business Laptop,2025,2025-02-16,2024-08-20,70000,2.09,1.55,24,16,512,Intel Core i7,15.6,Windows,Active
+EC-P00963,Samsung,Galaxy Book G 2022 Gen 3 Config 1,Business Laptop,2022,2022-10-27,2022-05-16,136000,2.19,1.54,24,32,2048,Intel Core i5,15.6,Windows,Active
+EC-P00964,Lenovo,IdeaPad 500 2024 Gen 2 Config 1,Laptop,2024,2024-03-19,2023-10-14,181500,1.92,1.49,24,64,2048,Intel Core i9,17.3,Windows,Resold
+EC-P00965,Microsoft,Surface Laptop 700 2022 Gen 1 Config 1,Laptop,2022,2022-08-20,2022-04-08,51000,1.8,1.24,36,8,512,Intel Core i7,16.0,Windows,Active
+EC-P00966,Microsoft,Surface Pro 15 2023 Gen 2 Config 1,Ultrabook,2023,2023-04-01,2023-01-05,115500,2.14,1.8,12,16,2048,AMD Ryzen 9,14.0,Windows,Recycled
+EC-P00967,Acer,Nitro 500 2026 Gen 3 Config 1,Laptop,2026,2026-12-19,2026-09-06,46000,2.14,1.73,12,16,256,AMD Ryzen 5,14.0,Windows,Returned
+EC-P00968,HP,Pavilion X 2022 Gen 3 Config 1,Workstation Laptop,2022,2022-10-04,2022-08-13,133500,1.8,1.44,12,8,2048,Intel Core i7,14.0,Windows,Active
+EC-P00969,Lenovo,IdeaPad 900 2021 Gen 2 Config 1,Laptop,2021,2021-12-22,2021-11-15,184000,2.18,1.51,36,64,2048,AMD Ryzen 9,16.0,ChromeOS,Active
+EC-P00970,MSI,Prestige 700 2021 Gen 2 Config 1,Laptop,2021,2021-08-08,2021-06-04,154000,1.84,1.52,36,64,512,Intel Core i5,13.3,Windows,Resold
+EC-P00971,Acer,Aspire 14 2023 Gen 2 Config 1,Gaming Laptop,2023,2023-03-25,2022-12-28,137000,3.17,2.65,12,8,512,AMD Ryzen 5,17.3,Windows,Active
+EC-P00972,HP,Pavilion S 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-04-23,2021-01-05,147500,1.8,1.27,36,32,512,Intel Core i7,13.3,ChromeOS,Recycled
+EC-P00973,Apple,MacBook Pro 15 2021 Gen 1 Config 1,Business Laptop,2021,2021-02-05,2020-11-12,156000,1.75,1.22,24,16,2048,Apple M3,15.3,macOS,Active
+EC-P00974,Apple,MacBook Pro E 2025 Gen 4 Config 1,Ultrabook,2025,2025-01-14,2024-11-29,113000,2.15,1.47,24,8,1024,Apple M1,14.2,macOS,Active
+EC-P00975,Lenovo,Yoga S 2022 Gen 4 Config 1,Ultrabook,2022,2022-01-14,2021-11-02,148000,2.43,1.86,36,8,2048,Intel Core i5,17.3,Windows,Active
+EC-P00976,ASUS,VivoBook E 2023 Gen 3 Config 1,Business Laptop,2023,2023-06-13,2023-01-22,60500,1.78,1.25,36,16,1024,AMD Ryzen 9,13.3,Windows,Active
+EC-P00977,Samsung,Galaxy Book Pro A 2024 Gen 1 Config 1,Ultrabook,2024,2024-03-27,2024-01-08,121000,2.33,1.7,12,32,1024,AMD Ryzen 5,15.6,Windows,Active
+EC-P00978,Dell,Latitude S 2021 Gen 1 Config 1,Laptop,2021,2021-02-16,2020-12-22,103500,1.81,1.39,24,8,2048,AMD Ryzen 7,14.0,Windows,Active
+EC-P00979,Dell,Latitude 500 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-02-08,2025-01-11,124000,2.37,1.63,24,8,1024,Intel Core i5,13.3,Windows,Active
+EC-P00980,Acer,TravelMate 300 2021 Gen 3 Config 1,Ultrabook,2021,2021-01-19,2020-09-15,144000,1.88,1.54,12,32,512,AMD Ryzen 7,16.0,ChromeOS,Active
+EC-P00981,Microsoft,Surface Pro G 2024 Gen 4 Config 1,Workstation Laptop,2024,2024-10-13,2024-08-19,100000,2.27,1.91,12,8,256,Intel Core i9,14.0,Windows,Resold
+EC-P00982,Samsung,Galaxy Book Pro G 2024 Gen 4 Config 1,Business Laptop,2024,2024-05-13,2024-01-13,95000,2.14,1.46,12,16,512,Intel Core i5,13.3,Windows,Active
+EC-P00983,ASUS,ExpertBook 14 2026 Gen 1 Config 1,Laptop,2026,2026-10-08,2026-05-07,142500,2.4,1.65,24,64,2048,Intel Core i5,17.3,Windows,Refurbished
+EC-P00984,Microsoft,Surface Laptop 14 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-05-21,2025-12-04,118000,2.0,1.56,36,32,512,Intel Core i5,13.3,Windows,Resold
+EC-P00985,MSI,Katana X 2025 Gen 2 Config 1,Laptop,2025,2025-07-13,2025-06-03,92500,2.14,1.78,12,8,2048,Intel Core i7,16.0,Windows,Active
+EC-P00986,Samsung,Galaxy Book Pro X 2021 Gen 4 Config 1,Workstation Laptop,2021,2021-10-10,2021-04-29,152000,2.11,1.84,36,32,2048,Intel Core i9,14.0,Windows,Active
+EC-P00987,HP,ZBook 500 2021 Gen 3 Config 1,Business Laptop,2021,2021-03-04,2021-01-26,70000,1.7,1.31,36,8,512,AMD Ryzen 5,14.0,Windows,Active
+EC-P00988,Lenovo,ThinkPad 15 2026 Gen 3 Config 1,Laptop,2026,2026-10-17,2026-05-06,103500,2.05,1.65,36,16,1024,AMD Ryzen 7,13.3,ChromeOS,Active
+EC-P00989,Lenovo,ThinkPad X 2021 Gen 1 Config 1,Workstation Laptop,2021,2021-03-25,2021-02-08,127000,2.29,1.7,12,8,256,AMD Ryzen 7,15.6,Windows,Active
+EC-P00990,Apple,MacBook Air X 2025 Gen 3 Config 1,Gaming Laptop,2025,2025-03-27,2025-01-23,137500,2.32,1.8,12,8,256,Apple M1,14.2,macOS,Active
+EC-P00991,HP,Pavilion G 2025 Gen 1 Config 1,Laptop,2025,2025-03-15,2024-11-20,107500,2.18,1.73,36,32,512,Intel Core i7,16.0,Windows,Active
+EC-P00992,Samsung,Galaxy Book 300 2023 Gen 3 Config 1,Business Laptop,2023,2023-11-08,2023-09-09,125500,1.89,1.47,36,64,256,AMD Ryzen 9,13.3,Windows,Active
+EC-P00993,Microsoft,Surface Laptop G 2023 Gen 3 Config 1,Laptop,2023,2023-12-21,2023-09-25,100500,1.81,1.45,24,16,1024,AMD Ryzen 5,16.0,Windows,Resold
+EC-P00994,MSI,Prestige 900 2025 Gen 3 Config 1,Workstation Laptop,2025,2025-07-05,2025-05-11,131500,1.79,1.42,12,32,512,AMD Ryzen 5,16.0,Windows,Recycled
+EC-P00995,Apple,MacBook Air G 2026 Gen 3 Config 1,Workstation Laptop,2026,2026-10-02,2026-05-29,147000,1.92,1.57,12,8,512,Apple M3,14.2,macOS,Active
+EC-P00996,ASUS,TUF 700 2024 Gen 4 Config 1,Workstation Laptop,2024,2024-12-08,2024-08-24,89500,1.76,1.49,36,8,256,AMD Ryzen 7,13.3,Windows,Returned
+EC-P00997,Razer,Blade 14 G 2022 Gen 1 Config 1,Business Laptop,2022,2022-06-18,2022-01-24,61000,2.37,1.63,24,8,1024,Intel Core i7,16.0,Windows,Active
+EC-P00998,Apple,MacBook Air E 2022 Gen 3 Config 1,Ultrabook,2022,2022-12-10,2022-09-16,142500,1.94,1.57,12,32,256,Apple M2,14.2,macOS,Active
+EC-P00999,Razer,Blade 15 500 2024 Gen 4 Config 1,Gaming Laptop,2024,2024-12-01,2024-08-06,157500,2.85,1.96,36,16,1024,AMD Ryzen 9,17.3,Windows,Active
+EC-P01000,Microsoft,Surface Laptop A 2021 Gen 1 Config 1,Gaming Laptop,2021,2021-07-20,2021-02-18,136500,2.88,2.5,36,16,1024,Intel Core i9,13.3,Windows,Returned
