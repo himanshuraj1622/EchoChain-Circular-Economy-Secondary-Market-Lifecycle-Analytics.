@@ -243,10 +243,11 @@ DAX Measures
 Interactive Dashboard
       ↓
 Circular Economy Insights
+```
 
+# 📊 Dashboard Development
 
 ---
-# 📊 Dashboard Development
 
 # 📄 Page 1 — Executive Overview
 
@@ -279,7 +280,7 @@ The dashboard enables sustainability and product strategy stakeholders to quickl
 
 ## 🎯 Dashboard Objective
 
-The **Secondary Market Performance Dashboard** focuses on the post-sale market activity of products and individual components.
+The **Secondary Market Performance Dashboard** focuses on post-sale market activity across products and individual components.
 
 It provides insights into secondary-market listings, component sales, customer demand, listing prices, and selling speed. This helps identify components with strong resale potential and supports data-driven refurbishment and buy-back strategies.
 
@@ -334,9 +335,9 @@ Developed the **EchoChain Power BI Analytics Dashboard** to consolidate product,
 
 The dashboard combines multiple project datasets to provide a unified view of **post-sale product intelligence, circularity, recovery, and secondary-market performance**.
 
-### Key Features
+### 🔑 Key Features
 
-**📌 Executive Overview**
+#### 📌 Executive Overview
 
 - Total Products
 - Total Warranty Claims
@@ -347,33 +348,34 @@ The dashboard combines multiple project datasets to provide a unified view of **
 - Landfill Diversion %
 - Recovery Score
 
-**📊 Circular Economy Analysis**
+#### ♻️ Circular Economy Analysis
 
 - Refurbishment Opportunity by Product Category
 - Post-Sale Lifecycle Distribution
 - Recovered Value by Lifecycle Status
 
-**🛒 Secondary Market Analysis**
+#### 🛒 Secondary Market Analysis
 
 - Market Listings vs Sales by Component
 - Average Demand Score by Component
 - Average Listing Price by Component
 - Average Days to Sell by Component
 
-**📈 Analytical Enhancements**
+#### 📈 Analytical Enhancements
 
 - Component-level ranking
 - Top-N analysis for high-value components
 - Sorting and filtering of analytical visuals
 - Blank-value handling
 - KPI formatting and consistency
-- Executive-focused dashboard layout and visual hierarchy
+- Executive-focused dashboard layout
+- Consistent visual hierarchy and EchoChain branding
 
 ---
 
 ## 🎯 Business Outcome
 
-The EchoChain dashboard enables sustainability and product strategy teams to:
+The **EchoChain Dashboard** enables sustainability and product strategy teams to:
 
 - Gain a centralized view of post-sale product performance.
 - Measure overall product circularity and recovery performance.
@@ -385,5 +387,34 @@ The EchoChain dashboard enables sustainability and product strategy teams to:
 - Compare market listings with actual component sales.
 - Identify opportunities for refurbishment and buy-back programs.
 - Monitor landfill diversion and recovered value.
+- Support data-driven circular economy strategies.
+- Reduce manual analysis by consolidating multiple post-sale data sources into a single interactive dashboard.
+
+---
+
+# 📅 Development Timeline
+
+### Week 1 — Data Preparation & Databricks Setup
+
+- Finalized the EchoChain problem statement and use case.
+- Generated five project-specific CSV datasets.
+- Reviewed dataset structure, columns, relationships, and business relevance.
+- Created and configured the Databricks workspace.
+- Created the EchoChain schema.
+- Imported project datasets into Databricks.
+- Created and verified Delta Lake tables.
+- Performed initial data validation using SQL queries.
+
+### Week 2 — Analytics & Power BI Dashboard Development
+
+- Connected the EchoChain data environment with Power BI.
+- Configured project tables and data relationships.
+- Created and validated analytical measures.
+- Developed the Executive Overview dashboard.
+- Developed the Secondary Market Performance dashboard.
+- Created KPI cards and analytical visualizations.
+- Implemented component-level ranking and Top-N analysis.
+- Applied filtering and blank-value handling.
+- Refined dashboard spacing, alignment, formatting, and visual consistency.
 - Support data-driven circular economy strategies.
 - Reduce manual analysis by consolidating multiple post-sale data sources into a single interactive dashboard.
