@@ -245,9 +245,8 @@ Interactive Dashboard
 Circular Economy Insights
 
 
-# 📊 Dashboard Development
-
 ---
+# 📊 Dashboard Development
 
 # 📄 Page 1 — Executive Overview
 
